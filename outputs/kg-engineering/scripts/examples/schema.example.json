@@ -1,0 +1,18 @@
+{
+  "classes": [
+    {"name": "Disease", "parent": "", "identity": "disease_id", "required": ["name"]},
+    {"name": "Symptom", "parent": "", "identity": "symptom_id", "required": ["name"]},
+    {"name": "Drug", "parent": "", "identity": "drug_id", "required": ["name"]},
+    {"name": "InfectiousDisease", "parent": "Disease", "identity": "disease_id", "required": ["name", "pathogen"]}
+  ],
+  "relations": [
+    {"name": "has_symptom", "domain": "Disease", "range": "Symptom", "cardinality": "N"},
+    {"name": "treated_by", "domain": "Disease", "range": "Drug", "cardinality": "N"},
+    {"name": "caused_by", "domain": "InfectiousDisease", "range": "Disease", "cardinality": "1"}
+  ],
+  "competency_questions": [
+    {"q": "某疾病有哪些症状？", "path": ["Disease", "has_symptom", "Symptom"]},
+    {"q": "某疾病用什么药？", "path": ["Disease", "treated_by", "Drug"]},
+    {"q": "某传染病由什么引起？", "path": ["InfectiousDisease", "caused_by", "Disease"]}
+  ]
+}

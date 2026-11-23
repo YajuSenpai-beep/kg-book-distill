@@ -1,0 +1,2181 @@
+{
+  "nodes": [
+    {
+      "id": "T-LINK",
+      "type": "Task",
+      "label": "链接预测/知识图谱补全"
+    },
+    {
+      "id": "T-TRIPLE",
+      "type": "Task",
+      "label": "三元组分类"
+    },
+    {
+      "id": "T-RE",
+      "type": "Task",
+      "label": "关系抽取"
+    },
+    {
+      "id": "T-EA",
+      "type": "Task",
+      "label": "实体对齐"
+    },
+    {
+      "id": "T-KGQA",
+      "type": "Task",
+      "label": "知识图谱问答"
+    },
+    {
+      "id": "T-QUERY",
+      "type": "Task",
+      "label": "多跳逻辑查询"
+    },
+    {
+      "id": "T-NODE",
+      "type": "Task",
+      "label": "节点分类"
+    },
+    {
+      "id": "T-COMM",
+      "type": "Task",
+      "label": "社区发现"
+    },
+    {
+      "id": "T-SEMEME",
+      "type": "Task",
+      "label": "义原预测"
+    },
+    {
+      "id": "T-LEX",
+      "type": "Task",
+      "label": "词典扩展"
+    },
+    {
+      "id": "T-EVENT",
+      "type": "Task",
+      "label": "事件抽取"
+    },
+    {
+      "id": "T-MM",
+      "type": "Task",
+      "label": "多模态任务"
+    },
+    {
+      "id": "T-LM",
+      "type": "Task",
+      "label": "语言模型"
+    },
+    {
+      "id": "T-TITLE",
+      "type": "Task",
+      "label": "标题生成"
+    },
+    {
+      "id": "T-ENTITYTYPE",
+      "type": "Task",
+      "label": "实体类型分类"
+    },
+    {
+      "id": "T-RETRIEVAL",
+      "type": "Task",
+      "label": "检索排序"
+    },
+    {
+      "id": "T-PRETRAIN",
+      "type": "Task",
+      "label": "知识增强预训练"
+    },
+    {
+      "id": "T-REC",
+      "type": "Task",
+      "label": "推荐"
+    },
+    {
+      "id": "M-TransE",
+      "type": "Method",
+      "label": "TransE",
+      "aliases": [
+        "TransE"
+      ],
+      "point_id": "A-05-04-24",
+      "book": "A",
+      "page": "p.150"
+    },
+    {
+      "id": "M-TransH",
+      "type": "Method",
+      "label": "TransH",
+      "aliases": [
+        "TransH"
+      ],
+      "point_id": "A-05-04-51",
+      "book": "A",
+      "page": "p.152-153"
+    },
+    {
+      "id": "M-TransR",
+      "type": "Method",
+      "label": "TransR",
+      "aliases": [
+        "TransR"
+      ],
+      "point_id": "B-02-03-13",
+      "book": "B",
+      "page": "p.38-39"
+    },
+    {
+      "id": "M-CTransR",
+      "type": "Method",
+      "label": "CTransR",
+      "aliases": [
+        "CTransR"
+      ],
+      "point_id": "B-02-03-14",
+      "book": "B",
+      "page": "p.39"
+    },
+    {
+      "id": "M-PTransE",
+      "type": "Method",
+      "label": "PTransE",
+      "aliases": [
+        "PTransE"
+      ],
+      "point_id": "B-02-04-18",
+      "book": "B",
+      "page": "p.45-46"
+    },
+    {
+      "id": "M-TransD",
+      "type": "Method",
+      "label": "TransD",
+      "aliases": [
+        "TransD"
+      ],
+      "point_id": "A-05-04-52",
+      "book": "A",
+      "page": "p.153"
+    },
+    {
+      "id": "M-TransG",
+      "type": "Method",
+      "label": "TransG",
+      "aliases": [
+        "TransG"
+      ],
+      "point_id": "B-02-02-53",
+      "book": "B",
+      "page": "p.37"
+    },
+    {
+      "id": "M-KG2E",
+      "type": "Method",
+      "label": "KG2E",
+      "aliases": [
+        "KG2E"
+      ],
+      "point_id": "B-02-02-53",
+      "book": "B",
+      "page": "p.37"
+    },
+    {
+      "id": "M-ManifoldE",
+      "type": "Method",
+      "label": "ManifoldE",
+      "aliases": [
+        "ManifoldE"
+      ],
+      "point_id": "B-02-02-53",
+      "book": "B",
+      "page": "p.37"
+    },
+    {
+      "id": "M-RESCAL",
+      "type": "Method",
+      "label": "RESCAL",
+      "aliases": [
+        "RESCAL"
+      ],
+      "point_id": "B-02-02-07",
+      "book": "B",
+      "page": "p.34-35"
+    },
+    {
+      "id": "M-HolE",
+      "type": "Method",
+      "label": "HolE",
+      "aliases": [
+        "HolE"
+      ],
+      "point_id": "B-02-02-07",
+      "book": "B",
+      "page": "p.34-35"
+    },
+    {
+      "id": "M-DistMult",
+      "type": "Method",
+      "label": "DistMult",
+      "aliases": [
+        "DistMult"
+      ],
+      "point_id": "A-02-04-23",
+      "book": "A",
+      "page": "p.54"
+    },
+    {
+      "id": "M-ComplEx",
+      "type": "Method",
+      "label": "ComplEx",
+      "aliases": [
+        "ComplEx"
+      ],
+      "point_id": "A-05-04-28",
+      "book": "A",
+      "page": "p.151-152"
+    },
+    {
+      "id": "M-RotatE",
+      "type": "Method",
+      "label": "RotatE",
+      "aliases": [
+        "RotatE"
+      ],
+      "point_id": "A-05-04-30",
+      "book": "A",
+      "page": "p.153-154"
+    },
+    {
+      "id": "M-SE",
+      "type": "Method",
+      "label": "SE",
+      "aliases": [
+        "结构嵌入",
+        "SE 模型"
+      ],
+      "point_id": "B-05-04-12",
+      "book": "B",
+      "page": "p.172-178"
+    },
+    {
+      "id": "M-SME",
+      "type": "Method",
+      "label": "SME",
+      "aliases": [
+        "SME"
+      ],
+      "point_id": "B-02-02-05",
+      "book": "B",
+      "page": "p.34"
+    },
+    {
+      "id": "M-LFM",
+      "type": "Method",
+      "label": "LFM",
+      "aliases": [
+        "LFM"
+      ],
+      "point_id": "B-02-02-06",
+      "book": "B",
+      "page": "p.34"
+    },
+    {
+      "id": "M-NTN",
+      "type": "Method",
+      "label": "NTN",
+      "aliases": [
+        "NTN"
+      ],
+      "point_id": "B-02-02-56",
+      "book": "B",
+      "page": "p.35"
+    },
+    {
+      "id": "M-KALE",
+      "type": "Method",
+      "label": "KALE",
+      "aliases": [
+        "KALE"
+      ],
+      "point_id": "A-05-04-54",
+      "book": "A",
+      "page": "p.137"
+    },
+    {
+      "id": "M-KR-EAR",
+      "type": "Method",
+      "label": "KR-EAR",
+      "aliases": [
+        "KR-EAR"
+      ],
+      "point_id": "B-02-05-24",
+      "book": "B",
+      "page": "p.53-54"
+    },
+    {
+      "id": "M-DKRL",
+      "type": "Method",
+      "label": "DKRL",
+      "aliases": [
+        "DKRL"
+      ],
+      "point_id": "B-02-06-51",
+      "book": "B",
+      "page": "p.59"
+    },
+    {
+      "id": "M-TKRL",
+      "type": "Method",
+      "label": "TKRL",
+      "aliases": [
+        "TKRL"
+      ],
+      "point_id": "B-02-07-36",
+      "book": "B",
+      "page": "p.71-76"
+    },
+    {
+      "id": "M-IKRL",
+      "type": "Method",
+      "label": "IKRL",
+      "aliases": [
+        "IKRL"
+      ],
+      "point_id": "B-02-08-40",
+      "book": "B",
+      "page": "p.78-82"
+    },
+    {
+      "id": "M-PRA",
+      "type": "Method",
+      "label": "PRA",
+      "aliases": [
+        "PRA"
+      ],
+      "point_id": "A-05-04-55",
+      "book": "A",
+      "page": "p.133-135"
+    },
+    {
+      "id": "M-AMIE",
+      "type": "Method",
+      "label": "AMIE",
+      "aliases": [
+        "AMIE"
+      ],
+      "point_id": "A-05-04-56",
+      "book": "A",
+      "page": "p.162-164"
+    },
+    {
+      "id": "M-BetaE",
+      "type": "Method",
+      "label": "BetaE",
+      "aliases": [
+        "BetaE"
+      ],
+      "point_id": "A-05-04-31",
+      "book": "A",
+      "page": "p.154"
+    },
+    {
+      "id": "M-NeuralLP",
+      "type": "Method",
+      "label": "NeuralLP",
+      "aliases": [
+        "NeuralLP"
+      ],
+      "point_id": "A-05-04-57",
+      "book": "A",
+      "page": "p.164-166"
+    },
+    {
+      "id": "M-IterE",
+      "type": "Method",
+      "label": "IterE",
+      "aliases": [
+        "IterE"
+      ],
+      "point_id": "A-05-04-41",
+      "book": "A",
+      "page": "p.167-169"
+    },
+    {
+      "id": "M-MINERVA",
+      "type": "Method",
+      "label": "MINERVA",
+      "aliases": [
+        "MINERVA"
+      ],
+      "point_id": "A-05-04-32",
+      "book": "A",
+      "page": "p.154-155"
+    },
+    {
+      "id": "M-CNN",
+      "type": "Method",
+      "label": "CNN",
+      "aliases": [
+        "CNN"
+      ],
+      "point_id": "A-04-03-24",
+      "book": "A",
+      "page": "p.100-101"
+    },
+    {
+      "id": "M-PCNN",
+      "type": "Method",
+      "label": "PCNN",
+      "aliases": [
+        "PCNN"
+      ],
+      "point_id": "A-04-03-61",
+      "book": "A",
+      "page": "p.101"
+    },
+    {
+      "id": "M-HATT",
+      "type": "Method",
+      "label": "HATT",
+      "aliases": [
+        "HATT"
+      ],
+      "point_id": "B-03-04-10",
+      "book": "B",
+      "page": "p.96-98"
+    },
+    {
+      "id": "M-MNRE",
+      "type": "Method",
+      "label": "MNRE",
+      "aliases": [
+        "MNRE"
+      ],
+      "point_id": "B-03-05-54",
+      "book": "B",
+      "page": "p.103-104"
+    },
+    {
+      "id": "M-KATT",
+      "type": "Method",
+      "label": "KATT",
+      "aliases": [
+        "KATT"
+      ],
+      "point_id": "B-03-07-61",
+      "book": "B",
+      "page": "p.122-125"
+    },
+    {
+      "id": "M-SATT",
+      "type": "Method",
+      "label": "SATT",
+      "aliases": [
+        "SATT"
+      ],
+      "point_id": "B-03-07-62",
+      "book": "B",
+      "page": "p.125-128"
+    },
+    {
+      "id": "M-MTransE",
+      "type": "Method",
+      "label": "MTransE",
+      "aliases": [
+        "MTransE"
+      ],
+      "point_id": "A-06-03-17",
+      "book": "A",
+      "page": "p.195"
+    },
+    {
+      "id": "M-IPTransE",
+      "type": "Method",
+      "label": "IPTransE",
+      "aliases": [
+        "IPTransE",
+        "ITransE"
+      ],
+      "point_id": "A-06-03-18",
+      "book": "A",
+      "page": "p.195-196"
+    },
+    {
+      "id": "M-KNET",
+      "type": "Method",
+      "label": "KNET",
+      "aliases": [
+        "KNET"
+      ],
+      "point_id": "B-04-02-03",
+      "book": "B",
+      "page": "p.133-135"
+    },
+    {
+      "id": "M-EDRM",
+      "type": "Method",
+      "label": "EDRM",
+      "aliases": [
+        "EDRM"
+      ],
+      "point_id": "B-04-04-14",
+      "book": "B",
+      "page": "p.156-157"
+    },
+    {
+      "id": "M-GCN",
+      "type": "Method",
+      "label": "GCN",
+      "aliases": [
+        "GCN"
+      ],
+      "point_id": "A-08-03-31",
+      "book": "A",
+      "page": "p.266-267"
+    },
+    {
+      "id": "M-GAT",
+      "type": "Method",
+      "label": "GAT",
+      "aliases": [
+        "GAT"
+      ],
+      "point_id": "A-08-03-33",
+      "book": "A",
+      "page": "p.268"
+    },
+    {
+      "id": "M-GraphSAGE",
+      "type": "Method",
+      "label": "GraphSAGE",
+      "aliases": [
+        "GraphSAGE"
+      ],
+      "point_id": "A-08-03-34",
+      "book": "A",
+      "page": "p.268-269"
+    },
+    {
+      "id": "M-RGCN",
+      "type": "Method",
+      "label": "R-GCN",
+      "aliases": [
+        "R-GCN",
+        "RGCN"
+      ],
+      "point_id": "A-08-04-39",
+      "book": "A",
+      "page": "p.275-276"
+    },
+    {
+      "id": "M-CompGCN",
+      "type": "Method",
+      "label": "CompGCN",
+      "aliases": [
+        "CompGCN",
+        "COMPGCN"
+      ],
+      "point_id": "A-08-04-40",
+      "book": "A",
+      "page": "p.277-278"
+    },
+    {
+      "id": "M-RDGCN",
+      "type": "Method",
+      "label": "RDGCN",
+      "aliases": [
+        "RDGCN"
+      ],
+      "point_id": "A-08-04-42",
+      "book": "A",
+      "page": "p.279-280"
+    },
+    {
+      "id": "M-ExpressGNN",
+      "type": "Method",
+      "label": "ExpressGNN",
+      "aliases": [
+        "ExpressGNN"
+      ],
+      "point_id": "A-08-04-41",
+      "book": "A",
+      "page": "p.278"
+    },
+    {
+      "id": "M-SPWE",
+      "type": "Method",
+      "label": "SPWE",
+      "aliases": [
+        "SPWE"
+      ],
+      "point_id": "B-06-03-05",
+      "book": "B",
+      "page": "p.181-182"
+    },
+    {
+      "id": "M-SPSE",
+      "type": "Method",
+      "label": "SPSE",
+      "aliases": [
+        "SPSE"
+      ],
+      "point_id": "B-06-03-43",
+      "book": "B",
+      "page": "p.182-183"
+    },
+    {
+      "id": "M-SPASE",
+      "type": "Method",
+      "label": "SPASE",
+      "aliases": [
+        "SPASE"
+      ],
+      "point_id": "B-06-03-45",
+      "book": "B",
+      "page": "p.183-184"
+    },
+    {
+      "id": "M-SPWCF",
+      "type": "Method",
+      "label": "SPWCF",
+      "aliases": [
+        "SPWCF"
+      ],
+      "point_id": "B-06-04-11",
+      "book": "B",
+      "page": "p.189-190"
+    },
+    {
+      "id": "M-SPCSE",
+      "type": "Method",
+      "label": "SPCSE",
+      "aliases": [
+        "SPCSE"
+      ],
+      "point_id": "B-06-04-48",
+      "book": "B",
+      "page": "p.190-191"
+    },
+    {
+      "id": "M-CSP",
+      "type": "Method",
+      "label": "CSP",
+      "aliases": [
+        "CSP"
+      ],
+      "point_id": "B-06-04-61",
+      "book": "B",
+      "page": "p.191-192"
+    },
+    {
+      "id": "M-CLSP",
+      "type": "Method",
+      "label": "CLSP",
+      "aliases": [
+        "CLSP"
+      ],
+      "point_id": "B-06-05-16",
+      "book": "B",
+      "page": "p.197-198"
+    },
+    {
+      "id": "M-HD",
+      "type": "Method",
+      "label": "HD",
+      "aliases": [
+        "层次解码器 HD",
+        "HD 模型"
+      ],
+      "point_id": "B-07-02-03",
+      "book": "B",
+      "page": "p.211-213"
+    },
+    {
+      "id": "M-HDSA",
+      "type": "Method",
+      "label": "HDSA",
+      "aliases": [
+        "HDSA"
+      ],
+      "point_id": "B-07-02-04",
+      "book": "B",
+      "page": "p.213-215"
+    },
+    {
+      "id": "M-SDLM",
+      "type": "Method",
+      "label": "SDLM",
+      "aliases": [
+        "SDLM"
+      ],
+      "point_id": "B-07-03-07",
+      "book": "B",
+      "page": "p.223-224"
+    },
+    {
+      "id": "M-PKGM",
+      "type": "Method",
+      "label": "PKGM",
+      "aliases": [
+        "PKGM"
+      ],
+      "point_id": "A-09-05-25",
+      "book": "A",
+      "page": "p.334-335"
+    },
+    {
+      "id": "M-LSTM",
+      "type": "Method",
+      "label": "LSTM",
+      "aliases": [
+        "LSTM"
+      ],
+      "point_id": "A-04-02-15",
+      "book": "A",
+      "page": "p.93-94"
+    },
+    {
+      "id": "M-BERT",
+      "type": "Method",
+      "label": "BERT",
+      "aliases": [
+        "BERT"
+      ],
+      "point_id": "A-04-03-26",
+      "book": "A",
+      "page": "p.102"
+    },
+    {
+      "id": "M-KEPLER",
+      "type": "Method",
+      "label": "KEPLER",
+      "aliases": [
+        "KEPLER"
+      ],
+      "point_id": "A-09-02-44",
+      "book": "A",
+      "page": "p.306-307"
+    },
+    {
+      "id": "M-ERNIE",
+      "type": "Method",
+      "label": "ERNIE",
+      "aliases": [
+        "ERNIE"
+      ],
+      "point_id": "A-09-02-41",
+      "book": "A",
+      "page": "p.303-305"
+    },
+    {
+      "id": "M-K-Adapter",
+      "type": "Method",
+      "label": "K-Adapter",
+      "aliases": [
+        "K-Adapter",
+        "K-ADAPTER"
+      ],
+      "point_id": "A-09-02-12",
+      "book": "A",
+      "page": "p.307-308"
+    },
+    {
+      "id": "M-WKLM",
+      "type": "Method",
+      "label": "WKLM",
+      "aliases": [
+        "WKLM"
+      ],
+      "point_id": "A-09-02-43",
+      "book": "A",
+      "page": "p.305-306"
+    },
+    {
+      "id": "M-KnowBERT",
+      "type": "Method",
+      "label": "KnowBERT",
+      "aliases": [
+        "KnowBERT"
+      ],
+      "point_id": "A-09-02-42",
+      "book": "A",
+      "page": "p.305"
+    },
+    {
+      "id": "DS-FB15K",
+      "type": "Dataset",
+      "label": "FB15K",
+      "aliases": [
+        "FB15K"
+      ]
+    },
+    {
+      "id": "DS-FB24K",
+      "type": "Dataset",
+      "label": "FB24K",
+      "aliases": [
+        "FB24K"
+      ]
+    },
+    {
+      "id": "DS-FB20K",
+      "type": "Dataset",
+      "label": "FB20K",
+      "aliases": [
+        "FB20K"
+      ]
+    },
+    {
+      "id": "DS-FB15KPLUS",
+      "type": "Dataset",
+      "label": "FB15K+",
+      "aliases": [
+        "FB15K+"
+      ]
+    },
+    {
+      "id": "DS-FB60K",
+      "type": "Dataset",
+      "label": "FB60K",
+      "aliases": [
+        "FB60K"
+      ]
+    },
+    {
+      "id": "DS-FB13",
+      "type": "Dataset",
+      "label": "FB13",
+      "aliases": [
+        "FB13"
+      ]
+    },
+    {
+      "id": "DS-WN18",
+      "type": "Dataset",
+      "label": "WN18",
+      "aliases": [
+        "WN18"
+      ]
+    },
+    {
+      "id": "DS-WN11",
+      "type": "Dataset",
+      "label": "WN11",
+      "aliases": [
+        "WN11"
+      ]
+    },
+    {
+      "id": "DS-NYT",
+      "type": "Dataset",
+      "label": "NYT",
+      "aliases": [
+        "NYT"
+      ]
+    },
+    {
+      "id": "DS-DFB1",
+      "type": "Dataset",
+      "label": "DFB-1",
+      "aliases": [
+        "DFB-1"
+      ]
+    },
+    {
+      "id": "DS-DFB3",
+      "type": "Dataset",
+      "label": "DFB-3",
+      "aliases": [
+        "DFB-3"
+      ]
+    },
+    {
+      "id": "DS-DFB4",
+      "type": "Dataset",
+      "label": "DFB-4",
+      "aliases": [
+        "DFB-4"
+      ]
+    },
+    {
+      "id": "DS-SEMEVAL07",
+      "type": "Dataset",
+      "label": "SemEval-2007",
+      "aliases": [
+        "SemEval2007",
+        "SemEval-2007"
+      ]
+    },
+    {
+      "id": "DS-WORDSIM240",
+      "type": "Dataset",
+      "label": "Wordsim240",
+      "aliases": [
+        "Wordsim240",
+        "Wordsim 240"
+      ]
+    },
+    {
+      "id": "DS-HOWNET",
+      "type": "Dataset",
+      "label": "HowNet",
+      "aliases": [
+        "HowNet",
+        "知网"
+      ]
+    },
+    {
+      "id": "DS-LIWC",
+      "type": "Dataset",
+      "label": "LIWC",
+      "aliases": [
+        "LIWC"
+      ]
+    },
+    {
+      "id": "DS-LCSTS",
+      "type": "Dataset",
+      "label": "LCSTS",
+      "aliases": [
+        "LCSTS"
+      ]
+    },
+    {
+      "id": "DS-SQUAD",
+      "type": "Dataset",
+      "label": "SQuAD",
+      "aliases": [
+        "SQuAD"
+      ]
+    },
+    {
+      "id": "DS-WEBQUESTIONS",
+      "type": "Dataset",
+      "label": "WebQuestions",
+      "aliases": [
+        "WebQuestions"
+      ]
+    },
+    {
+      "id": "DS-SIMPLEQUESTIONS",
+      "type": "Dataset",
+      "label": "SimpleQuestions",
+      "aliases": [
+        "SimpleQuestions"
+      ]
+    },
+    {
+      "id": "DS-METAQA",
+      "type": "Dataset",
+      "label": "MetaQA",
+      "aliases": [
+        "MetaQA"
+      ]
+    },
+    {
+      "id": "DS-QALD",
+      "type": "Dataset",
+      "label": "QALD",
+      "aliases": [
+        "QALD"
+      ]
+    },
+    {
+      "id": "DS-YAGO",
+      "type": "Dataset",
+      "label": "YAGO",
+      "aliases": [
+        "YAGO"
+      ]
+    },
+    {
+      "id": "DS-DBPEDIA",
+      "type": "Dataset",
+      "label": "DBpedia",
+      "aliases": [
+        "DBpedia"
+      ]
+    },
+    {
+      "id": "DS-FREEBASE",
+      "type": "Dataset",
+      "label": "Freebase",
+      "aliases": [
+        "Freebase"
+      ]
+    },
+    {
+      "id": "DS-WIKIDATA",
+      "type": "Dataset",
+      "label": "Wikidata",
+      "aliases": [
+        "Wikidata"
+      ]
+    },
+    {
+      "id": "MT-MR",
+      "type": "Metric",
+      "label": "MR",
+      "aliases": [
+        "MR",
+        "平均排名"
+      ]
+    },
+    {
+      "id": "MT-MRR",
+      "type": "Metric",
+      "label": "MRR",
+      "aliases": [
+        "MRR"
+      ]
+    },
+    {
+      "id": "MT-HIT1",
+      "type": "Metric",
+      "label": "Hit@1",
+      "aliases": [
+        "Hit@1",
+        "Hits@1",
+        "一命中率"
+      ]
+    },
+    {
+      "id": "MT-HIT10",
+      "type": "Metric",
+      "label": "Hit@10",
+      "aliases": [
+        "Hit@10",
+        "Hits@10",
+        "十命中率"
+      ]
+    },
+    {
+      "id": "MT-PN",
+      "type": "Metric",
+      "label": "P@N",
+      "aliases": [
+        "P@N",
+        "P@100",
+        "P@200",
+        "P@300"
+      ]
+    },
+    {
+      "id": "MT-MAP",
+      "type": "Metric",
+      "label": "MAP",
+      "aliases": [
+        "MAP",
+        "平均精度均值"
+      ]
+    },
+    {
+      "id": "MT-MICROF1",
+      "type": "Metric",
+      "label": "Micro-F1",
+      "aliases": [
+        "Micro-F1"
+      ]
+    },
+    {
+      "id": "MT-MACROF1",
+      "type": "Metric",
+      "label": "Macro-F1",
+      "aliases": [
+        "Macro-F1"
+      ]
+    },
+    {
+      "id": "MT-NDCG",
+      "type": "Metric",
+      "label": "NDCG",
+      "aliases": [
+        "NDCG"
+      ]
+    },
+    {
+      "id": "MT-AUC",
+      "type": "Metric",
+      "label": "AUC",
+      "aliases": [
+        "AUC"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "source": "M-TransE",
+      "target": "T-LINK",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-TransE",
+      "target": "T-TRIPLE",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-TransH",
+      "target": "T-LINK",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-TransR",
+      "target": "T-LINK",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-TransR",
+      "target": "T-TRIPLE",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-CTransR",
+      "target": "T-LINK",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-PTransE",
+      "target": "T-LINK",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-PTransE",
+      "target": "T-RE",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-TransD",
+      "target": "T-LINK",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-TransG",
+      "target": "T-LINK",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-KG2E",
+      "target": "T-LINK",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-ManifoldE",
+      "target": "T-LINK",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-RESCAL",
+      "target": "T-LINK",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-HolE",
+      "target": "T-LINK",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-DistMult",
+      "target": "T-LINK",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-ComplEx",
+      "target": "T-LINK",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-RotatE",
+      "target": "T-LINK",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-SE",
+      "target": "T-LINK",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-SME",
+      "target": "T-LINK",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-LFM",
+      "target": "T-LINK",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-NTN",
+      "target": "T-LINK",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-NTN",
+      "target": "T-TRIPLE",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-KALE",
+      "target": "T-LINK",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-KR-EAR",
+      "target": "T-LINK",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-DKRL",
+      "target": "T-LINK",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-DKRL",
+      "target": "T-ENTITYTYPE",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-TKRL",
+      "target": "T-LINK",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-IKRL",
+      "target": "T-LINK",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-PRA",
+      "target": "T-LINK",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-AMIE",
+      "target": "T-LINK",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-BetaE",
+      "target": "T-LINK",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-BetaE",
+      "target": "T-QUERY",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-NeuralLP",
+      "target": "T-LINK",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-IterE",
+      "target": "T-LINK",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-MINERVA",
+      "target": "T-LINK",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-MINERVA",
+      "target": "T-QUERY",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-CNN",
+      "target": "T-RE",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-PCNN",
+      "target": "T-RE",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-HATT",
+      "target": "T-RE",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-MNRE",
+      "target": "T-RE",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-KATT",
+      "target": "T-RE",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-SATT",
+      "target": "T-RE",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-MTransE",
+      "target": "T-EA",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-IPTransE",
+      "target": "T-EA",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-IPTransE",
+      "target": "T-LINK",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-KNET",
+      "target": "T-ENTITYTYPE",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-EDRM",
+      "target": "T-RETRIEVAL",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-GCN",
+      "target": "T-NODE",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-GCN",
+      "target": "T-LINK",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-GAT",
+      "target": "T-NODE",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-GAT",
+      "target": "T-LINK",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-GraphSAGE",
+      "target": "T-NODE",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-GraphSAGE",
+      "target": "T-LINK",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-RGCN",
+      "target": "T-NODE",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-RGCN",
+      "target": "T-LINK",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-CompGCN",
+      "target": "T-NODE",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-CompGCN",
+      "target": "T-LINK",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-RDGCN",
+      "target": "T-EA",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-ExpressGNN",
+      "target": "T-LINK",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-SPWE",
+      "target": "T-SEMEME",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-SPSE",
+      "target": "T-SEMEME",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-SPASE",
+      "target": "T-SEMEME",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-SPWCF",
+      "target": "T-SEMEME",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-SPCSE",
+      "target": "T-SEMEME",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-CSP",
+      "target": "T-SEMEME",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-CLSP",
+      "target": "T-SEMEME",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-HD",
+      "target": "T-LEX",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-HDSA",
+      "target": "T-LEX",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-SDLM",
+      "target": "T-LM",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-SDLM",
+      "target": "T-TITLE",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-PKGM",
+      "target": "T-PRETRAIN",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-PKGM",
+      "target": "T-REC",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-LSTM",
+      "target": "T-LM",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-BERT",
+      "target": "T-PRETRAIN",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-KEPLER",
+      "target": "T-PRETRAIN",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-ERNIE",
+      "target": "T-PRETRAIN",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-K-Adapter",
+      "target": "T-PRETRAIN",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-WKLM",
+      "target": "T-PRETRAIN",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-KnowBERT",
+      "target": "T-PRETRAIN",
+      "type": "solves",
+      "evidence": "任务映射"
+    },
+    {
+      "source": "M-SE",
+      "target": "DS-FREEBASE",
+      "type": "mentions_dataset",
+      "evidence": "Freebase"
+    },
+    {
+      "source": "M-SE",
+      "target": "DS-WIKIDATA",
+      "type": "mentions_dataset",
+      "evidence": "Wikidata"
+    },
+    {
+      "source": "M-PKGM",
+      "target": "MT-HIT1",
+      "type": "reports_metric",
+      "evidence": "Hit@1"
+    },
+    {
+      "source": "M-TransR",
+      "target": "DS-FB15K",
+      "type": "evaluated_on",
+      "evidence": "FB15K"
+    },
+    {
+      "source": "M-CTransR",
+      "target": "DS-FB15K",
+      "type": "evaluated_on",
+      "evidence": "FB15K"
+    },
+    {
+      "source": "M-TransR",
+      "target": "DS-WN18",
+      "type": "evaluated_on",
+      "evidence": "WN18"
+    },
+    {
+      "source": "M-CTransR",
+      "target": "DS-WN18",
+      "type": "evaluated_on",
+      "evidence": "WN18"
+    },
+    {
+      "source": "M-KR-EAR",
+      "target": "DS-FB24K",
+      "type": "evaluated_on",
+      "evidence": "FB24K"
+    },
+    {
+      "source": "M-TransR",
+      "target": "DS-FB15K",
+      "type": "evaluated_on",
+      "evidence": "FB15K"
+    },
+    {
+      "source": "M-CTransR",
+      "target": "DS-FB15K",
+      "type": "evaluated_on",
+      "evidence": "FB15K"
+    },
+    {
+      "source": "M-TransR",
+      "target": "DS-WN18",
+      "type": "evaluated_on",
+      "evidence": "WN18"
+    },
+    {
+      "source": "M-CTransR",
+      "target": "DS-WN18",
+      "type": "evaluated_on",
+      "evidence": "WN18"
+    },
+    {
+      "source": "M-TransR",
+      "target": "MT-MR",
+      "type": "reports_metric",
+      "evidence": "MR"
+    },
+    {
+      "source": "M-CTransR",
+      "target": "MT-MR",
+      "type": "reports_metric",
+      "evidence": "MR"
+    },
+    {
+      "source": "M-TransR",
+      "target": "DS-FB15K",
+      "type": "evaluated_on",
+      "evidence": "FB15K"
+    },
+    {
+      "source": "M-TransR",
+      "target": "MT-HIT10",
+      "type": "reports_metric",
+      "evidence": "Hit@10"
+    },
+    {
+      "source": "M-TransE",
+      "target": "DS-FB15K",
+      "type": "evaluated_on",
+      "evidence": "FB15K"
+    },
+    {
+      "source": "M-PTransE",
+      "target": "DS-FB15K",
+      "type": "evaluated_on",
+      "evidence": "FB15K"
+    },
+    {
+      "source": "M-SE",
+      "target": "DS-FB15K",
+      "type": "evaluated_on",
+      "evidence": "FB15K"
+    },
+    {
+      "source": "M-TransE",
+      "target": "MT-MR",
+      "type": "reports_metric",
+      "evidence": "MR"
+    },
+    {
+      "source": "M-PTransE",
+      "target": "MT-MR",
+      "type": "reports_metric",
+      "evidence": "MR"
+    },
+    {
+      "source": "M-SE",
+      "target": "MT-MR",
+      "type": "reports_metric",
+      "evidence": "MR"
+    },
+    {
+      "source": "M-TransE",
+      "target": "MT-HIT10",
+      "type": "reports_metric",
+      "evidence": "Hit@10"
+    },
+    {
+      "source": "M-PTransE",
+      "target": "MT-HIT10",
+      "type": "reports_metric",
+      "evidence": "Hit@10"
+    },
+    {
+      "source": "M-SE",
+      "target": "MT-HIT10",
+      "type": "reports_metric",
+      "evidence": "Hit@10"
+    },
+    {
+      "source": "M-KR-EAR",
+      "target": "DS-FB24K",
+      "type": "evaluated_on",
+      "evidence": "FB24K"
+    },
+    {
+      "source": "M-KR-EAR",
+      "target": "MT-MR",
+      "type": "reports_metric",
+      "evidence": "MR"
+    },
+    {
+      "source": "M-KR-EAR",
+      "target": "MT-HIT1",
+      "type": "reports_metric",
+      "evidence": "Hit@1"
+    },
+    {
+      "source": "M-KR-EAR",
+      "target": "MT-HIT10",
+      "type": "reports_metric",
+      "evidence": "Hit@10"
+    },
+    {
+      "source": "M-DKRL",
+      "target": "DS-FB20K",
+      "type": "evaluated_on",
+      "evidence": "FB20K"
+    },
+    {
+      "source": "M-DKRL",
+      "target": "DS-FB20K",
+      "type": "evaluated_on",
+      "evidence": "FB20K"
+    },
+    {
+      "source": "M-DKRL",
+      "target": "DS-FB15K",
+      "type": "evaluated_on",
+      "evidence": "FB15K"
+    },
+    {
+      "source": "M-DKRL",
+      "target": "MT-MR",
+      "type": "reports_metric",
+      "evidence": "MR"
+    },
+    {
+      "source": "M-DKRL",
+      "target": "MT-HIT10",
+      "type": "reports_metric",
+      "evidence": "Hit@10"
+    },
+    {
+      "source": "M-DKRL",
+      "target": "DS-FB15K",
+      "type": "mentions_dataset",
+      "evidence": "FB15K"
+    },
+    {
+      "source": "M-DKRL",
+      "target": "DS-FB20K",
+      "type": "mentions_dataset",
+      "evidence": "FB20K"
+    },
+    {
+      "source": "M-DKRL",
+      "target": "MT-HIT1",
+      "type": "mentions_metric",
+      "evidence": "Hit@1"
+    },
+    {
+      "source": "M-DKRL",
+      "target": "MT-MAP",
+      "type": "mentions_metric",
+      "evidence": "MAP"
+    },
+    {
+      "source": "M-TKRL",
+      "target": "DS-FB15K",
+      "type": "evaluated_on",
+      "evidence": "FB15K"
+    },
+    {
+      "source": "M-TKRL",
+      "target": "MT-MR",
+      "type": "reports_metric",
+      "evidence": "MR"
+    },
+    {
+      "source": "M-TKRL",
+      "target": "MT-HIT10",
+      "type": "reports_metric",
+      "evidence": "Hit@10"
+    },
+    {
+      "source": "M-TKRL",
+      "target": "DS-FB15K",
+      "type": "evaluated_on",
+      "evidence": "FB15K"
+    },
+    {
+      "source": "M-TKRL",
+      "target": "DS-FB15KPLUS",
+      "type": "evaluated_on",
+      "evidence": "FB15K+"
+    },
+    {
+      "source": "M-TKRL",
+      "target": "MT-HIT1",
+      "type": "reports_metric",
+      "evidence": "Hit@1"
+    },
+    {
+      "source": "M-TKRL",
+      "target": "MT-HIT10",
+      "type": "reports_metric",
+      "evidence": "Hit@10"
+    },
+    {
+      "source": "M-HATT",
+      "target": "DS-NYT",
+      "type": "evaluated_on",
+      "evidence": "NYT"
+    },
+    {
+      "source": "M-MNRE",
+      "target": "DS-NYT",
+      "type": "evaluated_on",
+      "evidence": "NYT"
+    },
+    {
+      "source": "M-KATT",
+      "target": "MT-PN",
+      "type": "reports_metric",
+      "evidence": "P@N"
+    },
+    {
+      "source": "M-EDRM",
+      "target": "MT-MRR",
+      "type": "reports_metric",
+      "evidence": "MRR"
+    },
+    {
+      "source": "M-EDRM",
+      "target": "MT-MAP",
+      "type": "reports_metric",
+      "evidence": "MAP"
+    },
+    {
+      "source": "M-EDRM",
+      "target": "MT-MRR",
+      "type": "reports_metric",
+      "evidence": "MRR"
+    },
+    {
+      "source": "M-EDRM",
+      "target": "MT-NDCG",
+      "type": "reports_metric",
+      "evidence": "NDCG"
+    },
+    {
+      "source": "M-CSP",
+      "target": "MT-MAP",
+      "type": "reports_metric",
+      "evidence": "MAP"
+    },
+    {
+      "source": "M-CSP",
+      "target": "MT-MAP",
+      "type": "mentions_metric",
+      "evidence": "MAP"
+    },
+    {
+      "source": "M-HD",
+      "target": "MT-MICROF1",
+      "type": "reports_metric",
+      "evidence": "Micro-F1"
+    },
+    {
+      "source": "M-HDSA",
+      "target": "MT-MICROF1",
+      "type": "reports_metric",
+      "evidence": "Micro-F1"
+    },
+    {
+      "source": "M-SDLM",
+      "target": "DS-LCSTS",
+      "type": "evaluated_on",
+      "evidence": "LCSTS"
+    },
+    {
+      "source": "M-SDLM",
+      "target": "M-TransE",
+      "type": "variant_of",
+      "evidence": "模型族"
+    },
+    {
+      "source": "M-SDLM",
+      "target": "M-TransE",
+      "type": "variant_of",
+      "evidence": "模型族"
+    },
+    {
+      "source": "M-SDLM",
+      "target": "M-TransR",
+      "type": "variant_of",
+      "evidence": "模型族"
+    },
+    {
+      "source": "M-SDLM",
+      "target": "M-TransE",
+      "type": "variant_of",
+      "evidence": "模型族"
+    },
+    {
+      "source": "M-SDLM",
+      "target": "M-TransE",
+      "type": "variant_of",
+      "evidence": "模型族"
+    },
+    {
+      "source": "M-SDLM",
+      "target": "M-CNN",
+      "type": "variant_of",
+      "evidence": "模型族"
+    },
+    {
+      "source": "M-SDLM",
+      "target": "M-SPWE",
+      "type": "variant_of",
+      "evidence": "模型族"
+    },
+    {
+      "source": "M-SDLM",
+      "target": "M-SPWE",
+      "type": "variant_of",
+      "evidence": "模型族"
+    },
+    {
+      "source": "M-SDLM",
+      "target": "M-SPWCF",
+      "type": "variant_of",
+      "evidence": "模型族"
+    },
+    {
+      "source": "M-SDLM",
+      "target": "M-SE",
+      "type": "variant_of",
+      "evidence": "模型族"
+    },
+    {
+      "source": "M-SDLM",
+      "target": "M-HD",
+      "type": "variant_of",
+      "evidence": "模型族"
+    },
+    {
+      "source": "M-SDLM",
+      "target": "M-GCN",
+      "type": "variant_of",
+      "evidence": "模型族"
+    },
+    {
+      "source": "M-SDLM",
+      "target": "M-GCN",
+      "type": "variant_of",
+      "evidence": "模型族"
+    },
+    {
+      "source": "M-SDLM",
+      "target": "M-RGCN",
+      "type": "variant_of",
+      "evidence": "模型族"
+    },
+    {
+      "source": "M-SDLM",
+      "target": "M-TransE",
+      "type": "improves",
+      "evidence": "TransR 相对 TransE"
+    },
+    {
+      "source": "M-SDLM",
+      "target": "M-TransR",
+      "type": "improves",
+      "evidence": "CTransR 相对 TransR"
+    },
+    {
+      "source": "M-SDLM",
+      "target": "M-TransE",
+      "type": "improves",
+      "evidence": "PTransE 相对 TransE"
+    },
+    {
+      "source": "M-SDLM",
+      "target": "M-TransE",
+      "type": "improves",
+      "evidence": "KR-EAR 相对 TransE"
+    },
+    {
+      "source": "M-SDLM",
+      "target": "M-TransE",
+      "type": "improves",
+      "evidence": "DKRL 相对 TransE"
+    },
+    {
+      "source": "M-SDLM",
+      "target": "M-TransE",
+      "type": "improves",
+      "evidence": "TKRL 相对 TransE"
+    },
+    {
+      "source": "M-SDLM",
+      "target": "M-SPWE",
+      "type": "improves",
+      "evidence": "CSP 相对 SPWE"
+    },
+    {
+      "source": "M-SDLM",
+      "target": "M-HD",
+      "type": "improves",
+      "evidence": "HDSA 相对 HD"
+    },
+    {
+      "source": "M-PTransE",
+      "target": "M-TransE",
+      "type": "uses",
+      "evidence": "方法依赖"
+    },
+    {
+      "source": "M-CTransR",
+      "target": "M-TransR",
+      "type": "uses",
+      "evidence": "方法依赖"
+    },
+    {
+      "source": "M-KR-EAR",
+      "target": "M-TransE",
+      "type": "uses",
+      "evidence": "方法依赖"
+    },
+    {
+      "source": "M-KR-EAR",
+      "target": "M-TransR",
+      "type": "uses",
+      "evidence": "方法依赖"
+    },
+    {
+      "source": "M-DKRL",
+      "target": "M-CNN",
+      "type": "uses",
+      "evidence": "方法依赖"
+    },
+    {
+      "source": "M-TKRL",
+      "target": "M-TransR",
+      "type": "uses",
+      "evidence": "方法依赖"
+    },
+    {
+      "source": "M-HATT",
+      "target": "M-PCNN",
+      "type": "uses",
+      "evidence": "方法依赖"
+    },
+    {
+      "source": "M-KATT",
+      "target": "M-CNN",
+      "type": "uses",
+      "evidence": "方法依赖"
+    },
+    {
+      "source": "M-SATT",
+      "target": "M-CNN",
+      "type": "uses",
+      "evidence": "方法依赖"
+    },
+    {
+      "source": "M-IPTransE",
+      "target": "M-TransE",
+      "type": "uses",
+      "evidence": "方法依赖"
+    },
+    {
+      "source": "M-IPTransE",
+      "target": "M-PTransE",
+      "type": "uses",
+      "evidence": "方法依赖"
+    },
+    {
+      "source": "M-KNET",
+      "target": "M-LSTM",
+      "type": "uses",
+      "evidence": "方法依赖"
+    },
+    {
+      "source": "M-CSP",
+      "target": "M-SPWE",
+      "type": "uses",
+      "evidence": "方法依赖"
+    },
+    {
+      "source": "M-CSP",
+      "target": "M-SPWCF",
+      "type": "uses",
+      "evidence": "方法依赖"
+    },
+    {
+      "source": "M-CLSP",
+      "target": "M-SPWE",
+      "type": "uses",
+      "evidence": "方法依赖"
+    },
+    {
+      "source": "M-HDSA",
+      "target": "M-HD",
+      "type": "uses",
+      "evidence": "方法依赖"
+    },
+    {
+      "source": "M-SDLM",
+      "target": "M-LSTM",
+      "type": "uses",
+      "evidence": "方法依赖"
+    },
+    {
+      "source": "M-PKGM",
+      "target": "M-BERT",
+      "type": "uses",
+      "evidence": "方法依赖"
+    }
+  ],
+  "meta": {
+    "node_types": {
+      "Task": 18,
+      "Method": 64,
+      "Dataset": 26,
+      "Metric": 10
+    },
+    "edge_types": {
+      "solves": 79,
+      "mentions_dataset": 4,
+      "reports_metric": 27,
+      "evaluated_on": 23,
+      "mentions_metric": 3,
+      "variant_of": 14,
+      "improves": 8,
+      "uses": 18
+    },
+    "unresolved_methods": []
+  }
+}

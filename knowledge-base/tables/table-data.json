@@ -1,0 +1,4377 @@
+{
+  "tables": [
+    {
+      "id": "TAB-A-5-1",
+      "caption": "自然语言推理",
+      "book": "A",
+      "page": 129,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-A-5-1",
+          "自然语言推理",
+          129,
+          "规则推理的示例规则集。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "规则推理的示例规则集。"
+    },
+    {
+      "id": "TAB-A-5-2",
+      "caption": "OWL语言基本语法",
+      "book": "A",
+      "page": 139,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-A-5-2",
+          "OWL语言基本语法",
+          139,
+          "OWL 各类构造的语法示例。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "OWL 各类构造的语法示例。"
+    },
+    {
+      "id": "TAB-A-5-3",
+      "caption": "OWL公理基本语法",
+      "book": "A",
+      "page": 139,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-A-5-3",
+          "OWL公理基本语法",
+          139,
+          "OWL 公理/构造的语法对照。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "OWL 公理/构造的语法对照。"
+    },
+    {
+      "id": "TAB-A-5-4",
+      "caption": "知识图谱嵌入与推理模型列表举例",
+      "book": "A",
+      "page": 159,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-A-5-4",
+          "知识图谱嵌入与推理模型列表举例",
+          159,
+          "知识图谱嵌入的代表性模型列表。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "知识图谱嵌入的代表性模型列表。"
+    },
+    {
+      "id": "TAB-A-5-5",
+      "caption": "EL本体语言",
+      "book": "A",
+      "page": 173,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-A-5-5",
+          "EL本体语言",
+          173,
+          "EL 本体语言的构造示例。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "EL 本体语言的构造示例。"
+    },
+    {
+      "id": "TAB-A-7-1",
+      "caption": "常见知识图谱问答数据集",
+      "book": "A",
+      "page": 211,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-A-7-1",
+          "常见知识图谱问答数据集",
+          211,
+          "常见知识图谱问答数据集对比。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "常见知识图谱问答数据集对比。"
+    },
+    {
+      "id": "TAB-A-9-1",
+      "caption": "事理知识图谱与传统知识图谱",
+      "book": "A",
+      "page": 311,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-A-9-1",
+          "事理知识图谱与传统知识图谱",
+          311,
+          "事理知识图谱与传统知识图谱的维度对比。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "事理知识图谱与传统知识图谱的维度对比。"
+    },
+    {
+      "id": "TAB-A-9-2",
+      "caption": "主要列举了事理逻辑关系的几种类型，主要包括因果事理、",
+      "book": "A",
+      "page": 312,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-A-9-2",
+          "主要列举了事理逻辑关系的几种类型，主要包括因果事理、",
+          312,
+          "因果/条件/反转/顺承四类事理逻辑关系。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "因果/条件/反转/顺承四类事理逻辑关系。"
+    },
+    {
+      "id": "TAB-A-9-3",
+      "caption": "知识图谱静态预训练模型的预训练阶段和服务阶段的函数",
+      "book": "A",
+      "page": 339,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-A-9-3",
+          "知识图谱静态预训练模型的预训练阶段和服务阶段的函数",
+          339,
+          "PKGM 预训练阶段与服务阶段的函数对照。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "PKGM 预训练阶段与服务阶段的函数对照。"
+    },
+    {
+      "id": "TAB-A-9-4",
+      "caption": "商品分类任务的结果",
+      "book": "A",
+      "page": 349,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-A-9-4",
+          "商品分类任务的结果",
+          349,
+          "PKGM 增强 BERT 的商品分类结果；Hit@1/3/10 与准确率。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "PKGM 增强 BERT 的商品分类结果；Hit@1/3/10 与准确率。"
+    },
+    {
+      "id": "TAB-A-9-5",
+      "caption": "商品对齐任务的准确率指标结果",
+      "book": "A",
+      "page": 351,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-A-9-5",
+          "商品对齐任务的准确率指标结果",
+          351,
+          "PKGM 增强 BERT 的同款商品对齐准确率。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "PKGM 增强 BERT 的同款商品对齐准确率。"
+    },
+    {
+      "id": "TAB-A-9-6",
+      "caption": "商品推荐任务的实验结果",
+      "book": "A",
+      "page": 352,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-A-9-6",
+          "商品推荐任务的实验结果",
+          352,
+          "PKGM 增强 NCF 的商品推荐结果；leave-one-out。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "PKGM 增强 NCF 的商品推荐结果；leave-one-out。"
+    },
+    {
+      "id": "TAB-A-9-7",
+      "caption": "知识的价值曲线特点",
+      "book": "A",
+      "page": 357,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-A-9-7",
+          "知识的价值曲线特点",
+          357,
+          "知识价值曲线各阶段的特点。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "知识价值曲线各阶段的特点。"
+    },
+    {
+      "id": "TAB-B-2-1",
+      "caption": "WN18 和 FB15K 上的评测结果",
+      "book": "B",
+      "page": 40,
+      "columns": [
+        "model",
+        "sampling",
+        "wn18_mr_raw",
+        "wn18_mr_filtered",
+        "wn18_h10_raw",
+        "wn18_h10_filtered",
+        "fb15k_mr_raw",
+        "fb15k_mr_filtered",
+        "fb15k_h10_raw",
+        "fb15k_h10_filtered"
+      ],
+      "numeric_columns": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "rows": [
+        [
+          "unstructured",
+          "-",
+          315,
+          304,
+          35.3,
+          38.2,
+          1074,
+          979,
+          4.5,
+          6.3
+        ],
+        [
+          "RESCAL",
+          "-",
+          1180,
+          1163,
+          37.2,
+          52.8,
+          828,
+          683,
+          28.4,
+          44.1
+        ],
+        [
+          "SE",
+          "-",
+          1011,
+          985,
+          68.5,
+          80.5,
+          273,
+          162,
+          28.8,
+          39.8
+        ],
+        [
+          "SME(linear)",
+          "-",
+          545,
+          533,
+          65.1,
+          74.1,
+          274,
+          154,
+          30.7,
+          40.8
+        ],
+        [
+          "SME(bilinear)",
+          "-",
+          526,
+          509,
+          54.7,
+          61.3,
+          284,
+          158,
+          31.3,
+          41.3
+        ],
+        [
+          "LFM",
+          "-",
+          469,
+          456,
+          71.4,
+          81.6,
+          283,
+          164,
+          26.0,
+          33.1
+        ],
+        [
+          "TransE",
+          "-",
+          263,
+          251,
+          75.4,
+          89.2,
+          243,
+          125,
+          34.9,
+          47.1
+        ],
+        [
+          "TransH",
+          "unif",
+          318,
+          303,
+          75.4,
+          86.7,
+          211,
+          84,
+          42.5,
+          58.5
+        ],
+        [
+          "TransH",
+          "bern",
+          401,
+          388,
+          73.0,
+          82.3,
+          212,
+          87,
+          45.7,
+          64.4
+        ],
+        [
+          "TransR",
+          "unif",
+          232,
+          219,
+          78.3,
+          91.7,
+          226,
+          78,
+          43.8,
+          65.5
+        ],
+        [
+          "TransR",
+          "bern",
+          238,
+          225,
+          79.8,
+          92.0,
+          198,
+          77,
+          48.2,
+          68.7
+        ],
+        [
+          "CTransR",
+          "unif",
+          243,
+          230,
+          78.9,
+          92.3,
+          233,
+          82,
+          44,
+          66.3
+        ],
+        [
+          "CTransR",
+          "bern",
+          231,
+          218,
+          79.4,
+          92.3,
+          199,
+          75,
+          48.4,
+          70.2
+        ]
+      ],
+      "note": "MR 越低越好，Hits@10 越高越好；filtered 为准。",
+      "status": "matrix"
+    },
+    {
+      "id": "TAB-B-2-2",
+      "caption": "将关系分类后在 FB15K 上的评测结果",
+      "book": "B",
+      "page": 41,
+      "columns": [
+        "model",
+        "sampling",
+        "head_1to1",
+        "head_1toN",
+        "head_Nto1",
+        "head_NtoN",
+        "tail_1to1",
+        "tail_1toN",
+        "tail_Nto1",
+        "tail_NtoN"
+      ],
+      "numeric_columns": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "status": "matrix",
+      "rows": [
+        [
+          "unstructured",
+          "-",
+          34.5,
+          2.5,
+          6.1,
+          6.6,
+          34.3,
+          4.2,
+          1.9,
+          6.6
+        ],
+        [
+          "SE",
+          "-",
+          35.6,
+          62.6,
+          17.2,
+          37.5,
+          34.9,
+          14.6,
+          68.3,
+          41.3
+        ],
+        [
+          "SME(linear)",
+          "-",
+          35.1,
+          53.7,
+          19.0,
+          40.3,
+          32.7,
+          14.9,
+          61.6,
+          43.3
+        ],
+        [
+          "SME(bilinear)",
+          "-",
+          30.9,
+          69.6,
+          19.9,
+          38.6,
+          28.2,
+          13.1,
+          76.0,
+          41.8
+        ],
+        [
+          "TransE",
+          "-",
+          43.7,
+          65.7,
+          18.2,
+          47.2,
+          43.7,
+          19.7,
+          66.7,
+          50.0
+        ],
+        [
+          "TransH",
+          "unif",
+          66.7,
+          81.7,
+          30.2,
+          57.4,
+          63.7,
+          30.1,
+          83.2,
+          60.8
+        ],
+        [
+          "TransH",
+          "bern",
+          66.8,
+          87.6,
+          28.7,
+          64.5,
+          65.5,
+          39.8,
+          83.3,
+          67.2
+        ],
+        [
+          "TransR",
+          "unif",
+          76.9,
+          77.9,
+          38.1,
+          66.9,
+          76.2,
+          38.4,
+          76.2,
+          69.1
+        ],
+        [
+          "TransR",
+          "bern",
+          78.8,
+          89.2,
+          34.1,
+          69.2,
+          79.2,
+          37.4,
+          90.4,
+          72.1
+        ],
+        [
+          "CTransR",
+          "unif",
+          78.6,
+          77.8,
+          36.4,
+          68.0,
+          77.4,
+          37.8,
+          78.0,
+          70.3
+        ],
+        [
+          "CTransR",
+          "bern",
+          81.5,
+          89.0,
+          34.7,
+          71.2,
+          80.8,
+          38.6,
+          90.1,
+          73.8
+        ]
+      ],
+      "note": "Hits@10（%）；分头/尾实体与 1-1/1-N/N-1/N-N 四类。"
+    },
+    {
+      "id": "TAB-B-2-3",
+      "caption": "〈头实体，尾实体〉对于“地区包含”的聚类样例",
+      "book": "B",
+      "page": 42,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-B-2-3",
+          "〈头实体，尾实体〉对于“地区包含”的聚类样例",
+          42,
+          "CTransR 对“地区包含”关系的子关系聚类样例。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "CTransR 对“地区包含”关系的子关系聚类样例。"
+    },
+    {
+      "id": "TAB-B-2-4",
+      "caption": "三元组分类的评测结果",
+      "book": "B",
+      "page": 43,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-B-2-4",
+          "三元组分类的评测结果",
+          43,
+          "WN11/FB13/FB15K 三元组分类结果；FB13 更稠密，NTN 仍占优。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "WN11/FB13/FB15K 三元组分类结果；FB13 更稠密，NTN 仍占优。"
+    },
+    {
+      "id": "TAB-B-2-5",
+      "caption": "实体预测的评测结果",
+      "book": "B",
+      "page": 47,
+      "columns": [
+        "model",
+        "mr_raw",
+        "mr_filtered",
+        "h10_raw",
+        "h10_filtered"
+      ],
+      "numeric_columns": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "rows": [
+        [
+          "RESCAL",
+          828,
+          683,
+          28.4,
+          44.1
+        ],
+        [
+          "SE",
+          273,
+          162,
+          28.8,
+          39.8
+        ],
+        [
+          "SME(linear)",
+          274,
+          154,
+          30.7,
+          40.8
+        ],
+        [
+          "SME(bilinear)",
+          284,
+          158,
+          31.3,
+          41.3
+        ],
+        [
+          "LFM",
+          283,
+          164,
+          26.0,
+          33.1
+        ],
+        [
+          "TransE",
+          243,
+          125,
+          34.9,
+          47.1
+        ],
+        [
+          "TransH",
+          212,
+          87,
+          45.7,
+          64.4
+        ],
+        [
+          "TransR",
+          198,
+          77,
+          48.2,
+          68.7
+        ],
+        [
+          "TransE(Our)",
+          205,
+          63,
+          47.9,
+          70.2
+        ],
+        [
+          "PTransE(ADD,2-step)",
+          200,
+          54,
+          51.8,
+          83.4
+        ],
+        [
+          "PTransE(MUL,2-step)",
+          216,
+          67,
+          47.4,
+          77.7
+        ],
+        [
+          "PTransE(RNN,2-step)",
+          242,
+          92,
+          50.6,
+          82.2
+        ],
+        [
+          "PTransE(ADD,3-step)",
+          207,
+          58,
+          51.4,
+          84.6
+        ]
+      ],
+      "note": "PTransE 的 ADD 组合最优；2 步与 3 步接近。",
+      "status": "matrix"
+    },
+    {
+      "id": "TAB-B-2-6",
+      "caption": "对关系分类后在FB15K 上的评测结果",
+      "book": "B",
+      "page": 49,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-B-2-6",
+          "对关系分类后在FB15K 上的评测结果",
+          49,
+          "PTransE 按关系基数切片的结果；四类关系上均有提升。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "PTransE 按关系基数切片的结果；四类关系上均有提升。"
+    },
+    {
+      "id": "TAB-B-2-7",
+      "caption": "关系预测的评测结果",
+      "book": "B",
+      "page": 49,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-B-2-7",
+          "关系预测的评测结果",
+          49,
+          "PTransE 关系预测的 MR 与 Hits@1。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "PTransE 关系预测的 MR 与 Hits@1。"
+    },
+    {
+      "id": "TAB-B-2-8",
+      "caption": "一些典型的属性、关系与它们相应的映射属性之间的关系",
+      "book": "B",
+      "page": 52,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-B-2-8",
+          "一些典型的属性、关系与它们相应的映射属性之间的关系",
+          52,
+          "属性、关系及映射属性的例子，说明属性是一对多/多对一来源。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "属性、关系及映射属性的例子，说明属性是一对多/多对一来源。"
+    },
+    {
+      "id": "TAB-B-2-9",
+      "caption": "实体预测的评测结果",
+      "book": "B",
+      "page": 55,
+      "columns": [
+        "model",
+        "head_mr_raw",
+        "head_mr_filtered",
+        "head_h10_raw",
+        "head_h10_filtered",
+        "tail_mr_raw",
+        "tail_mr_filtered",
+        "tail_h10_raw",
+        "tail_h10_filtered",
+        "total_mr_raw",
+        "total_mr_filtered",
+        "total_h10_raw",
+        "total_h10_filtered"
+      ],
+      "numeric_columns": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "rows": [
+        [
+          "TransE",
+          385,
+          277,
+          20.2,
+          39.2,
+          134,
+          124,
+          51.4,
+          66.7,
+          259,
+          200,
+          35.8,
+          53.0
+        ],
+        [
+          "TransH",
+          416,
+          309,
+          17.7,
+          35.4,
+          147,
+          138,
+          50.0,
+          65.0,
+          282,
+          224,
+          33.9,
+          50.2
+        ],
+        [
+          "TransR",
+          394,
+          285,
+          20.5,
+          41.2,
+          125,
+          116,
+          53.4,
+          71.0,
+          260,
+          200,
+          37.0,
+          56.1
+        ],
+        [
+          "KR-EAR(TransE)",
+          295,
+          198,
+          22.7,
+          39.6,
+          77,
+          69,
+          54.2,
+          69.5,
+          186,
+          133,
+          38.5,
+          54.5
+        ],
+        [
+          "KR-EAR(TransR)",
+          268,
+          170,
+          23.4,
+          43.0,
+          75,
+          66,
+          55.7,
+          71.5,
+          172,
+          118,
+          39.5,
+          57.3
+        ]
+      ],
+      "note": "FB24K；KR-EAR 在头/尾/合计三个口径均优于基线。",
+      "status": "matrix"
+    },
+    {
+      "id": "TAB-B-2-10",
+      "caption": "关系预测的评测结果",
+      "book": "B",
+      "page": 56,
+      "columns": [
+        "model",
+        "mr_raw",
+        "mr_filtered",
+        "h1_raw",
+        "h1_filtered"
+      ],
+      "numeric_columns": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "status": "matrix",
+      "rows": [
+        [
+          "TransE",
+          3.1,
+          2.8,
+          65.9,
+          83.8
+        ],
+        [
+          "TransH",
+          3.4,
+          3.1,
+          64.9,
+          84.1
+        ],
+        [
+          "TransR",
+          3.4,
+          3.1,
+          65.2,
+          84.5
+        ],
+        [
+          "KR-EAR(TransE)",
+          2.4,
+          2.1,
+          67.9,
+          86.2
+        ],
+        [
+          "KR-EAR(TransE)+CRA",
+          1.8,
+          1.6,
+          70.9,
+          88.7
+        ],
+        [
+          "KR-EAR(TransR)",
+          2.6,
+          2.2,
+          66.8,
+          89.0
+        ],
+        [
+          "KR-EAR(TransR)+CRA",
+          1.9,
+          1.6,
+          71.5,
+          90.4
+        ]
+      ],
+      "note": "FB24K；关系预测用 Hits@1；CRA 为属性相关性约束。"
+    },
+    {
+      "id": "TAB-B-2-11",
+      "caption": "属性预测的评测结果",
+      "book": "B",
+      "page": 57,
+      "columns": [
+        "model",
+        "mr_raw",
+        "mr_filtered",
+        "h1_raw",
+        "h1_filtered"
+      ],
+      "numeric_columns": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "status": "matrix",
+      "rows": [
+        [
+          "TransE",
+          10.7,
+          5.6,
+          36.5,
+          55.9
+        ],
+        [
+          "TransH",
+          10.7,
+          5.6,
+          38.5,
+          57.9
+        ],
+        [
+          "TransR",
+          9.0,
+          3.9,
+          42.7,
+          65.6
+        ],
+        [
+          "KR-EAR(TransE)",
+          8.3,
+          3.2,
+          47.2,
+          69.0
+        ],
+        [
+          "KR-EAR(TransE)+AC",
+          7.5,
+          3.0,
+          49.4,
+          70.4
+        ],
+        [
+          "KR-EAR(TransR)",
+          8.3,
+          3.2,
+          47.6,
+          69.8
+        ],
+        [
+          "KR-EAR(TransR)+AC",
+          7.5,
+          3.0,
+          49.8,
+          70.8
+        ]
+      ],
+      "note": "FB24K；属性预测用 Hits@1；AC 为属性相关性。"
+    },
+    {
+      "id": "TAB-B-2-12",
+      "caption": "属性相关性的例子",
+      "book": "B",
+      "page": 57,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-B-2-12",
+          "属性相关性的例子",
+          57,
+          "KR-EAR 学到的属性相关对。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "KR-EAR 学到的属性相关对。"
+    },
+    {
+      "id": "TAB-B-2-13",
+      "caption": "FB15K 上实体预测的评测结果",
+      "book": "B",
+      "page": 62,
+      "columns": [
+        "model",
+        "mr_raw",
+        "mr_filtered",
+        "h10_raw",
+        "h10_filtered"
+      ],
+      "numeric_columns": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "rows": [
+        [
+          "TransE",
+          210,
+          119,
+          48.5,
+          66.1
+        ],
+        [
+          "DKRL(CBOW)",
+          236,
+          151,
+          38.3,
+          51.8
+        ],
+        [
+          "DKRL(CNN)",
+          200,
+          113,
+          44.3,
+          57.6
+        ],
+        [
+          "DKRL(CNN)+TransE",
+          181,
+          91,
+          49.6,
+          67.4
+        ]
+      ],
+      "note": "DKRL(CNN)+TransE 同时使用描述与结构表示。",
+      "status": "matrix"
+    },
+    {
+      "id": "TAB-B-2-14",
+      "caption": "FB15K 上关系预测的评测结果",
+      "book": "B",
+      "page": 62,
+      "columns": [
+        "model",
+        "mr_raw",
+        "mr_filtered",
+        "h1_raw",
+        "h1_filtered"
+      ],
+      "numeric_columns": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "status": "matrix",
+      "rows": [
+        [
+          "TransE",
+          2.91,
+          2.53,
+          69.5,
+          90.2
+        ],
+        [
+          "DKRL(CBOW)",
+          2.85,
+          2.51,
+          65.3,
+          82.7
+        ],
+        [
+          "DKRL(CNN)",
+          2.91,
+          2.55,
+          69.8,
+          89.0
+        ],
+        [
+          "DKRL(CNN)+TransE",
+          2.41,
+          2.03,
+          69.8,
+          90.8
+        ]
+      ],
+      "note": "关系预测用 Hits@1；DKRL(CNN)+TransE 最好。"
+    },
+    {
+      "id": "TAB-B-2-15",
+      "caption": "FB15K 中实体类型及其对应频次",
+      "book": "B",
+      "page": 64,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-B-2-15",
+          "FB15K 中实体类型及其对应频次",
+          64,
+          "Freebase 高频实体类型及频次。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "Freebase 高频实体类型及频次。"
+    },
+    {
+      "id": "TAB-B-2-16",
+      "caption": "FB15K 上实体类型分类的评测结果",
+      "book": "B",
+      "page": 65,
+      "columns": [
+        "model",
+        "map"
+      ],
+      "numeric_columns": [
+        1
+      ],
+      "rows": [
+        [
+          "TransE",
+          87.9
+        ],
+        [
+          "BOW",
+          86.3
+        ],
+        [
+          "DKRL(CBOW)",
+          89.3
+        ],
+        [
+          "DKRL(CNN)",
+          90.1
+        ]
+      ],
+      "note": "MAP（平均准确率均值），越高越好。",
+      "status": "matrix"
+    },
+    {
+      "id": "TAB-B-2-17",
+      "caption": "FB20K 上零样本实体预测的评测结果",
+      "book": "B",
+      "page": 66,
+      "columns": [
+        "model",
+        "d_e",
+        "e_d",
+        "d_d",
+        "total"
+      ],
+      "numeric_columns": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "status": "matrix",
+      "rows": [
+        [
+          "Partial-CBOW",
+          26.5,
+          20.9,
+          67.2,
+          24.6
+        ],
+        [
+          "CBOW",
+          27.1,
+          21.7,
+          66.6,
+          25.3
+        ],
+        [
+          "Partial-CNN",
+          26.8,
+          20.8,
+          69.5,
+          24.8
+        ],
+        [
+          "CNN",
+          31.2,
+          26.1,
+          72.5,
+          29.5
+        ]
+      ],
+      "note": "Hits@10（%）；d-d 类含较多自环关系。"
+    },
+    {
+      "id": "TAB-B-2-18",
+      "caption": "FB20K 上零样本关系预测的评测结果",
+      "book": "B",
+      "page": 66,
+      "columns": [
+        "model",
+        "d_e",
+        "e_d",
+        "d_d",
+        "total"
+      ],
+      "numeric_columns": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "status": "matrix",
+      "rows": [
+        [
+          "Partial-CBOW",
+          49.0,
+          42.2,
+          0.0,
+          46.2
+        ],
+        [
+          "CBOW",
+          52.2,
+          47.9,
+          0.0,
+          50.3
+        ],
+        [
+          "Partial-CNN",
+          56.6,
+          52.4,
+          4.0,
+          54.8
+        ],
+        [
+          "CNN",
+          60.4,
+          55.5,
+          7.3,
+          58.2
+        ]
+      ],
+      "note": "Hits@1（%）；d-d 类几乎无法预测。"
+    },
+    {
+      "id": "TAB-B-2-19",
+      "caption": "FB20K 上实体类型分类的评测结果",
+      "book": "B",
+      "page": 67,
+      "columns": [
+        "model",
+        "map"
+      ],
+      "numeric_columns": [
+        1
+      ],
+      "status": "matrix",
+      "rows": [
+        [
+          "BOW",
+          57.5
+        ],
+        [
+          "DKRL(CBOW)",
+          52.0
+        ],
+        [
+          "DKRL(CNN)",
+          61.9
+        ]
+      ],
+      "note": "零样本实体类型分类 MAP。"
+    },
+    {
+      "id": "TAB-B-2-20",
+      "caption": "FB15K 上实体预测的评测结果",
+      "book": "B",
+      "page": 70,
+      "columns": [
+        "model",
+        "mr_raw",
+        "mr_filtered",
+        "h10_raw",
+        "h10_filtered"
+      ],
+      "numeric_columns": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "rows": [
+        [
+          "RESCAL",
+          828,
+          683,
+          28.4,
+          44.1
+        ],
+        [
+          "SE",
+          273,
+          162,
+          28.8,
+          39.8
+        ],
+        [
+          "SME(linear)",
+          274,
+          154,
+          30.7,
+          40.8
+        ],
+        [
+          "SME(bilinear)",
+          284,
+          158,
+          31.3,
+          41.3
+        ],
+        [
+          "LFM",
+          283,
+          164,
+          26.0,
+          33.1
+        ],
+        [
+          "TransE",
+          238,
+          143,
+          46.4,
+          62.1
+        ],
+        [
+          "TransR",
+          199,
+          77,
+          47.2,
+          67.2
+        ],
+        [
+          "TKRL(RHE)",
+          184,
+          68,
+          49.2,
+          69.4
+        ],
+        [
+          "TKRL(WHE)",
+          186,
+          68,
+          49.2,
+          69.6
+        ],
+        [
+          "TKRL(RHE+STC)",
+          202,
+          89,
+          50.4,
+          73.1
+        ],
+        [
+          "TKRL(WHE+STC)",
+          202,
+          87,
+          50.3,
+          73.4
+        ]
+      ],
+      "note": "STC 为训练时软类型约束；WHE+STC 的 Hits@10 最好。",
+      "status": "matrix"
+    },
+    {
+      "id": "TAB-B-2-21",
+      "caption": "FB15K 上关系预测的评测结果",
+      "book": "B",
+      "page": 71,
+      "columns": [
+        "model",
+        "mr_raw",
+        "mr_filtered",
+        "h1_raw",
+        "h1_filtered"
+      ],
+      "numeric_columns": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "status": "matrix",
+      "rows": [
+        [
+          "TransE",
+          2.79,
+          2.43,
+          68.4,
+          87.2
+        ],
+        [
+          "TransR",
+          2.49,
+          2.09,
+          70.2,
+          91.6
+        ],
+        [
+          "TKRL(RHE)",
+          2.12,
+          1.73,
+          71.1,
+          92.8
+        ],
+        [
+          "TKRL(WHE)",
+          2.22,
+          1.83,
+          70.8,
+          92.5
+        ],
+        [
+          "TKRL(RHE+STC)",
+          2.38,
+          1.97,
+          68.7,
+          90.7
+        ],
+        [
+          "TKRL(WHE+STC)",
+          2.47,
+          2.07,
+          68.3,
+          90.6
+        ]
+      ],
+      "note": "关系预测用 Hits@1；STC 会略降 MR。"
+    },
+    {
+      "id": "TAB-B-2-22",
+      "caption": "测试中的实体类型限制在实体预测上的效果",
+      "book": "B",
+      "page": 72,
+      "columns": [
+        "model",
+        "mr_raw",
+        "mr_filtered",
+        "h10_raw",
+        "h10_filtered"
+      ],
+      "numeric_columns": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "status": "matrix",
+      "rows": [
+        [
+          "TransE+TCE",
+          212,
+          116,
+          46.9,
+          63.4
+        ],
+        [
+          "TransR+TCE",
+          182,
+          60,
+          47.9,
+          68.6
+        ],
+        [
+          "TransE+STC+TCE",
+          203,
+          104,
+          49.8,
+          69.9
+        ],
+        [
+          "TransR+STC+TCE",
+          185,
+          63,
+          48.5,
+          71.7
+        ],
+        [
+          "TKRL(RHE+STC+TCE)",
+          169,
+          56,
+          51.4,
+          75.4
+        ],
+        [
+          "TKRL(WHE+STC+TCE)",
+          170,
+          55,
+          51.3,
+          75.6
+        ]
+      ],
+      "note": "TCE 为测试时类型限制；TKRL 仍最好。"
+    },
+    {
+      "id": "TAB-B-2-23",
+      "caption": "长尾分布数据集FB15K+上的实体预测与关系预测结果",
+      "book": "B",
+      "page": 73,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-B-2-23",
+          "长尾分布数据集FB15K+上的实体预测与关系预测结果",
+          73,
+          "TKRL 在 FB15K+ 长尾关系上的结果；按关系频次分组。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "TKRL 在 FB15K+ 长尾关系上的结果；按关系频次分组。"
+    },
+    {
+      "id": "TAB-B-2-24",
+      "caption": "FB15K 上三元组分类的评测结果",
+      "book": "B",
+      "page": 75,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-B-2-24",
+          "FB15K 上三元组分类的评测结果",
+          75,
+          "TKRL 三元组分类结果。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "TKRL 三元组分类结果。"
+    },
+    {
+      "id": "TAB-B-2-25",
+      "caption": "WN9-IMG 上实体预测的评测结果",
+      "book": "B",
+      "page": 77,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-B-2-25",
+          "WN9-IMG 上实体预测的评测结果",
+          77,
+          "IKRL 在 WN9-IMG 上的实体预测结果。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "IKRL 在 WN9-IMG 上的实体预测结果。"
+    },
+    {
+      "id": "TAB-B-2-26",
+      "caption": "WN9-IMG 上各组合策略的实体预测结果",
+      "book": "B",
+      "page": 79,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-B-2-26",
+          "WN9-IMG 上各组合策略的实体预测结果",
+          79,
+          "IKRL 在 WN9-IMG 上的三元组分类结果。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "IKRL 在 WN9-IMG 上的三元组分类结果。"
+    },
+    {
+      "id": "TAB-B-2-27",
+      "caption": "WN9-IMG 上三元组分类的评测结果",
+      "book": "B",
+      "page": 80,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-B-2-27",
+          "WN9-IMG 上三元组分类的评测结果",
+          80,
+          "IKRL 在 WN9-IMG 上的实体分类结果。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "IKRL 在 WN9-IMG 上的实体分类结果。"
+    },
+    {
+      "id": "TAB-B-3-1",
+      "caption": "模型超参数设置",
+      "book": "B",
+      "page": 91,
+      "columns": [
+        "parameter",
+        "value"
+      ],
+      "numeric_columns": [
+        1
+      ],
+      "status": "key_value",
+      "rows": [
+        [
+          "卷积窗口大小",
+          3
+        ],
+        [
+          "句子表示维度",
+          230
+        ],
+        [
+          "词向量维度",
+          50
+        ],
+        [
+          "位置向量维度",
+          5
+        ],
+        [
+          "训练批次大小",
+          160
+        ],
+        [
+          "学习率",
+          0.01
+        ]
+      ],
+      "note": "PCNN/CNN 远程监督抽取配置。"
+    },
+    {
+      "id": "TAB-B-3-2",
+      "caption": "各模型在实体对拥有不同实例数目情况下的 P@N 效果对比",
+      "book": "B",
+      "page": 93,
+      "columns": [
+        "model",
+        "setting",
+        "p100",
+        "p200",
+        "p300",
+        "mean",
+        "p100_2",
+        "p200_2",
+        "p300_2",
+        "mean_2",
+        "p100_3",
+        "p200_3",
+        "p300_3",
+        "mean_3"
+      ],
+      "numeric_columns": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "status": "matrix",
+      "rows": [
+        [
+          "CNN+ONE",
+          "One",
+          68.3,
+          60.7,
+          53.8,
+          60.9,
+          70.3,
+          62.7,
+          55.8,
+          62.9,
+          67.3,
+          64.7,
+          58.1,
+          63.4
+        ],
+        [
+          "CNN+AVE",
+          "Two",
+          75.2,
+          67.2,
+          58.8,
+          67.1,
+          68.3,
+          63.2,
+          60.5,
+          64.0,
+          64.4,
+          60.2,
+          60.1,
+          60.4
+        ],
+        [
+          "CNN+ATT",
+          "All",
+          76.2,
+          65.2,
+          60.8,
+          67.4,
+          76.2,
+          65.7,
+          62.1,
+          68.0,
+          76.2,
+          68.6,
+          59.8,
+          68.2
+        ],
+        [
+          "PCNN+ONE",
+          "One",
+          73.3,
+          64.8,
+          56.8,
+          65.0,
+          70.3,
+          67.2,
+          63.1,
+          66.9,
+          72.3,
+          69.7,
+          64.1,
+          68.7
+        ],
+        [
+          "PCNN+AVE",
+          "Two",
+          71.3,
+          63.7,
+          57.8,
+          64.3,
+          73.3,
+          65.2,
+          62.1,
+          66.9,
+          73.3,
+          66.7,
+          62.8,
+          67.6
+        ],
+        [
+          "PCNN+ATT",
+          "All",
+          73.3,
+          69.2,
+          60.8,
+          67.8,
+          77.2,
+          71.6,
+          66.1,
+          71.6,
+          76.2,
+          73.1,
+          67.4,
+          72.2
+        ]
+      ],
+      "note": "One/Two/All 三组实例设置；列后缀 _2/_3 分别对应第 2/3 组设置。"
+    },
+    {
+      "id": "TAB-B-3-3",
+      "caption": "NYT 语料上选择性注意力机制的例子",
+      "book": "B",
+      "page": 95,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-B-3-3",
+          "NYT 语料上选择性注意力机制的例子",
+          95,
+          "NYT 上选择性注意力的高分/低分句示例。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "NYT 上选择性注意力的高分/低分句示例。"
+    },
+    {
+      "id": "TAB-B-3-4",
+      "caption": "模型超参数设置",
+      "book": "B",
+      "page": 99,
+      "columns": [
+        "parameter",
+        "value"
+      ],
+      "numeric_columns": [
+        1
+      ],
+      "status": "key_value",
+      "rows": [
+        [
+          "卷积窗口大小",
+          3
+        ],
+        [
+          "句子表示维度",
+          230
+        ],
+        [
+          "词向量维度",
+          50
+        ],
+        [
+          "位置向量维度",
+          5
+        ],
+        [
+          "训练批次大小",
+          160
+        ],
+        [
+          "学习率",
+          0.2
+        ]
+      ],
+      "note": "HATT 配置。"
+    },
+    {
+      "id": "TAB-B-3-5",
+      "caption": "各注意力模型在不同召回率上的精度",
+      "book": "B",
+      "page": 101,
+      "columns": [
+        "model",
+        "r01",
+        "r02",
+        "r03",
+        "mean",
+        "micro",
+        "macro"
+      ],
+      "numeric_columns": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "rows": [
+        [
+          "CNN+ATT",
+          67.5,
+          52.8,
+          58.5,
+          55.4,
+          31.8,
+          8.2
+        ],
+        [
+          "CNN+HATT",
+          78.9,
+          69.9,
+          58.5,
+          69.1,
+          41.7,
+          16.5
+        ],
+        [
+          "PCNN+ATT",
+          69.4,
+          60.6,
+          51.6,
+          60.5,
+          38.0,
+          15.1
+        ],
+        [
+          "PCNN+HATT",
+          80.6,
+          69.5,
+          60.7,
+          70.3,
+          42.3,
+          17.0
+        ]
+      ],
+      "note": "按召回率 0.1/0.2/0.3 报精度；HATT 在宏平均上提升明显。",
+      "status": "matrix"
+    },
+    {
+      "id": "TAB-B-3-6",
+      "caption": "长尾关系上的各模型效果对比",
+      "book": "B",
+      "page": 101,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-B-3-6",
+          "长尾关系上的各模型效果对比",
+          101,
+          "HATT 在长尾关系（训练实例 <100/<200）上的 Hits@K。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "HATT 在长尾关系（训练实例 <100/<200）上的 Hits@K。"
+    },
+    {
+      "id": "TAB-B-3-7",
+      "caption": "数据集的统计信息",
+      "book": "B",
+      "page": 106,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-B-3-7",
+          "数据集的统计信息",
+          106,
+          "MNRE 中英双语数据统计；176 种关系、百万级实例。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "MNRE 中英双语数据统计；176 种关系、百万级实例。"
+    },
+    {
+      "id": "TAB-B-3-8",
+      "caption": "模型超参数设置",
+      "book": "B",
+      "page": 106,
+      "columns": [
+        "parameter",
+        "value"
+      ],
+      "numeric_columns": [
+        1
+      ],
+      "status": "key_value",
+      "rows": [
+        [
+          "卷积窗口大小",
+          3
+        ],
+        [
+          "句子表示维度",
+          230
+        ],
+        [
+          "词向量维度",
+          50
+        ],
+        [
+          "位置向量维度",
+          5
+        ],
+        [
+          "训练批次大小",
+          160
+        ],
+        [
+          "学习率",
+          0.001
+        ]
+      ],
+      "note": "MNRE 配置。"
+    },
+    {
+      "id": "TAB-B-3-9",
+      "caption": "多语言注意力机制的一个例子",
+      "book": "B",
+      "page": 108,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-B-3-9",
+          "多语言注意力机制的一个例子",
+          108,
+          "中英句子对的跨语言注意力权重。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "中英句子对的跨语言注意力权重。"
+    },
+    {
+      "id": "TAB-B-3-10",
+      "caption": "对一些特定的关系的预测准确率",
+      "book": "B",
+      "page": 110,
+      "columns": [
+        "relation",
+        "en_instances",
+        "zh_instances",
+        "cnn_en",
+        "cnn_zh",
+        "mnre_en",
+        "mnre_zh"
+      ],
+      "numeric_columns": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "status": "matrix",
+      "rows": [
+        [
+          "包含",
+          993,
+          6984,
+          17.95,
+          69.87,
+          73.72,
+          75.0
+        ],
+        [
+          "总部所在地",
+          1949,
+          210,
+          43.04,
+          0.0,
+          41.77,
+          50.63
+        ],
+        [
+          "父亲",
+          1833,
+          983,
+          64.71,
+          77.12,
+          86.27,
+          83.01
+        ],
+        [
+          "国籍",
+          25322,
+          15805,
+          95.22,
+          93.23,
+          98.41,
+          98.21
+        ]
+      ],
+      "note": "中英文实例数不平衡关系的预测准确率；MNRE 缩小差距。"
+    },
+    {
+      "id": "TAB-B-3-11",
+      "caption": "模型超参数设置",
+      "book": "B",
+      "page": 117,
+      "columns": [
+        "parameter",
+        "value"
+      ],
+      "numeric_columns": [
+        1
+      ],
+      "status": "key_value",
+      "rows": [
+        [
+          "训练批次大小",
+          160
+        ],
+        [
+          "学习率",
+          0.002
+        ],
+        [
+          "CNN 句子表示维度",
+          230
+        ],
+        [
+          "RNN 句子表示维度",
+          200
+        ],
+        [
+          "判别器隐层大小",
+          2048
+        ],
+        [
+          "卷积窗口大小",
+          3
+        ],
+        [
+          "词向量维度",
+          50
+        ],
+        [
+          "位置向量维度",
+          5
+        ]
+      ],
+      "note": "多语言/对抗关系抽取配置。"
+    },
+    {
+      "id": "TAB-B-3-12",
+      "caption": "各个模型的 AUC 结果",
+      "book": "B",
+      "page": 117,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-B-3-12",
+          "各个模型的 AUC 结果",
+          117,
+          "多语言关系抽取各模型 AUC。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "多语言关系抽取各模型 AUC。"
+    },
+    {
+      "id": "TAB-B-3-13",
+      "caption": "各个模型在单语言场景下的 AUC 结果",
+      "book": "B",
+      "page": 119,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-B-3-13",
+          "各个模型在单语言场景下的 AUC 结果",
+          119,
+          "单语言场景各模型 AUC。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "单语言场景各模型 AUC。"
+    },
+    {
+      "id": "TAB-B-3-14",
+      "caption": "数据集统计信息",
+      "book": "B",
+      "page": 125,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-B-3-14",
+          "数据集统计信息",
+          125,
+          "FB15K/FB60K 与 NYT-FB15K/NYT-FB60K 的规模统计。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "FB15K/FB60K 与 NYT-FB15K/NYT-FB60K 的规模统计。"
+    },
+    {
+      "id": "TAB-B-3-15",
+      "caption": "模型超参数设置",
+      "book": "B",
+      "page": 126,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-B-3-15",
+          "模型超参数设置",
+          126,
+          "KATT 联合学习超参数。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "KATT 联合学习超参数。"
+    },
+    {
+      "id": "TAB-B-3-16",
+      "caption": "不同模型组合情况下的 P@N 评估结果",
+      "book": "B",
+      "page": 128,
+      "columns": [
+        "model",
+        "p100",
+        "p300",
+        "p500",
+        "mean"
+      ],
+      "numeric_columns": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "status": "matrix",
+      "rows": [
+        [
+          "JointD+KATT",
+          80.6,
+          68.7,
+          63.7,
+          71.0
+        ],
+        [
+          "JointE+KATT",
+          75.8,
+          68.0,
+          63.0,
+          68.9
+        ],
+        [
+          "CNN+ONE",
+          67.3,
+          59.8,
+          43.7,
+          61.5
+        ],
+        [
+          "CNN+ATT",
+          76.2,
+          63.2,
+          61.1,
+          67.7
+        ]
+      ],
+      "note": "联合学习 + 知识注意力的推荐精度。"
+    },
+    {
+      "id": "TAB-B-3-17",
+      "caption": "头尾实体链接预测的结果",
+      "book": "B",
+      "page": 130,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-B-3-17",
+          "头尾实体链接预测的结果",
+          130,
+          "JointE/JointD+SATT 分关系类型的头尾实体 Hits@10。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "JointE/JointD+SATT 分关系类型的头尾实体 Hits@10。"
+    },
+    {
+      "id": "TAB-B-4-1",
+      "caption": "不同数据集合的比较",
+      "book": "B",
+      "page": 136,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-B-4-1",
+          "不同数据集合的比较",
+          136,
+          "FIGER/WIKI-AUTO/WIKI 等实体类型数据集对比。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "FIGER/WIKI-AUTO/WIKI 等实体类型数据集对比。"
+    },
+    {
+      "id": "TAB-B-4-2",
+      "caption": "最优超参数设定",
+      "book": "B",
+      "page": 137,
+      "columns": [
+        "parameter",
+        "value"
+      ],
+      "numeric_columns": [
+        1
+      ],
+      "status": "key_value",
+      "rows": [
+        [
+          "学习率",
+          0.005
+        ],
+        [
+          "LSTM 隐藏层维数",
+          100
+        ],
+        [
+          "词向量维数",
+          300
+        ],
+        [
+          "窗口大小",
+          15
+        ],
+        [
+          "批次大小",
+          1000
+        ]
+      ],
+      "note": "KNET 最优超参数。"
+    },
+    {
+      "id": "TAB-B-4-3",
+      "caption": "实体分类的表现",
+      "book": "B",
+      "page": 138,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-B-4-3",
+          "实体分类的表现",
+          138,
+          "KNET 消融设置（MA/KA/KA+D）。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "WIKI-AUTO 上实体分类表现（严格/宏平均/微平均）。"
+    },
+    {
+      "id": "TAB-B-4-4",
+      "caption": "在不同粗粒度类型上的效果比较",
+      "book": "B",
+      "page": 139,
+      "columns": [
+        "dataset",
+        "model",
+        "person",
+        "org",
+        "location"
+      ],
+      "numeric_columns": [
+        2,
+        3,
+        4
+      ],
+      "status": "matrix",
+      "rows": [
+        [
+          "WIKI-AUTO",
+          "M-ONLY",
+          58.64,
+          63.95,
+          87.65
+        ],
+        [
+          "WIKI-AUTO",
+          "HNM",
+          63.79,
+          66.85,
+          86.26
+        ],
+        [
+          "WIKI-AUTO",
+          "SA",
+          68.47,
+          71.85,
+          90.74
+        ],
+        [
+          "WIKI-AUTO",
+          "KA",
+          70.77,
+          74.18,
+          91.23
+        ],
+        [
+          "WIKI-AUTO",
+          "KA+D",
+          74.87,
+          75.16,
+          91.75
+        ],
+        [
+          "WIKI-MAN",
+          "M-ONLY",
+          52.63,
+          71.19,
+          75.54
+        ],
+        [
+          "WIKI-MAN",
+          "HNM",
+          54.0,
+          50.0,
+          76.69
+        ],
+        [
+          "WIKI-MAN",
+          "SA",
+          55.77,
+          81.36,
+          79.26
+        ],
+        [
+          "WIKI-MAN",
+          "KA",
+          67.72,
+          75.41,
+          79.29
+        ],
+        [
+          "WIKI-MAN",
+          "KA+D",
+          67.14,
+          90.32,
+          81.62
+        ]
+      ],
+      "note": "人物/组织/地点三类粗粒度实体上的分类效果。"
+    },
+    {
+      "id": "TAB-B-4-5",
+      "caption": "在正确/错误子集上的模型结果",
+      "book": "B",
+      "page": 140,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-B-4-5",
+          "在正确/错误子集上的模型结果",
+          140,
+          "正确集与错误集上的模型表现。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "正确集与错误集上的模型表现。"
+    },
+    {
+      "id": "TAB-B-4-6",
+      "caption": "DFB-1、DFB-2 与 DFB-3 的统计数据",
+      "book": "B",
+      "page": 146,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-B-4-6",
+          "DFB-1、DFB-2 与 DFB-3 的统计数据",
+          146,
+          "DFB-1/2/3 实体对齐数据集统计；子图规模与重叠率。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "DFB-1/2/3 实体对齐数据集统计；子图规模与重叠率。"
+    },
+    {
+      "id": "TAB-B-4-7",
+      "caption": "实体对齐结果",
+      "book": "B",
+      "page": 146,
+      "columns": [
+        "model",
+        "dfb1_h1",
+        "dfb1_h10",
+        "dfb1_mr",
+        "dfb2_h1",
+        "dfb2_h10",
+        "dfb2_mr",
+        "dfb3_h1",
+        "dfb3_h10",
+        "dfb3_mr"
+      ],
+      "numeric_columns": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "rows": [
+        [
+          "MTransE(LT)",
+          38.9,
+          61.0,
+          237.7,
+          12.3,
+          33.8,
+          419.2,
+          6.5,
+          22.0,
+          699.8
+        ],
+        [
+          "MTransE(TB)",
+          13.6,
+          35.1,
+          547.7,
+          13.9,
+          35.4,
+          675.7,
+          4.5,
+          16.1,
+          1255.5
+        ],
+        [
+          "TransE+PS",
+          61.9,
+          79.2,
+          105.2,
+          41.1,
+          67.0,
+          154.9,
+          12.2,
+          34.6,
+          431.9
+        ],
+        [
+          "ITransE(HA)",
+          62.6,
+          78.9,
+          100.0,
+          41.2,
+          66.9,
+          151.9,
+          12.3,
+          33.7,
+          432.3
+        ],
+        [
+          "ITransE(SA)",
+          67.1,
+          83.1,
+          80.1,
+          57.7,
+          77.7,
+          109.3,
+          16.2,
+          40.9,
+          367.2
+        ],
+        [
+          "PTransE+PS",
+          65.8,
+          83.4,
+          62.9,
+          46.3,
+          72.1,
+          96.8,
+          15.8,
+          40.2,
+          346.9
+        ],
+        [
+          "IPTransE(HA)",
+          66.1,
+          83.3,
+          59.1,
+          46.2,
+          72.6,
+          94.2,
+          15.1,
+          39.7,
+          337.6
+        ],
+        [
+          "IPTransE(SA)",
+          71.7,
+          86.5,
+          49.0,
+          63.5,
+          82.2,
+          67.5,
+          20.4,
+          47.4,
+          281.0
+        ]
+      ],
+      "note": "Hits@1/Hits@10 越高越好，MR 越低越好；SA 为软对齐。",
+      "status": "matrix"
+    },
+    {
+      "id": "TAB-B-4-8",
+      "caption": "实体预测和关系预测的结果",
+      "book": "B",
+      "page": 148,
+      "columns": [
+        "model",
+        "ent_mr_raw",
+        "ent_mr_filtered",
+        "ent_h10_raw",
+        "ent_h10_filtered",
+        "rel_mr_raw",
+        "rel_mr_filtered",
+        "rel_h1_raw",
+        "rel_h1_filtered"
+      ],
+      "numeric_columns": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "status": "matrix",
+      "rows": [
+        [
+          "MTransE(LT)",
+          240.8,
+          131.3,
+          36.4,
+          47.3,
+          37.2,
+          36.9,
+          48.3,
+          56.9
+        ],
+        [
+          "MTransE(TB)",
+          851.3,
+          759.7,
+          9.4,
+          10.8,
+          293.7,
+          293.4,
+          27.4,
+          27.7
+        ],
+        [
+          "TransE",
+          246.1,
+          131.6,
+          42.5,
+          54.3,
+          55.9,
+          55.6,
+          44.2,
+          50.7
+        ],
+        [
+          "TransE+Aux",
+          232.8,
+          121.5,
+          43.3,
+          54.9,
+          50.1,
+          49.8,
+          44.4,
+          50.9
+        ],
+        [
+          "ITransE(SA)",
+          209.2,
+          101.0,
+          44.2,
+          55.1,
+          19.8,
+          19.6,
+          54.2,
+          60.7
+        ],
+        [
+          "PTransE",
+          213.0,
+          97.2,
+          50.9,
+          72.1,
+          2.33,
+          1.96,
+          67.4,
+          86.9
+        ],
+        [
+          "PTransE+Aux",
+          206.3,
+          80.4,
+          52.7,
+          80.7,
+          2.34,
+          1.93,
+          68.8,
+          90.5
+        ],
+        [
+          "IPTransE(SA)",
+          197.5,
+          70.6,
+          53.0,
+          80.8,
+          2.03,
+          1.62,
+          68.6,
+          90.8
+        ]
+      ],
+      "note": "DFB-4；实体预测报 Hits@10，关系预测报 Hits@1。"
+    },
+    {
+      "id": "TAB-B-4-9",
+      "caption": "EDRM-KNRM、EDRM-CKNRM 和基线模型的排序准确率",
+      "book": "B",
+      "page": 152,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-B-4-9",
+          "EDRM-KNRM、EDRM-CKNRM 和基线模型的排序准确率",
+          152,
+          "EDRM 在 Testing-SAME/DIFF/RAW 三场景的排序指标。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "EDRM 在 Testing-SAME/DIFF/RAW 三场景的排序指标。"
+    },
+    {
+      "id": "TAB-B-4-10",
+      "caption": "在 K-NRM 和 Conv-KNRM 基础上增加多样语义的排序准确度",
+      "book": "B",
+      "page": 154,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-B-4-10",
+          "在 K-NRM 和 Conv-KNRM 基础上增加多样语义的排序准确度",
+          154,
+          "EDRM 在 K-NRM/Conv-KNRM 上增加语义的消融。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "EDRM 在 K-NRM/Conv-KNRM 上增加语义的消融。"
+    },
+    {
+      "id": "TAB-B-4-11",
+      "caption": "查询和文档样例",
+      "book": "B",
+      "page": 156,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-B-4-11",
+          "查询和文档样例",
+          156,
+          "EDRM 排序的查询-文档样例。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "EDRM 排序的查询-文档样例。"
+    },
+    {
+      "id": "TAB-B-4-12",
+      "caption": "相关实体的语义",
+      "book": "B",
+      "page": 156,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-B-4-12",
+          "相关实体的语义",
+          156,
+          "EDRM 的错误样例分析。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "EDRM 的错误样例分析。"
+    },
+    {
+      "id": "TAB-B-5-1",
+      "caption": "不同模型在 Wordsim240 词相似度数据集上的评测结果",
+      "book": "B",
+      "page": 166,
+      "columns": [
+        "model",
+        "corr_x100"
+      ],
+      "numeric_columns": [
+        1
+      ],
+      "status": "matrix",
+      "rows": [
+        [
+          "CBOW",
+          55.85
+        ],
+        [
+          "Skip-gram",
+          53.42
+        ],
+        [
+          "GloVe",
+          48.22
+        ],
+        [
+          "义项不敏感(HowNet)",
+          56.93
+        ],
+        [
+          "义项不敏感(语料库)",
+          57.48
+        ],
+        [
+          "义项敏感(语料库)",
+          57.03
+        ]
+      ],
+      "note": "与人工打分的相关系数 ×100。"
+    },
+    {
+      "id": "TAB-B-5-2",
+      "caption": "不同模型在 SemEval 2007 中文词义消歧数据集上的评测结果",
+      "book": "B",
+      "page": 167,
+      "columns": [
+        "model",
+        "accuracy"
+      ],
+      "numeric_columns": [
+        1
+      ],
+      "status": "matrix",
+      "rows": [
+        [
+          "随机选择义项",
+          0.24
+        ],
+        [
+          "朴素 Bayes",
+          0.44
+        ],
+        [
+          "PageRank",
+          0.54
+        ],
+        [
+          "义项不敏感(HowNet)",
+          0.56
+        ],
+        [
+          "义项不敏感(语料库)",
+          0.57
+        ],
+        [
+          "义项敏感(语料库)",
+          0.58
+        ]
+      ],
+      "note": "6 个词、96 个实例的平均准确率。"
+    },
+    {
+      "id": "TAB-B-5-3",
+      "caption": "义项向量和义原向量的最近邻词示例",
+      "book": "B",
+      "page": 168,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-B-5-3",
+          "义项向量和义原向量的最近邻词示例",
+          168,
+          "义项与义原向量的最近邻词。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "义项与义原向量的最近邻词。"
+    },
+    {
+      "id": "TAB-B-5-4",
+      "caption": "义原向量之间最近邻示例",
+      "book": "B",
+      "page": 168,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-B-5-4",
+          "义原向量之间最近邻示例",
+          168,
+          "义原向量的最近邻义原。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "义原向量的最近邻义原。"
+    },
+    {
+      "id": "TAB-B-5-5",
+      "caption": "低频词的最近邻词示例",
+      "book": "B",
+      "page": 168,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-B-5-5",
+          "低频词的最近邻词示例",
+          168,
+          "低频词在 CBOW 与义原模型下的最近邻对比。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "低频词在 CBOW 与义原模型下的最近邻对比。"
+    },
+    {
+      "id": "TAB-B-5-6",
+      "caption": "词相似度计算的评测结果",
+      "book": "B",
+      "page": 174,
+      "columns": [
+        "model",
+        "wordsim240",
+        "wordsim297"
+      ],
+      "numeric_columns": [
+        1,
+        2
+      ],
+      "status": "matrix",
+      "rows": [
+        [
+          "CBOW",
+          57.7,
+          61.1
+        ],
+        [
+          "GloVe",
+          59.8,
+          58.7
+        ],
+        [
+          "Skip-gram",
+          58.5,
+          63.3
+        ],
+        [
+          "SSA",
+          58.9,
+          64.0
+        ],
+        [
+          "SAC",
+          59.0,
+          63.1
+        ],
+        [
+          "MST",
+          59.2,
+          62.8
+        ],
+        [
+          "SAT",
+          63.2,
+          65.6
+        ]
+      ],
+      "note": "SAT 在 Wordsim240/297 上均最好。"
+    },
+    {
+      "id": "TAB-B-5-7",
+      "caption": "词类比推理的评测结果（准确率百分数）",
+      "book": "B",
+      "page": 175,
+      "columns": [
+        "model",
+        "cap_acc",
+        "city_acc",
+        "family_acc",
+        "all_acc",
+        "cap_rank",
+        "city_rank",
+        "family_rank",
+        "all_rank"
+      ],
+      "numeric_columns": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "status": "matrix",
+      "rows": [
+        [
+          "CBOW",
+          49.8,
+          85.7,
+          86.0,
+          64.2,
+          36.98,
+          1.23,
+          62.64,
+          37.62
+        ],
+        [
+          "GloVe",
+          57.3,
+          74.3,
+          81.6,
+          65.8,
+          19.09,
+          1.71,
+          3.58,
+          12.63
+        ],
+        [
+          "Skip-gram",
+          66.8,
+          93.7,
+          76.8,
+          73.4,
+          137.19,
+          1.07,
+          2.95,
+          83.51
+        ],
+        [
+          "SSA",
+          62.3,
+          93.7,
+          81.6,
+          71.9,
+          45.74,
+          1.06,
+          3.33,
+          28.52
+        ],
+        [
+          "SAC",
+          61.6,
+          95.4,
+          77.9,
+          70.8,
+          19.08,
+          1.02,
+          2.18,
+          12.18
+        ],
+        [
+          "MST",
+          65.7,
+          95.4,
+          82.7,
+          74.5,
+          50.29,
+          1.05,
+          2.48,
+          31.05
+        ],
+        [
+          "SAT",
+          83.2,
+          98.9,
+          82.4,
+          85.3,
+          14.42,
+          1.01,
+          2.63,
+          9.48
+        ]
+      ],
+      "note": "SAT 在总准确率与平均排序上均最好。"
+    },
+    {
+      "id": "TAB-B-5-8",
+      "caption": "不同语境中义原、意义和词与注意力机制结合的示例",
+      "book": "B",
+      "page": 176,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-B-5-8",
+          "不同语境中义原、意义和词与注意力机制结合的示例",
+          176,
+          "不同上下文下义原注意力权重示例。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "不同上下文下义原注意力权重示例。"
+    },
+    {
+      "id": "TAB-B-5-9",
+      "caption": "义原对注意力计算的权重",
+      "book": "B",
+      "page": 177,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-B-5-9",
+          "义原对注意力计算的权重",
+          177,
+          "义原对词义的注意力权重。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "义原对词义的注意力权重。"
+    },
+    {
+      "id": "TAB-B-6-1",
+      "caption": "模型对义原预测的结果",
+      "book": "B",
+      "page": 185,
+      "columns": [
+        "method",
+        "map"
+      ],
+      "numeric_columns": [
+        1
+      ],
+      "rows": [
+        [
+          "SPSE",
+          0.554
+        ],
+        [
+          "SPASE",
+          0.506
+        ],
+        [
+          "GloVe+LR",
+          0.662
+        ],
+        [
+          "SPWE",
+          0.676
+        ],
+        [
+          "SPWE+SPASE",
+          0.683
+        ],
+        [
+          "SPWE+SPSE",
+          0.713
+        ]
+      ],
+      "note": "MAP 为多标签义原预测指标；SPWE+SPSE 集成最好。",
+      "status": "matrix"
+    },
+    {
+      "id": "TAB-B-6-2",
+      "caption": "列出了SPWE+SPSE 集成模型为5 个词预测的 5个义原，5个词为网迷—",
+      "book": "B",
+      "page": 186,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-B-6-2",
+          "列出了SPWE+SPSE 集成模型为5 个词预测的 5个义原，5个词为网迷—",
+          186,
+          "SPWE+SPSE 对 5 个词的 Top-5 义原预测。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "SPWE+SPSE 对 5 个词的 Top-5 义原预测。"
+    },
+    {
+      "id": "TAB-B-6-3",
+      "caption": "不同词性下义原预测结果",
+      "book": "B",
+      "page": 188,
+      "columns": [
+        "pos",
+        "words",
+        "map"
+      ],
+      "numeric_columns": [
+        1,
+        2
+      ],
+      "status": "matrix",
+      "rows": [
+        [
+          "副词",
+          136,
+          0.568
+        ],
+        [
+          "形容词",
+          808,
+          0.544
+        ],
+        [
+          "动词",
+          1867,
+          0.583
+        ],
+        [
+          "名词",
+          3556,
+          0.747
+        ]
+      ],
+      "note": "名词义原最容易预测。"
+    },
+    {
+      "id": "TAB-B-6-4",
+      "caption": "不同词频下义原预测结果",
+      "book": "B",
+      "page": 188,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-B-6-4",
+          "不同词频下义原预测结果",
+          188,
+          "不同词频下的义原预测 MAP；低频词更高。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "不同词频下的义原预测 MAP；低频词更高。"
+    },
+    {
+      "id": "TAB-B-6-5",
+      "caption": "整体义原预测结果",
+      "book": "B",
+      "page": 193,
+      "columns": [
+        "method",
+        "map"
+      ],
+      "numeric_columns": [
+        1
+      ],
+      "status": "matrix",
+      "rows": [
+        [
+          "SPSE",
+          0.411
+        ],
+        [
+          "SPWE",
+          0.565
+        ],
+        [
+          "SPWE+SPSE",
+          0.577
+        ],
+        [
+          "SPWCF",
+          0.467
+        ],
+        [
+          "SPCSE",
+          0.331
+        ],
+        [
+          "SPWCF+SPCSE",
+          0.483
+        ],
+        [
+          "SPWE+fastText",
+          0.531
+        ],
+        [
+          "CSP",
+          0.654
+        ]
+      ],
+      "note": "CSP 融合内部字信息与外部上下文。"
+    },
+    {
+      "id": "TAB-B-6-6",
+      "caption": "不同词频下的义原预测结果",
+      "book": "B",
+      "page": 194,
+      "columns": [
+        "freq_bin",
+        "spwe",
+        "spse",
+        "spwe_spse",
+        "spwcf",
+        "spcse",
+        "spwcf_spcse",
+        "spwe_fasttext",
+        "csp"
+      ],
+      "numeric_columns": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "status": "matrix",
+      "rows": [
+        [
+          "≤50",
+          0.312,
+          0.187,
+          0.284,
+          0.456,
+          0.309,
+          0.467,
+          0.495,
+          0.527
+        ],
+        [
+          "51-100",
+          0.437,
+          0.273,
+          0.414,
+          0.414,
+          0.291,
+          0.437,
+          0.472,
+          0.555
+        ],
+        [
+          "101-1000",
+          0.481,
+          0.339,
+          0.478,
+          0.4,
+          0.286,
+          0.418,
+          0.462,
+          0.555
+        ],
+        [
+          "1001-5000",
+          0.558,
+          0.409,
+          0.556,
+          0.443,
+          0.312,
+          0.456,
+          0.52,
+          0.626
+        ],
+        [
+          "5001-10000",
+          0.549,
+          0.407,
+          0.548,
+          0.462,
+          0.339,
+          0.477,
+          0.508,
+          0.632
+        ],
+        [
+          "10001-30000",
+          0.556,
+          0.424,
+          0.554,
+          0.463,
+          0.353,
+          0.477,
+          0.499,
+          0.641
+        ],
+        [
+          ">30000",
+          0.509,
+          0.386,
+          0.511,
+          0.479,
+          0.342,
+          0.494,
+          0.49,
+          0.624
+        ]
+      ],
+      "note": "CSP 在全部词频段最好；内部模型对低频更稳。"
+    },
+    {
+      "id": "TAB-B-6-7",
+      "caption": "义原预测示例",
+      "book": "B",
+      "page": 195,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-B-6-7",
+          "义原预测示例",
+          195,
+          "内部/外部/集成模型对复合词与音译词的预测。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "内部/外部/集成模型对复合词与音译词的预测。"
+    },
+    {
+      "id": "TAB-B-6-8",
+      "caption": "不同种子词典大小下跨语言词义原预测的评测结果",
+      "book": "B",
+      "page": 203,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-B-6-8",
+          "不同种子词典大小下跨语言词义原预测的评测结果",
+          203,
+          "跨语言义原预测随种子词典规模的变化。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "跨语言义原预测随种子词典规模的变化。"
+    },
+    {
+      "id": "TAB-B-6-9",
+      "caption": "列出了模型为两个词预测的前5个义原，其中黑体义原表示知网中标注了的",
+      "book": "B",
+      "page": 204,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-B-6-9",
+          "列出了模型为两个词预测的前5个义原，其中黑体义原表示知网中标注了的",
+          204,
+          "目标语言词的前 5 义原与最近中文词。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "目标语言词的前 5 义原与最近中文词。"
+    },
+    {
+      "id": "TAB-B-6-10",
+      "caption": "不同词频下跨语言词义原预测的评测结果",
+      "book": "B",
+      "page": 205,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-B-6-10",
+          "不同词频下跨语言词义原预测的评测结果",
+          205,
+          "跨语言预测在不同词频段的结果。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "跨语言预测在不同词频段的结果。"
+    },
+    {
+      "id": "TAB-B-6-11",
+      "caption": "不同种子词典规模下的双语词典构建评测结果",
+      "book": "B",
+      "page": 206,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-B-6-11",
+          "不同种子词典规模下的双语词典构建评测结果",
+          206,
+          "跨语言实验的双语数据构建统计。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "跨语言实验的双语数据构建统计。"
+    },
+    {
+      "id": "TAB-B-6-12",
+      "caption": "单语词相似度计算评测结果",
+      "book": "B",
+      "page": 207,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-B-6-12",
+          "单语词相似度计算评测结果",
+          207,
+          "跨语言词相似度与义原预测指标。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "跨语言词相似度与义原预测指标。"
+    },
+    {
+      "id": "TAB-B-7-1",
+      "caption": "LIWC 词典统计结果",
+      "book": "B",
+      "page": 216,
+      "columns": [
+        "level",
+        "words",
+        "labels"
+      ],
+      "numeric_columns": [
+        1,
+        2
+      ],
+      "status": "matrix",
+      "rows": [
+        [
+          "合计",
+          6828,
+          51
+        ],
+        [
+          "级别1",
+          6828,
+          10
+        ],
+        [
+          "级别2",
+          6363,
+          34
+        ],
+        [
+          "级别3",
+          589,
+          7
+        ]
+      ],
+      "note": "中文 LIWC 的 3 层标签统计。"
+    },
+    {
+      "id": "TAB-B-7-2",
+      "caption": "Micro-F1 和 W-M-F1 在每一层的结果",
+      "book": "B",
+      "page": 217,
+      "columns": [
+        "model",
+        "overall_micro",
+        "overall_wm",
+        "l1_micro",
+        "l1_wm",
+        "l2_micro",
+        "l2_wm",
+        "l3_micro",
+        "l3_wm"
+      ],
+      "numeric_columns": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "status": "matrix",
+      "rows": [
+        [
+          "TD k-NN",
+          0.6198,
+          0.6169,
+          0.6756,
+          0.6772,
+          0.5716,
+          0.5646,
+          0.4884,
+          0.4858
+        ],
+        [
+          "TD SVM",
+          0.6283,
+          0.6106,
+          0.6858,
+          0.6785,
+          0.5766,
+          0.5557,
+          0.4503,
+          0.4142
+        ],
+        [
+          "结构化 SVM",
+          0.6444,
+          0.6448,
+          0.7011,
+          0.701,
+          0.5919,
+          0.5919,
+          0.5725,
+          0.5718
+        ],
+        [
+          "CSSA",
+          0.6511,
+          0.6319,
+          0.688,
+          0.6864,
+          0.6172,
+          0.5914,
+          0.4729,
+          0.4322
+        ],
+        [
+          "HD",
+          0.7023,
+          0.7,
+          0.7495,
+          0.7476,
+          0.6658,
+          0.6614,
+          0.6113,
+          0.6064
+        ],
+        [
+          "HDSA",
+          0.7224,
+          0.7204,
+          0.7636,
+          0.7616,
+          0.6927,
+          0.6874,
+          0.627,
+          0.6234
+        ]
+      ],
+      "note": "LIWC 三层标签；HDSA 在各层均最好。"
+    },
+    {
+      "id": "TAB-B-7-3",
+      "caption": "W-M 在每一层的平均精度和召回率",
+      "book": "B",
+      "page": 217,
+      "columns": [
+        "model",
+        "overall_p",
+        "overall_r",
+        "l1_p",
+        "l1_r",
+        "l2_p",
+        "l2_r",
+        "l3_p",
+        "l3_r"
+      ],
+      "numeric_columns": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "status": "matrix",
+      "rows": [
+        [
+          "TD k-NN",
+          0.723,
+          0.5494,
+          0.7718,
+          0.6069,
+          0.6912,
+          0.4945,
+          0.4905,
+          0.4846
+        ],
+        [
+          "TD SVM",
+          0.7297,
+          0.5422,
+          0.7707,
+          0.6161,
+          0.6988,
+          0.4822,
+          0.5855,
+          0.3308
+        ],
+        [
+          "结构化 SVM",
+          0.6607,
+          0.6341,
+          0.7193,
+          0.6843,
+          0.6059,
+          0.5862,
+          0.5788,
+          0.5769
+        ],
+        [
+          "CSSA",
+          0.6168,
+          0.691,
+          0.6068,
+          0.7973,
+          0.6306,
+          0.6062,
+          0.5797,
+          0.3692
+        ],
+        [
+          "HD",
+          0.7216,
+          0.6859,
+          0.7767,
+          0.7238,
+          0.6711,
+          0.6604,
+          0.6051,
+          0.6169
+        ],
+        [
+          "HDSA",
+          0.7473,
+          0.7001,
+          0.7976,
+          0.7311,
+          0.7052,
+          0.6804,
+          0.6354,
+          0.6308
+        ]
+      ],
+      "note": "W-M 平均精度/召回率；第三层差距最大。"
+    },
+    {
+      "id": "TAB-B-7-4",
+      "caption": "词语、义原、HD 预测结果和 HDSA 预测结果的例子",
+      "book": "B",
+      "page": 219,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-B-7-4",
+          "词语、义原、HD 预测结果和 HDSA 预测结果的例子",
+          219,
+          "义原帮助 HDSA 纠正/出错的例子。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "义原帮助 HDSA 纠正/出错的例子。"
+    },
+    {
+      "id": "TAB-B-7-5",
+      "caption": "《人民日报》数据集的验证集与测试集的单模型困惑度",
+      "book": "B",
+      "page": 228,
+      "columns": [
+        "model",
+        "params",
+        "valid_ppl",
+        "test_ppl"
+      ],
+      "numeric_columns": [
+        2,
+        3
+      ],
+      "rows": [
+        [
+          "LSTM(medium)",
+          "24M",
+          116.46,
+          115.51
+        ],
+        [
+          "LSTM(medium)+cHSM",
+          "24M",
+          129.12,
+          128.12
+        ],
+        [
+          "LSTM(medium)+tHSM",
+          "24M",
+          151.0,
+          150.87
+        ],
+        [
+          "Tied LSTM(medium)",
+          "15M",
+          105.35,
+          104.67
+        ],
+        [
+          "Tied LSTM(medium)+cHSM",
+          "15M",
+          116.78,
+          115.66
+        ],
+        [
+          "Tied LSTM(medium)+MoS",
+          "17M",
+          98.47,
+          98.12
+        ],
+        [
+          "Tied LSTM(medium)+SDLM",
+          "17M",
+          97.75,
+          97.32
+        ],
+        [
+          "LSTM(large)",
+          "76M",
+          112.39,
+          111.66
+        ],
+        [
+          "LSTM(large)+cHSM",
+          "76M",
+          120.07,
+          119.45
+        ],
+        [
+          "LSTM(large)+tHSM",
+          "76M",
+          140.41,
+          139.61
+        ],
+        [
+          "Tied LSTM(large)",
+          "56M",
+          101.46,
+          100.71
+        ],
+        [
+          "Tied LSTM(large)+cHSM",
+          "56M",
+          108.28,
+          107.52
+        ],
+        [
+          "Tied LSTM(large)+MoS",
+          "67M",
+          94.91,
+          94.4
+        ],
+        [
+          "Tied LSTM(large)+SDLM",
+          "67M",
+          94.24,
+          93.6
+        ],
+        [
+          "AWD-LSTM",
+          "26M",
+          89.35,
+          88.86
+        ],
+        [
+          "AWD-LSTM+MoS",
+          "26M",
+          92.98,
+          92.76
+        ],
+        [
+          "AWD-LSTM+SDLM",
+          "27M",
+          88.16,
+          87.66
+        ]
+      ],
+      "note": "困惑度越低越好；SDLM 在同架构下优于 MoS。",
+      "status": "matrix"
+    },
+    {
+      "id": "TAB-B-7-6",
+      "caption": "测试集上具有不同的义项数量的词的困惑度",
+      "book": "B",
+      "page": 228,
+      "columns": [
+        "group",
+        "baseline_ppl",
+        "sdlm_ppl",
+        "delta",
+        "delta_pct"
+      ],
+      "numeric_columns": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "status": "matrix",
+      "rows": [
+        [
+          "义项数量=1",
+          93.21,
+          87.22,
+          5.99,
+          6.4
+        ],
+        [
+          "义项数量>1",
+          121.18,
+          111.88,
+          9.29,
+          7.8
+        ]
+      ],
+      "note": "多义词的困惑度增益更大。"
+    },
+    {
+      "id": "TAB-B-7-7",
+      "caption": "测试集上具有不同的义原数量的词的困惑度",
+      "book": "B",
+      "page": 229,
+      "columns": [
+        "sememe_range",
+        "baseline_ppl",
+        "sdlm_ppl",
+        "delta",
+        "delta_pct"
+      ],
+      "numeric_columns": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "status": "matrix",
+      "rows": [
+        [
+          "[1,2)",
+          71.56,
+          68.47,
+          3.09,
+          4.3
+        ],
+        [
+          "[2,4)",
+          161.32,
+          114.95,
+          16.36,
+          10.1
+        ],
+        [
+          "[4,7)",
+          557.26,
+          465.29,
+          91.98,
+          16.5
+        ],
+        [
+          "[7,14)",
+          623.71,
+          476.45,
+          147.25,
+          23.61
+        ]
+      ],
+      "note": "义原越多，SDLM 增益越大。"
+    },
+    {
+      "id": "TAB-B-7-8",
+      "caption": "LCSTS 测试集上两种模型的 Rouge 值",
+      "book": "B",
+      "page": 229,
+      "columns": [
+        "model",
+        "rouge1",
+        "rouge2",
+        "rougeL"
+      ],
+      "numeric_columns": [
+        1,
+        2,
+        3
+      ],
+      "status": "matrix",
+      "rows": [
+        [
+          "RNN-context",
+          37.5,
+          25.0,
+          34.9
+        ],
+        [
+          "RNN-context-SDLM",
+          38.9,
+          26.2,
+          36.2
+        ]
+      ],
+      "note": "SDLM 作为解码器，三项 ROUGE 均提升。"
+    },
+    {
+      "id": "TAB-B-7-9",
+      "caption": "《人民日报》数据集的测试集中的词和义原预测的一些例子",
+      "book": "B",
+      "page": 230,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-B-7-9",
+          "《人民日报》数据集的测试集中的词和义原预测的一些例子",
+          230,
+          "SDLM 在《人民日报》测试句上的词与义原预测。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "SDLM 在《人民日报》测试句上的词与义原预测。"
+    },
+    {
+      "id": "TAB-B-7-10",
+      "caption": "一个在 LCSTS 的测试集中生成标题的例子",
+      "book": "B",
+      "page": 231,
+      "columns": [
+        "table_id",
+        "caption",
+        "page",
+        "note"
+      ],
+      "numeric_columns": [],
+      "rows": [
+        [
+          "TAB-B-7-10",
+          "一个在 LCSTS 的测试集中生成标题的例子",
+          231,
+          "SDLM 在 LCSTS 上生成的标题样例。"
+        ]
+      ],
+      "status": "index_only",
+      "note": "SDLM 在 LCSTS 上生成的标题样例。"
+    }
+  ]
+}

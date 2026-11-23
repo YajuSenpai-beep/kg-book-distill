@@ -1,0 +1,14 @@
+{
+  "book": "A",
+  "chapter": 9,
+  "chapter_title": "知识图谱若干前沿研究",
+  "sections": [
+    {
+      "sec": "9.5",
+      "title": "结构化知识预训练",
+      "points": [
+        {"id": "A-09-05-51", "t": "PKGM 下游任务的指标", "ty": "案例", "d": "PKGM 在商品分类报 Hit@1/3/10 与准确率 AC，同款对齐报准确率，推荐用 NCF 基准和 leave-one-out；三类服务向量 PKGM-T/R/all 分别对比。", "k": ["Hit@1/3/10 + AC", "对齐准确率", "NCF + leave-one-out", "T/R/all 消融"], "f": "", "pre": ["A-09-05-50"], "rel": ["A-09-05-42"], "p": "p.349-352", "m": "M11 / frontier §6", "c": "专项"}
+      ]
+    }
+  ]
+}

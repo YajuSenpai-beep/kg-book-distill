@@ -1,0 +1,2986 @@
+[
+  {
+    "book": "A",
+    "page": 14,
+    "file": "figures\\pages\\A-014.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "2dbf9a770b52ab0bbe2af0a7a48c8d4aad28c28b"
+  },
+  {
+    "book": "A",
+    "page": 15,
+    "file": "figures\\pages\\A-015.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "62b5b276eda5569748129ccaccc9210e7675e03c"
+  },
+  {
+    "book": "A",
+    "page": 16,
+    "file": "figures\\pages\\A-016.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "4c44a34545cbe656ca44235273aa20a124ec6a0b"
+  },
+  {
+    "book": "A",
+    "page": 17,
+    "file": "figures\\pages\\A-017.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "e61058919eb1b66c9a561aefaa571de09ec55993"
+  },
+  {
+    "book": "A",
+    "page": 18,
+    "file": "figures\\pages\\A-018.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "2e201ee595b0c1b4086471b910092388dd623e26"
+  },
+  {
+    "book": "A",
+    "page": 19,
+    "file": "figures\\pages\\A-019.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "8b9bc8b41c39f6a2c9b0fc95750820745d95c7ec"
+  },
+  {
+    "book": "A",
+    "page": 20,
+    "file": "figures\\pages\\A-020.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "b76834d22d2fc9d1bb6580951e31b5fcbe248202"
+  },
+  {
+    "book": "A",
+    "page": 22,
+    "file": "figures\\pages\\A-022.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "6bc5eb8b9aa933fd3a6240bf16b44649232bb96a"
+  },
+  {
+    "book": "A",
+    "page": 25,
+    "file": "figures\\pages\\A-025.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "1c1ccb77927ce5a14a9412f88b7dd294a9913728"
+  },
+  {
+    "book": "A",
+    "page": 26,
+    "file": "figures\\pages\\A-026.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "d9cbeafccb9ed410bccbe28b379b703277ae2c1f"
+  },
+  {
+    "book": "A",
+    "page": 27,
+    "file": "figures\\pages\\A-027.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "8a63f4331af8ed08e1cfd416587c073012701b09"
+  },
+  {
+    "book": "A",
+    "page": 28,
+    "file": "figures\\pages\\A-028.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "7cbb3984e304a0e48b76ec30eded9a0a928be141"
+  },
+  {
+    "book": "A",
+    "page": 30,
+    "file": "figures\\pages\\A-030.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "44e044b3e65b16d767f9b5270fa45e0aaabee84b"
+  },
+  {
+    "book": "A",
+    "page": 31,
+    "file": "figures\\pages\\A-031.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "617bf9bf818644e321fb620cafe22fdbb2b6fe8b"
+  },
+  {
+    "book": "A",
+    "page": 32,
+    "file": "figures\\pages\\A-032.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "b055d360ad6635a2c27e4790f854ce00ff9cecae"
+  },
+  {
+    "book": "A",
+    "page": 38,
+    "file": "figures\\pages\\A-038.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "cbe462fbd21b3932b8e327cfc829d92eab9870a7"
+  },
+  {
+    "book": "A",
+    "page": 39,
+    "file": "figures\\pages\\A-039.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "9b9403c9269410e292f9c525b40ff0f820a132b6"
+  },
+  {
+    "book": "A",
+    "page": 42,
+    "file": "figures\\pages\\A-042.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "3699692cd04e5301234adc84ca5f47257ebe2131"
+  },
+  {
+    "book": "A",
+    "page": 44,
+    "file": "figures\\pages\\A-044.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "612512feb8dde6ea2a3a88b3b64b2bc6c0508ffc"
+  },
+  {
+    "book": "A",
+    "page": 45,
+    "file": "figures\\pages\\A-045.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "eadf0a2ca2cd055386c55f2b0f33abb68415c159"
+  },
+  {
+    "book": "A",
+    "page": 46,
+    "file": "figures\\pages\\A-046.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "fd8bcd5c49b17cb57947c8147532d95b38970efa"
+  },
+  {
+    "book": "A",
+    "page": 47,
+    "file": "figures\\pages\\A-047.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "1e46d1c015a1781227bd1ba5dd8a842e6e88ccc4"
+  },
+  {
+    "book": "A",
+    "page": 49,
+    "file": "figures\\pages\\A-049.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "ac2ff9143077154f1b44383557d90797ae67ae0c"
+  },
+  {
+    "book": "A",
+    "page": 50,
+    "file": "figures\\pages\\A-050.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "f663eb650b3bcf1273a94579d6e573c8a6fa1472"
+  },
+  {
+    "book": "A",
+    "page": 51,
+    "file": "figures\\pages\\A-051.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "59c4ebe62b874586c852d5661a1c7eefd4b202f8"
+  },
+  {
+    "book": "A",
+    "page": 52,
+    "file": "figures\\pages\\A-052.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "e04d63b5eb9326b477c855f14a7c39f6c398586f"
+  },
+  {
+    "book": "A",
+    "page": 53,
+    "file": "figures\\pages\\A-053.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "c43ea70587741b6e67d7f6b77356a0a55d2d7689"
+  },
+  {
+    "book": "A",
+    "page": 54,
+    "file": "figures\\pages\\A-054.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "892406bffccf724e4fcfdac406fa5f42af7e04c4"
+  },
+  {
+    "book": "A",
+    "page": 58,
+    "file": "figures\\pages\\A-058.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "cd1ae1a26b126ca6fa22bcf5ab0fea3aa5cc8013"
+  },
+  {
+    "book": "A",
+    "page": 59,
+    "file": "figures\\pages\\A-059.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "b29c6a6014dabdbfa0de5a1c7a129277344606c8"
+  },
+  {
+    "book": "A",
+    "page": 60,
+    "file": "figures\\pages\\A-060.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "ac96d9ef992581d4c7777c57a04116df1dfcc371"
+  },
+  {
+    "book": "A",
+    "page": 61,
+    "file": "figures\\pages\\A-061.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "fb4175af2b30403ec8a4e3efca4cc01ef2d2f0fb"
+  },
+  {
+    "book": "A",
+    "page": 62,
+    "file": "figures\\pages\\A-062.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "e07f52d043cee8dab9c74cfdc6de39b853201bd2"
+  },
+  {
+    "book": "A",
+    "page": 63,
+    "file": "figures\\pages\\A-063.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "c4545804d240971603db7e65ffb896c2fe8fb66a"
+  },
+  {
+    "book": "A",
+    "page": 64,
+    "file": "figures\\pages\\A-064.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "92942172ffeb373844c1beb75b2956658873b90b"
+  },
+  {
+    "book": "A",
+    "page": 65,
+    "file": "figures\\pages\\A-065.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "4c68a9a8914d7b4651d38f2898c24980515724a7"
+  },
+  {
+    "book": "A",
+    "page": 67,
+    "file": "figures\\pages\\A-067.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "7eed22505012aabe6e7fa268724522939f010ff4"
+  },
+  {
+    "book": "A",
+    "page": 68,
+    "file": "figures\\pages\\A-068.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "1e24d8b76ec1a5567be4925f47f8deb016396d1b"
+  },
+  {
+    "book": "A",
+    "page": 69,
+    "file": "figures\\pages\\A-069.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "a6cfcaff2e84e2c984ee86f39b38cfe731697e4d"
+  },
+  {
+    "book": "A",
+    "page": 70,
+    "file": "figures\\pages\\A-070.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "efab46de277da20f2fabcaa1091b832d640baafe"
+  },
+  {
+    "book": "A",
+    "page": 71,
+    "file": "figures\\pages\\A-071.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "4e8118cc12de6800baed3e38140f147d29a9c2b9"
+  },
+  {
+    "book": "A",
+    "page": 72,
+    "file": "figures\\pages\\A-072.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "777417c7f4e4f44b306095f4e6a12adee34197ec"
+  },
+  {
+    "book": "A",
+    "page": 73,
+    "file": "figures\\pages\\A-073.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "5a30df389bb18cd26123ba9eb979f8f01b208b71"
+  },
+  {
+    "book": "A",
+    "page": 74,
+    "file": "figures\\pages\\A-074.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "f6406b112ffd59fd2ec3deebadb4420f18c48792"
+  },
+  {
+    "book": "A",
+    "page": 75,
+    "file": "figures\\pages\\A-075.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "b7cbba64c9ef725a0e93615b202cc055cacffa70"
+  },
+  {
+    "book": "A",
+    "page": 79,
+    "file": "figures\\pages\\A-079.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "578f982e21f91fbdea1538def47de9b576a539e4"
+  },
+  {
+    "book": "A",
+    "page": 80,
+    "file": "figures\\pages\\A-080.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "5f8507f752653cca7ac2041857f8e6990b57a138"
+  },
+  {
+    "book": "A",
+    "page": 81,
+    "file": "figures\\pages\\A-081.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "3456705d9bb5243fea82445b95eceae47ca517e9"
+  },
+  {
+    "book": "A",
+    "page": 83,
+    "file": "figures\\pages\\A-083.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "d47a39d906d1c41c1b9609138691b3019c9636de"
+  },
+  {
+    "book": "A",
+    "page": 84,
+    "file": "figures\\pages\\A-084.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "992e37051a870eafdd2cf96c29e153020efb7816"
+  },
+  {
+    "book": "A",
+    "page": 85,
+    "file": "figures\\pages\\A-085.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "7c828fd22c140be7b7250e088d614830844fc209"
+  },
+  {
+    "book": "A",
+    "page": 87,
+    "file": "figures\\pages\\A-087.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "f90c9422699c4005583966ea26ea0146cb497016"
+  },
+  {
+    "book": "A",
+    "page": 90,
+    "file": "figures\\pages\\A-090.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "2eed2d5db9e3127f27686b030aa607facb2a631e"
+  },
+  {
+    "book": "A",
+    "page": 93,
+    "file": "figures\\pages\\A-093.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "16e8326d96ff997a7c777c5edacbd6ca5c3fa3e2"
+  },
+  {
+    "book": "A",
+    "page": 94,
+    "file": "figures\\pages\\A-094.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "2e99b55af2dbd37f5e6550db4fcd4a31a9a13fcc"
+  },
+  {
+    "book": "A",
+    "page": 95,
+    "file": "figures\\pages\\A-095.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "76418a55f4f405ffa40184afb1d0ddbe2da25c5c"
+  },
+  {
+    "book": "A",
+    "page": 96,
+    "file": "figures\\pages\\A-096.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "6494ebcbe5654ea50ba97b8d0c0f3fa973de727c"
+  },
+  {
+    "book": "A",
+    "page": 97,
+    "file": "figures\\pages\\A-097.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "21129dd7bf32797d5d917038afa6eda29aab0e4d"
+  },
+  {
+    "book": "A",
+    "page": 99,
+    "file": "figures\\pages\\A-099.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "e855a3040731b473c5913cb7f0d42e4b062d63f1"
+  },
+  {
+    "book": "A",
+    "page": 100,
+    "file": "figures\\pages\\A-100.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "4a5475969ed9d6a55a5cbd284db0d58bda61f1aa"
+  },
+  {
+    "book": "A",
+    "page": 101,
+    "file": "figures\\pages\\A-101.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "a9177a944e29c7ba07d3108e38aacfd661049763"
+  },
+  {
+    "book": "A",
+    "page": 102,
+    "file": "figures\\pages\\A-102.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "87b37c5895f92a54b249c6345e0fcfcd42abc53d"
+  },
+  {
+    "book": "A",
+    "page": 103,
+    "file": "figures\\pages\\A-103.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "118382011896d4fbd23d3eaeced5780e37e81fd5"
+  },
+  {
+    "book": "A",
+    "page": 104,
+    "file": "figures\\pages\\A-104.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "fab9e25fe4b1e76ed881590c8cf1e2e2396bd56b"
+  },
+  {
+    "book": "A",
+    "page": 105,
+    "file": "figures\\pages\\A-105.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "17dd3f199458240b1dcdf0a75505dbe9aea28b65"
+  },
+  {
+    "book": "A",
+    "page": 106,
+    "file": "figures\\pages\\A-106.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "cc29fc49d23a2f80f423cb28b2d29a6d8c7bd3b6"
+  },
+  {
+    "book": "A",
+    "page": 107,
+    "file": "figures\\pages\\A-107.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "fcbc6f467d734cd9b6d214924cbe2b73c859e197"
+  },
+  {
+    "book": "A",
+    "page": 108,
+    "file": "figures\\pages\\A-108.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "d9ea4b21309e1d586f41aeefcda9ae4928f3b2c7"
+  },
+  {
+    "book": "A",
+    "page": 109,
+    "file": "figures\\pages\\A-109.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "5ed44c2ec9a0ed6dec90d1db46dca7d73747608d"
+  },
+  {
+    "book": "A",
+    "page": 110,
+    "file": "figures\\pages\\A-110.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "1a6a419842ecbcad13f78beb20303a467580560d"
+  },
+  {
+    "book": "A",
+    "page": 111,
+    "file": "figures\\pages\\A-111.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "9c6d5ed5995e142ce247514e5194ad45101292c3"
+  },
+  {
+    "book": "A",
+    "page": 112,
+    "file": "figures\\pages\\A-112.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "9f23b8dc476da840ab3fe936a3b6054d29e595b0"
+  },
+  {
+    "book": "A",
+    "page": 113,
+    "file": "figures\\pages\\A-113.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "03aee1137a92c894cbb57f0e743d8e471adf5733"
+  },
+  {
+    "book": "A",
+    "page": 114,
+    "file": "figures\\pages\\A-114.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "40c29b2e0183f952a728eddd2334fbfd85877817"
+  },
+  {
+    "book": "A",
+    "page": 115,
+    "file": "figures\\pages\\A-115.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "0ffb87f52e7b2831e9fb16be91f1b84665d990c0"
+  },
+  {
+    "book": "A",
+    "page": 119,
+    "file": "figures\\pages\\A-119.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "3f8bfdd6163265882d82949a5e10c3914863a209"
+  },
+  {
+    "book": "A",
+    "page": 120,
+    "file": "figures\\pages\\A-120.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "4d758844d12bf90e99d759d69615f32fbf477bd0"
+  },
+  {
+    "book": "A",
+    "page": 121,
+    "file": "figures\\pages\\A-121.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "62639fe790cbde869d8f3497dfa9f75f4c57e1b5"
+  },
+  {
+    "book": "A",
+    "page": 122,
+    "file": "figures\\pages\\A-122.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "8e59a1af55657227e8e18fb48b29940dd93c61c3"
+  },
+  {
+    "book": "A",
+    "page": 123,
+    "file": "figures\\pages\\A-123.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "79b80f5f903d80044c9e57bed7d8b0e855d2126a"
+  },
+  {
+    "book": "A",
+    "page": 126,
+    "file": "figures\\pages\\A-126.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "e0345810112628358b50b0ea0e846534ad5c49ab"
+  },
+  {
+    "book": "A",
+    "page": 129,
+    "file": "figures\\pages\\A-129.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "bfb7356e61333eaae689f666bd2397868d113024"
+  },
+  {
+    "book": "A",
+    "page": 130,
+    "file": "figures\\pages\\A-130.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "2fb232471a313eaa4bbc9aec1fcae99f21e08c74"
+  },
+  {
+    "book": "A",
+    "page": 131,
+    "file": "figures\\pages\\A-131.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "4ad0baace5eec5f013c30511b3d5a054674f8952"
+  },
+  {
+    "book": "A",
+    "page": 132,
+    "file": "figures\\pages\\A-132.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "05065a1eb5cc8b6b37bfe9cc557c2d5ae2c9c9d2"
+  },
+  {
+    "book": "A",
+    "page": 133,
+    "file": "figures\\pages\\A-133.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "dc93c197488a070c14fe8e3d445869d665d95077"
+  },
+  {
+    "book": "A",
+    "page": 135,
+    "file": "figures\\pages\\A-135.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "8d3fb947ac2cb8cdaf72b65e972e03b75328f518"
+  },
+  {
+    "book": "A",
+    "page": 137,
+    "file": "figures\\pages\\A-137.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "cd6ecb8facf993e62a85103607915bcd60dea435"
+  },
+  {
+    "book": "A",
+    "page": 138,
+    "file": "figures\\pages\\A-138.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "74eb389c56069d0e7469414bf32360731e4bd3c5"
+  },
+  {
+    "book": "A",
+    "page": 139,
+    "file": "figures\\pages\\A-139.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "ec2a22e6c4699a237f9fb24d514ed102820d6011"
+  },
+  {
+    "book": "A",
+    "page": 140,
+    "file": "figures\\pages\\A-140.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "cb6296c1e7a89aff9c16945855b93bcbd763d8d9"
+  },
+  {
+    "book": "A",
+    "page": 141,
+    "file": "figures\\pages\\A-141.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "fac060bb2cf233d8b449738edf41f6d37208bf28"
+  },
+  {
+    "book": "A",
+    "page": 142,
+    "file": "figures\\pages\\A-142.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "3b65318e90a8041f65d1b78a1b772731c863d3ca"
+  },
+  {
+    "book": "A",
+    "page": 143,
+    "file": "figures\\pages\\A-143.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "810a7850f9f179f63bd138476cd60b6c7e766b4d"
+  },
+  {
+    "book": "A",
+    "page": 144,
+    "file": "figures\\pages\\A-144.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "8839c8aa902d5f7b4c769fd12dbce60cd91d5019"
+  },
+  {
+    "book": "A",
+    "page": 145,
+    "file": "figures\\pages\\A-145.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "e6d4e36de164bf6e32a50cf89ecc1220a651771f"
+  },
+  {
+    "book": "A",
+    "page": 146,
+    "file": "figures\\pages\\A-146.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "1bc49d580e7a26d9ff8e3f5f456a718cafe4f1ba"
+  },
+  {
+    "book": "A",
+    "page": 147,
+    "file": "figures\\pages\\A-147.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "9626580d15509c6abc3f7ac8054d0f4e3059930e"
+  },
+  {
+    "book": "A",
+    "page": 148,
+    "file": "figures\\pages\\A-148.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "12a5cb0201cf2d2dd2159cdea7e5a87b938894d2"
+  },
+  {
+    "book": "A",
+    "page": 150,
+    "file": "figures\\pages\\A-150.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "cad3243a9b625a24baa6d1ef4d7410c790f5b133"
+  },
+  {
+    "book": "A",
+    "page": 151,
+    "file": "figures\\pages\\A-151.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "42cae1a9c8217a7052d5544fcec8bfd224c1ad13"
+  },
+  {
+    "book": "A",
+    "page": 152,
+    "file": "figures\\pages\\A-152.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "1b7456cf27f4564265b49e58203abcdb47e99bd2"
+  },
+  {
+    "book": "A",
+    "page": 153,
+    "file": "figures\\pages\\A-153.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "64e12136937c5b9afb13f555e5412e06707347ee"
+  },
+  {
+    "book": "A",
+    "page": 154,
+    "file": "figures\\pages\\A-154.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "27d04698507b2221e90b6f6aa2255aca57e5ad07"
+  },
+  {
+    "book": "A",
+    "page": 155,
+    "file": "figures\\pages\\A-155.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "a0534583fbcafc726f3a2f599aa46d97017d10b7"
+  },
+  {
+    "book": "A",
+    "page": 157,
+    "file": "figures\\pages\\A-157.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "56ce8cfd13e0c98c19827a73f2fb0fc448fa97f7"
+  },
+  {
+    "book": "A",
+    "page": 158,
+    "file": "figures\\pages\\A-158.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "1e0f64f9e3b3905e7f8b5b151a09aea57fb363aa"
+  },
+  {
+    "book": "A",
+    "page": 159,
+    "file": "figures\\pages\\A-159.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "3ca18d964faa60da29a5b2a074404cfe0595709c"
+  },
+  {
+    "book": "A",
+    "page": 161,
+    "file": "figures\\pages\\A-161.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "7ef3643515df8c023bf41229085030a18d25c181"
+  },
+  {
+    "book": "A",
+    "page": 164,
+    "file": "figures\\pages\\A-164.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "d8474d4ea71c19874866be9b7e3b06ff69c7f40c"
+  },
+  {
+    "book": "A",
+    "page": 165,
+    "file": "figures\\pages\\A-165.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "d499adc27f73ce2d38721e947d01de3f7e08b86f"
+  },
+  {
+    "book": "A",
+    "page": 167,
+    "file": "figures\\pages\\A-167.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "a22bc70e65f86add06edc43b2cf399af4244c9dc"
+  },
+  {
+    "book": "A",
+    "page": 168,
+    "file": "figures\\pages\\A-168.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "b2842a94be5ac9627e37cf32cd86644cb196d434"
+  },
+  {
+    "book": "A",
+    "page": 169,
+    "file": "figures\\pages\\A-169.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "160765c2483761447294294dbd461d0c7caf2a9d"
+  },
+  {
+    "book": "A",
+    "page": 172,
+    "file": "figures\\pages\\A-172.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "aa6b25b0304b48be53234c28f54609f72da5480c"
+  },
+  {
+    "book": "A",
+    "page": 173,
+    "file": "figures\\pages\\A-173.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "d5f173df53a5bf019d96302d8651cd62c4c428ac"
+  },
+  {
+    "book": "A",
+    "page": 174,
+    "file": "figures\\pages\\A-174.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "1c26d7a700bdbc4f451deb30f4ca67769fd1b70d"
+  },
+  {
+    "book": "A",
+    "page": 175,
+    "file": "figures\\pages\\A-175.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "098dc82a6ac0d882514325a02dee7a7bb6ffba6a"
+  },
+  {
+    "book": "A",
+    "page": 178,
+    "file": "figures\\pages\\A-178.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "2835040fe2b05b1c5548fd1599be0047627eae6c"
+  },
+  {
+    "book": "A",
+    "page": 179,
+    "file": "figures\\pages\\A-179.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "5d1709c0649709077f6391b4abbdffa343651104"
+  },
+  {
+    "book": "A",
+    "page": 180,
+    "file": "figures\\pages\\A-180.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "10d84786e18b32a96fee1bd886f5597ee7168eef"
+  },
+  {
+    "book": "A",
+    "page": 184,
+    "file": "figures\\pages\\A-184.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "02f23fc9f76ab36642db06aafd9b636a579c0ee0"
+  },
+  {
+    "book": "A",
+    "page": 185,
+    "file": "figures\\pages\\A-185.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "d441482e8edb8bc8928be33b121dacdf778d4852"
+  },
+  {
+    "book": "A",
+    "page": 186,
+    "file": "figures\\pages\\A-186.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "0e9165587342b8549930e709c9bfe34880cf4fc9"
+  },
+  {
+    "book": "A",
+    "page": 187,
+    "file": "figures\\pages\\A-187.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "451bd079e35e66c237ea62f7a85367ec8119ba28"
+  },
+  {
+    "book": "A",
+    "page": 188,
+    "file": "figures\\pages\\A-188.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "0542e9fb354f9582d3f109aded04c16d687e6999"
+  },
+  {
+    "book": "A",
+    "page": 191,
+    "file": "figures\\pages\\A-191.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "10429b958507c60a844d066403e7298985bc3358"
+  },
+  {
+    "book": "A",
+    "page": 192,
+    "file": "figures\\pages\\A-192.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "a933c7420093738a49d2572a1c9e3b1baad5d41c"
+  },
+  {
+    "book": "A",
+    "page": 193,
+    "file": "figures\\pages\\A-193.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "c6a01fb2305f14b6a2a3f44d1a0b20a8533a9032"
+  },
+  {
+    "book": "A",
+    "page": 195,
+    "file": "figures\\pages\\A-195.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "cc730936341f4c78ce2c66cb2fa638c9e5c623e5"
+  },
+  {
+    "book": "A",
+    "page": 196,
+    "file": "figures\\pages\\A-196.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "be5c6d51573075a37762e7dd571ea23a01fe167d"
+  },
+  {
+    "book": "A",
+    "page": 197,
+    "file": "figures\\pages\\A-197.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "6bec2352651753b3e7c97481227176ed61d314e1"
+  },
+  {
+    "book": "A",
+    "page": 198,
+    "file": "figures\\pages\\A-198.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "55da680e8d570e4f1d96aa96b7b3026ab803ca56"
+  },
+  {
+    "book": "A",
+    "page": 199,
+    "file": "figures\\pages\\A-199.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "b3115ac9ea6d25f8cf5ae46a0314d434573b93fb"
+  },
+  {
+    "book": "A",
+    "page": 203,
+    "file": "figures\\pages\\A-203.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "a349f1d74d6fc62cd6fece224d59169fae86a273"
+  },
+  {
+    "book": "A",
+    "page": 205,
+    "file": "figures\\pages\\A-205.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "9da18927d40976bcd04e0b55e2b9ef7db76d84c2"
+  },
+  {
+    "book": "A",
+    "page": 206,
+    "file": "figures\\pages\\A-206.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "f1cc0e56ff15cdd5f3d87817243fca426868901a"
+  },
+  {
+    "book": "A",
+    "page": 207,
+    "file": "figures\\pages\\A-207.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "ece24ca8a6b89408a7f266a85f24e0e3911783cd"
+  },
+  {
+    "book": "A",
+    "page": 208,
+    "file": "figures\\pages\\A-208.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "2d32a6d01bea3ceed3cd378f15dc75be99998e81"
+  },
+  {
+    "book": "A",
+    "page": 209,
+    "file": "figures\\pages\\A-209.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "a78481a3821e7911d6bc441eeae6e93b64c768e3"
+  },
+  {
+    "book": "A",
+    "page": 210,
+    "file": "figures\\pages\\A-210.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "9bd3fa217bd2ee4e82d808358b99d31fb222437f"
+  },
+  {
+    "book": "A",
+    "page": 211,
+    "file": "figures\\pages\\A-211.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "514b902f08ff21a39135e6c891dbe4207562f6c0"
+  },
+  {
+    "book": "A",
+    "page": 213,
+    "file": "figures\\pages\\A-213.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "449ad795750369f9a4003bf0949a125b5b62cd26"
+  },
+  {
+    "book": "A",
+    "page": 214,
+    "file": "figures\\pages\\A-214.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "1cbecd5a2f1c2b795bd7e318073ff47bada41e12"
+  },
+  {
+    "book": "A",
+    "page": 215,
+    "file": "figures\\pages\\A-215.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "0cad2ea3ed4be379bb24f82f7fe89aba2147e101"
+  },
+  {
+    "book": "A",
+    "page": 216,
+    "file": "figures\\pages\\A-216.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "53bfb196b5011f987033059f05e44e26614ef87f"
+  },
+  {
+    "book": "A",
+    "page": 217,
+    "file": "figures\\pages\\A-217.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "8b267ec45c2ad1992275f9dfabb2f498456bb821"
+  },
+  {
+    "book": "A",
+    "page": 218,
+    "file": "figures\\pages\\A-218.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "1ec9bd775a76d76d092f0703e1c5dcd783ddafc9"
+  },
+  {
+    "book": "A",
+    "page": 219,
+    "file": "figures\\pages\\A-219.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "c6225ab7a9d32ae1f7b0d9e430a32cc39b2edf9e"
+  },
+  {
+    "book": "A",
+    "page": 220,
+    "file": "figures\\pages\\A-220.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "7abb3d0aff562c43f32fe6af9410da0a37f6ac67"
+  },
+  {
+    "book": "A",
+    "page": 221,
+    "file": "figures\\pages\\A-221.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "55521167db57adc431b289e69392166aad3fe2c4"
+  },
+  {
+    "book": "A",
+    "page": 222,
+    "file": "figures\\pages\\A-222.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "2bcfb873df6f8d0a1c5e07c5614b3c0d60012cf9"
+  },
+  {
+    "book": "A",
+    "page": 223,
+    "file": "figures\\pages\\A-223.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "3b6c5cd7e128e57cc7a68af6ab88076ce7a4b1ae"
+  },
+  {
+    "book": "A",
+    "page": 224,
+    "file": "figures\\pages\\A-224.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "761356ae6be4969de5a07f4d4d1adf0dd7d4bcf7"
+  },
+  {
+    "book": "A",
+    "page": 225,
+    "file": "figures\\pages\\A-225.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "b8bbdb9fc2d4ca080d1cddf60e431e37c6383e04"
+  },
+  {
+    "book": "A",
+    "page": 226,
+    "file": "figures\\pages\\A-226.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "2d702342d8f150de152fcc2f67b40ef7d0364bb3"
+  },
+  {
+    "book": "A",
+    "page": 227,
+    "file": "figures\\pages\\A-227.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "f5bd29a153e8c062e0b276924306b2d6462dad29"
+  },
+  {
+    "book": "A",
+    "page": 228,
+    "file": "figures\\pages\\A-228.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "6aa8d002a7995319506fb66d87ae69d1226e1fe2"
+  },
+  {
+    "book": "A",
+    "page": 229,
+    "file": "figures\\pages\\A-229.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "b2404c01d2eb4e8c1b72b9a6ef1ca08e64fec601"
+  },
+  {
+    "book": "A",
+    "page": 231,
+    "file": "figures\\pages\\A-231.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "d11b95e079ffa34d8e2229e9900e876cc38b9f26"
+  },
+  {
+    "book": "A",
+    "page": 232,
+    "file": "figures\\pages\\A-232.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "7310527621fc277c8b43dec49b50af9c5cd02c33"
+  },
+  {
+    "book": "A",
+    "page": 233,
+    "file": "figures\\pages\\A-233.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "26bc334a31fda7a15c4c5f79a6c6fc0a4fdfde17"
+  },
+  {
+    "book": "A",
+    "page": 234,
+    "file": "figures\\pages\\A-234.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "481a6ab08f99d65e52a87bffc457a15b9fff96f5"
+  },
+  {
+    "book": "A",
+    "page": 235,
+    "file": "figures\\pages\\A-235.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "d60d6a28d5c8780908785558e1f954c19ecd853b"
+  },
+  {
+    "book": "A",
+    "page": 236,
+    "file": "figures\\pages\\A-236.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "3ff44df34ff7482074f6a0ae8a65b4166f42f8dc"
+  },
+  {
+    "book": "A",
+    "page": 237,
+    "file": "figures\\pages\\A-237.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "292ffa2038332976c45ef4b2e3a424ab66f5e60f"
+  },
+  {
+    "book": "A",
+    "page": 238,
+    "file": "figures\\pages\\A-238.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "6e27d59235bb4dbeb0a9a043a391d7ed8ef42ed1"
+  },
+  {
+    "book": "A",
+    "page": 242,
+    "file": "figures\\pages\\A-242.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "559c8c717d61ffe9df06e31f6bf252c388ebc0a9"
+  },
+  {
+    "book": "A",
+    "page": 243,
+    "file": "figures\\pages\\A-243.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "87e3250ac21e8eabbb105e6b477b238bdc25afb8"
+  },
+  {
+    "book": "A",
+    "page": 244,
+    "file": "figures\\pages\\A-244.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "9252919c8b4411b17dd93605093293a2aabb5c14"
+  },
+  {
+    "book": "A",
+    "page": 245,
+    "file": "figures\\pages\\A-245.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "76bde3974b919e229c831c6eaeb409846f3446a1"
+  },
+  {
+    "book": "A",
+    "page": 246,
+    "file": "figures\\pages\\A-246.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "1a4af43a521a0fd596ad353240ce5d41836d3484"
+  },
+  {
+    "book": "A",
+    "page": 247,
+    "file": "figures\\pages\\A-247.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "0a877136652f51f4c3ece642722a0fb27eba575e"
+  },
+  {
+    "book": "A",
+    "page": 248,
+    "file": "figures\\pages\\A-248.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "ef184dbdb2b49282563d1646e2d40f62d78355ca"
+  },
+  {
+    "book": "A",
+    "page": 249,
+    "file": "figures\\pages\\A-249.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "c78141a132bd7a602f5b0aa1ca9474495fbc069f"
+  },
+  {
+    "book": "A",
+    "page": 250,
+    "file": "figures\\pages\\A-250.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "6cae34e509cc04eb1af009c0a4efac120258d9a9"
+  },
+  {
+    "book": "A",
+    "page": 251,
+    "file": "figures\\pages\\A-251.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "3df84aa000195678391dee1da437204ee3f143a3"
+  },
+  {
+    "book": "A",
+    "page": 252,
+    "file": "figures\\pages\\A-252.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "ca1d7e707206b79ca313d349b4aed367b1c9b5a4"
+  },
+  {
+    "book": "A",
+    "page": 253,
+    "file": "figures\\pages\\A-253.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "a73c849558e831d29638c080c416b236bca9704f"
+  },
+  {
+    "book": "A",
+    "page": 255,
+    "file": "figures\\pages\\A-255.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "85a45675622c4e76d692c4fd56ef0cffd9efa29e"
+  },
+  {
+    "book": "A",
+    "page": 257,
+    "file": "figures\\pages\\A-257.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "d4ea38add906a4eb3ed54df12f89cf8527cb978e"
+  },
+  {
+    "book": "A",
+    "page": 259,
+    "file": "figures\\pages\\A-259.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "3b21a4e824f10ced99cb35fd29cd0522ec49a6d5"
+  },
+  {
+    "book": "A",
+    "page": 260,
+    "file": "figures\\pages\\A-260.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "832e3bfb81042454fc90eff588222646c4475fa6"
+  },
+  {
+    "book": "A",
+    "page": 261,
+    "file": "figures\\pages\\A-261.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "1fefd23e958593766d1e2a769c1d7563a5165952"
+  },
+  {
+    "book": "A",
+    "page": 262,
+    "file": "figures\\pages\\A-262.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "c6892301d2285f72318640b3fb3a5cfcdc931506"
+  },
+  {
+    "book": "A",
+    "page": 263,
+    "file": "figures\\pages\\A-263.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "ed65af5e472838cd4291a712389fbf820e9ea981"
+  },
+  {
+    "book": "A",
+    "page": 264,
+    "file": "figures\\pages\\A-264.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "7eca86cd71be9856150db51f40c6812ca69fa8b5"
+  },
+  {
+    "book": "A",
+    "page": 266,
+    "file": "figures\\pages\\A-266.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "0530fe61d13b64d00fc45053cedee1a3bbf428fe"
+  },
+  {
+    "book": "A",
+    "page": 267,
+    "file": "figures\\pages\\A-267.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "3a8bba38e618fec73ce750f620f052383ce2b43d"
+  },
+  {
+    "book": "A",
+    "page": 268,
+    "file": "figures\\pages\\A-268.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "54b5f03405b26b50d8251c07c1952c9c66104d00"
+  },
+  {
+    "book": "A",
+    "page": 269,
+    "file": "figures\\pages\\A-269.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "e85300b9d7395dcdb72774702fd2b7637f0cbb27"
+  },
+  {
+    "book": "A",
+    "page": 270,
+    "file": "figures\\pages\\A-270.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "85864a0961ed11a7ff2f83360ca0d52efad32f09"
+  },
+  {
+    "book": "A",
+    "page": 271,
+    "file": "figures\\pages\\A-271.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "3fb17b30220bce1a8beffbc72d0acf511611110c"
+  },
+  {
+    "book": "A",
+    "page": 273,
+    "file": "figures\\pages\\A-273.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "1083cbf0b476fea1cafefc32a75b2f5e5c9c1b73"
+  },
+  {
+    "book": "A",
+    "page": 276,
+    "file": "figures\\pages\\A-276.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "588d4f2bdc087f5c1823d2714896e12ff241913a"
+  },
+  {
+    "book": "A",
+    "page": 277,
+    "file": "figures\\pages\\A-277.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "326cb3194799f4fca93370906deb89f86efc428a"
+  },
+  {
+    "book": "A",
+    "page": 278,
+    "file": "figures\\pages\\A-278.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "31b640158e30821d9ee917109c7d18cd017e9d97"
+  },
+  {
+    "book": "A",
+    "page": 279,
+    "file": "figures\\pages\\A-279.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "5f9bc18d798090d435e4c92bdcdac9bdf9a1305c"
+  },
+  {
+    "book": "A",
+    "page": 280,
+    "file": "figures\\pages\\A-280.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "82673eeddcb175b7d3f1332a452d6e5a9b5a0e2a"
+  },
+  {
+    "book": "A",
+    "page": 281,
+    "file": "figures\\pages\\A-281.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "ca356661c50aff3993bdbab635f73019f0f165c6"
+  },
+  {
+    "book": "A",
+    "page": 282,
+    "file": "figures\\pages\\A-282.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "972d1362e788dd4852f9f7f109cedb8c2fba31f5"
+  },
+  {
+    "book": "A",
+    "page": 283,
+    "file": "figures\\pages\\A-283.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "e78e5622efb1f306b44aa5f69541e19c16150c63"
+  },
+  {
+    "book": "A",
+    "page": 287,
+    "file": "figures\\pages\\A-287.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "d770bcdacccdeb26501c80bf17c1e7135704b90b"
+  },
+  {
+    "book": "A",
+    "page": 288,
+    "file": "figures\\pages\\A-288.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "38231bef830e90b9caabda7817349c04d12874ea"
+  },
+  {
+    "book": "A",
+    "page": 289,
+    "file": "figures\\pages\\A-289.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "a3a8d24e60bdde3c9643f965270ca6ecc0eac6dd"
+  },
+  {
+    "book": "A",
+    "page": 290,
+    "file": "figures\\pages\\A-290.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "395fc70450faeb5ac20fd41f6a5d03af6f0a1f83"
+  },
+  {
+    "book": "A",
+    "page": 291,
+    "file": "figures\\pages\\A-291.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "849cb51729a47c7f39850c31542f0b0d1008af9b"
+  },
+  {
+    "book": "A",
+    "page": 292,
+    "file": "figures\\pages\\A-292.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "ad187f28a625331f14e56f4d40eaec58cbf79f4d"
+  },
+  {
+    "book": "A",
+    "page": 294,
+    "file": "figures\\pages\\A-294.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "b572f6303eb5a66971fb5461cf8729464ce11777"
+  },
+  {
+    "book": "A",
+    "page": 295,
+    "file": "figures\\pages\\A-295.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "0ad1f7d80370922ac6658953fb6009d5e394e67c"
+  },
+  {
+    "book": "A",
+    "page": 296,
+    "file": "figures\\pages\\A-296.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "aa7db8116f4cd7633c69bf1a82731edf96e8e09b"
+  },
+  {
+    "book": "A",
+    "page": 297,
+    "file": "figures\\pages\\A-297.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "0df2c5f1f84259cde59398139fe26200c5d2efb8"
+  },
+  {
+    "book": "A",
+    "page": 298,
+    "file": "figures\\pages\\A-298.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "5489a02c9adbc837b63c2b79af2bc4545f24c52e"
+  },
+  {
+    "book": "A",
+    "page": 299,
+    "file": "figures\\pages\\A-299.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "58b4c183e0a0abc58c9ccab23b72d19b4bbad05b"
+  },
+  {
+    "book": "A",
+    "page": 300,
+    "file": "figures\\pages\\A-300.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "024083585cfb9dcc31a3941f041d693d90ab2792"
+  },
+  {
+    "book": "A",
+    "page": 302,
+    "file": "figures\\pages\\A-302.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "b4a2ddfbedfc0a25a4938ac5c98bb2f6031d51e9"
+  },
+  {
+    "book": "A",
+    "page": 303,
+    "file": "figures\\pages\\A-303.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "12d9e0617e6208056856b2b1827352340b57f9b0"
+  },
+  {
+    "book": "A",
+    "page": 305,
+    "file": "figures\\pages\\A-305.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "98f752720a71d5779def4976f11b4afb42c5caf8"
+  },
+  {
+    "book": "A",
+    "page": 306,
+    "file": "figures\\pages\\A-306.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "d3b6ee859e3e4aa923480923fa369fbd70b258f9"
+  },
+  {
+    "book": "A",
+    "page": 307,
+    "file": "figures\\pages\\A-307.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "6598f07f2158b76bae81cacc00c801a86d03c84a"
+  },
+  {
+    "book": "A",
+    "page": 308,
+    "file": "figures\\pages\\A-308.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "14c21707f8246df8c8ad2fc437732c24d79d6224"
+  },
+  {
+    "book": "A",
+    "page": 310,
+    "file": "figures\\pages\\A-310.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "3ce077959c1e1f707a09c37f586e1e259cf2a8d7"
+  },
+  {
+    "book": "A",
+    "page": 311,
+    "file": "figures\\pages\\A-311.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "23bceabaff1f148c0fae28cad7f0f642a122f37c"
+  },
+  {
+    "book": "A",
+    "page": 312,
+    "file": "figures\\pages\\A-312.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "04d05064127a1bb3cd50fc08e53e8947bb5412f6"
+  },
+  {
+    "book": "A",
+    "page": 315,
+    "file": "figures\\pages\\A-315.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "b5344c46860fcc5fe9f034c5264c3bcb8e96428f"
+  },
+  {
+    "book": "A",
+    "page": 316,
+    "file": "figures\\pages\\A-316.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "f2a22db3047267eb2f387b551e3410722355b1ca"
+  },
+  {
+    "book": "A",
+    "page": 317,
+    "file": "figures\\pages\\A-317.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "f0071f33c2e66901b376fd06072f42b0a08b86cc"
+  },
+  {
+    "book": "A",
+    "page": 319,
+    "file": "figures\\pages\\A-319.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "13a43a4ab4b32bda53e3a31bca7ab7d93cbeb56c"
+  },
+  {
+    "book": "A",
+    "page": 320,
+    "file": "figures\\pages\\A-320.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "00510a1926821b80fa77c7aa81778912ccd32302"
+  },
+  {
+    "book": "A",
+    "page": 321,
+    "file": "figures\\pages\\A-321.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "0a4fc9d1c834095934e9e2992b99b25d734cbaea"
+  },
+  {
+    "book": "A",
+    "page": 322,
+    "file": "figures\\pages\\A-322.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "f4174c1bf95939e7988165049f9c45de7048eb09"
+  },
+  {
+    "book": "A",
+    "page": 324,
+    "file": "figures\\pages\\A-324.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "b44c091aa27346d4dbc2651f6f1236515f838f46"
+  },
+  {
+    "book": "A",
+    "page": 326,
+    "file": "figures\\pages\\A-326.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "9509fa38782ec99f3664bcac9da7838dc9235926"
+  },
+  {
+    "book": "A",
+    "page": 327,
+    "file": "figures\\pages\\A-327.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "5b2fd06c5570c3af14ca7a9e438f0e7508617b62"
+  },
+  {
+    "book": "A",
+    "page": 328,
+    "file": "figures\\pages\\A-328.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "3bd7b9430bd5e72772610177ad67bc63be974896"
+  },
+  {
+    "book": "A",
+    "page": 329,
+    "file": "figures\\pages\\A-329.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "0d8e5a85c1fb9b4703dd15b13f1b0d0c1c29085f"
+  },
+  {
+    "book": "A",
+    "page": 330,
+    "file": "figures\\pages\\A-330.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "5e28c17c7f8848397ebebcd57f95c275c441fe5e"
+  },
+  {
+    "book": "A",
+    "page": 331,
+    "file": "figures\\pages\\A-331.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "ce3446ed2903c299f198e14a45ed751e2430e2ff"
+  },
+  {
+    "book": "A",
+    "page": 335,
+    "file": "figures\\pages\\A-335.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "812c0cdf3a50b528b9d975d1fa67fe6fa1d77aab"
+  },
+  {
+    "book": "A",
+    "page": 336,
+    "file": "figures\\pages\\A-336.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "d7f0991314ec7a8ae77002ff75f611ce74decc53"
+  },
+  {
+    "book": "A",
+    "page": 339,
+    "file": "figures\\pages\\A-339.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "2ccfd081f0d25b19d6c36631e5c5f15a6b950d10"
+  },
+  {
+    "book": "A",
+    "page": 340,
+    "file": "figures\\pages\\A-340.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "b6cf3acbaf91b376dbb3147bc4a7e0bb847c1f72"
+  },
+  {
+    "book": "A",
+    "page": 341,
+    "file": "figures\\pages\\A-341.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "bd748a21dbfdeec60151ebe30cbe270a9ecffe48"
+  },
+  {
+    "book": "A",
+    "page": 346,
+    "file": "figures\\pages\\A-346.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "7cea6eb79df6c2b8981e8b314fe36da3104deedf"
+  },
+  {
+    "book": "A",
+    "page": 348,
+    "file": "figures\\pages\\A-348.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "c8ca4d8719564a4a3281ce7171b7162555e4909b"
+  },
+  {
+    "book": "A",
+    "page": 349,
+    "file": "figures\\pages\\A-349.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "c1f974ac40196077bb4f99f6a17522bef93d6f50"
+  },
+  {
+    "book": "A",
+    "page": 351,
+    "file": "figures\\pages\\A-351.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "7ec1406914281a07c5668db2b599ac867a07b2c9"
+  },
+  {
+    "book": "A",
+    "page": 352,
+    "file": "figures\\pages\\A-352.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "4beb587ee258a72673c5923f27172a06eb5b9064"
+  },
+  {
+    "book": "A",
+    "page": 355,
+    "file": "figures\\pages\\A-355.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "def5d0e6ce0ce8c9bfca0c26c80672680a0d967f"
+  },
+  {
+    "book": "A",
+    "page": 357,
+    "file": "figures\\pages\\A-357.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "061d138c905d542bb07e94bda396b26657accd87"
+  },
+  {
+    "book": "A",
+    "page": 358,
+    "file": "figures\\pages\\A-358.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "979411eab916007ef53bedb609ab303dd2dedd8a"
+  },
+  {
+    "book": "A",
+    "page": 360,
+    "file": "figures\\pages\\A-360.jpg",
+    "width": 918,
+    "height": 1188,
+    "sha1": "90546da66c2cbbef539cab5ba42d15508c19cf43"
+  },
+  {
+    "book": "B",
+    "page": 15,
+    "file": "figures\\pages\\B-015.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "6a8194d27c5ee2ff1435c984859fe46fa947b3de"
+  },
+  {
+    "book": "B",
+    "page": 16,
+    "file": "figures\\pages\\B-016.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "537ecb28e24b01d33e4e0288b4ca3a97c403b399"
+  },
+  {
+    "book": "B",
+    "page": 20,
+    "file": "figures\\pages\\B-020.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "23affed04d604d4eae85c50c1f0233fc2149082b"
+  },
+  {
+    "book": "B",
+    "page": 23,
+    "file": "figures\\pages\\B-023.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "57d8a310c90422b798dbbcd537e53219d58a91cb"
+  },
+  {
+    "book": "B",
+    "page": 24,
+    "file": "figures\\pages\\B-024.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "b2153d49a607c6f327cdfd5fc1073d177ad2b2bc"
+  },
+  {
+    "book": "B",
+    "page": 25,
+    "file": "figures\\pages\\B-025.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "3b7f16366d845db2115e5c0c3f244523b90d104e"
+  },
+  {
+    "book": "B",
+    "page": 27,
+    "file": "figures\\pages\\B-027.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "771968eb786eca81e4c6ea790c75cbd5746c2268"
+  },
+  {
+    "book": "B",
+    "page": 28,
+    "file": "figures\\pages\\B-028.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "ab9b2e880abc47a230d24f5936c287d750908e88"
+  },
+  {
+    "book": "B",
+    "page": 36,
+    "file": "figures\\pages\\B-036.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "a41933b7ba8b31668c77578093a355482925a226"
+  },
+  {
+    "book": "B",
+    "page": 38,
+    "file": "figures\\pages\\B-038.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "5cae07435c4b30f929e73dce3889d18f0e91b093"
+  },
+  {
+    "book": "B",
+    "page": 40,
+    "file": "figures\\pages\\B-040.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "3eb46e08e2af2c3f821a5007d376b3310acbaff2"
+  },
+  {
+    "book": "B",
+    "page": 41,
+    "file": "figures\\pages\\B-041.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "689a9f8c44d84d873dec1e073943c87899e53cfa"
+  },
+  {
+    "book": "B",
+    "page": 42,
+    "file": "figures\\pages\\B-042.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "9e080296ff07b354db8bba993d538ef48e84d736"
+  },
+  {
+    "book": "B",
+    "page": 43,
+    "file": "figures\\pages\\B-043.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "b3869542e7ede209ffc26d47ff7c55c1a743cf29"
+  },
+  {
+    "book": "B",
+    "page": 44,
+    "file": "figures\\pages\\B-044.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "b3139848d99dbfbe62abb203cc48863a50c8b1f2"
+  },
+  {
+    "book": "B",
+    "page": 45,
+    "file": "figures\\pages\\B-045.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "4c862bd0f7e2c1b67c3d5a1c31779e12f364d80e"
+  },
+  {
+    "book": "B",
+    "page": 47,
+    "file": "figures\\pages\\B-047.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "946e86886d773bb5a5778dca19c44a9a0d0b3011"
+  },
+  {
+    "book": "B",
+    "page": 49,
+    "file": "figures\\pages\\B-049.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "931b08e18ddfcff97bc4e38c07c2b0f68711080f"
+  },
+  {
+    "book": "B",
+    "page": 51,
+    "file": "figures\\pages\\B-051.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "dffa8e3a9264857606a48d654d6fac0a78eac5cc"
+  },
+  {
+    "book": "B",
+    "page": 52,
+    "file": "figures\\pages\\B-052.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "2b9067396a44313768589777137d5c686e5427b2"
+  },
+  {
+    "book": "B",
+    "page": 53,
+    "file": "figures\\pages\\B-053.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "46af315447c5e4c50f1031238242547a8e1f64b9"
+  },
+  {
+    "book": "B",
+    "page": 55,
+    "file": "figures\\pages\\B-055.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "2924aba45467bc2d0169ef2f17c6efe924b2f821"
+  },
+  {
+    "book": "B",
+    "page": 56,
+    "file": "figures\\pages\\B-056.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "8b725fb9c5898b3f0e08cc86181828d6b017467b"
+  },
+  {
+    "book": "B",
+    "page": 57,
+    "file": "figures\\pages\\B-057.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "fc3497185f9bf9b359239dbe35fc22a729fe8b9b"
+  },
+  {
+    "book": "B",
+    "page": 58,
+    "file": "figures\\pages\\B-058.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "d39436338129e07b9cbb8ef20b264f8c16eccc86"
+  },
+  {
+    "book": "B",
+    "page": 59,
+    "file": "figures\\pages\\B-059.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "01e328103afea784462cdb80795f1108f2d73f4c"
+  },
+  {
+    "book": "B",
+    "page": 60,
+    "file": "figures\\pages\\B-060.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "69e4d3d8338f4cf4109b7f3c7042d94cbc56c971"
+  },
+  {
+    "book": "B",
+    "page": 62,
+    "file": "figures\\pages\\B-062.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "8a3f454126815ff9e21f0e3945df90d1cbcef7d6"
+  },
+  {
+    "book": "B",
+    "page": 64,
+    "file": "figures\\pages\\B-064.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "04f0f72fbf9a0b72e10f22dc2c1285f08ee451b9"
+  },
+  {
+    "book": "B",
+    "page": 65,
+    "file": "figures\\pages\\B-065.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "d5b58e4d495aeda09d3100b96d589b4611217c7f"
+  },
+  {
+    "book": "B",
+    "page": 66,
+    "file": "figures\\pages\\B-066.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "a9f9f8255a341354cfcfb972790eba9b0a175aa9"
+  },
+  {
+    "book": "B",
+    "page": 67,
+    "file": "figures\\pages\\B-067.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "cff1ccdd1666a3bbaf176b6e3346df6e3b8ad31e"
+  },
+  {
+    "book": "B",
+    "page": 68,
+    "file": "figures\\pages\\B-068.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "3f0eb3baae205575383929ba47800b30c1f72f98"
+  },
+  {
+    "book": "B",
+    "page": 69,
+    "file": "figures\\pages\\B-069.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "627da6de0783efc7784d0392a75bccfe7aa5cbd6"
+  },
+  {
+    "book": "B",
+    "page": 70,
+    "file": "figures\\pages\\B-070.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "5027a3487336e2f4046983c1a100b8e3b6b82aec"
+  },
+  {
+    "book": "B",
+    "page": 71,
+    "file": "figures\\pages\\B-071.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "8d7c7cc1c3ca69e270e0cf5c292b5b45bf014379"
+  },
+  {
+    "book": "B",
+    "page": 72,
+    "file": "figures\\pages\\B-072.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "0b12b3523dce81ed26fff0a4dcdaa619ecffb94c"
+  },
+  {
+    "book": "B",
+    "page": 73,
+    "file": "figures\\pages\\B-073.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "57f72c744d8c08469960122b4a1bb49391cb3d27"
+  },
+  {
+    "book": "B",
+    "page": 75,
+    "file": "figures\\pages\\B-075.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "d76f873014ff0782bad842d316c845c14e7e842e"
+  },
+  {
+    "book": "B",
+    "page": 76,
+    "file": "figures\\pages\\B-076.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "c27a1f56b830dfee41b045e3e03cb8262c775339"
+  },
+  {
+    "book": "B",
+    "page": 77,
+    "file": "figures\\pages\\B-077.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "5171f4136a9f4298c724bb2e35245ead446b395b"
+  },
+  {
+    "book": "B",
+    "page": 79,
+    "file": "figures\\pages\\B-079.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "df2bb87115604ea25bdb67e330d3beea6b2e3d6a"
+  },
+  {
+    "book": "B",
+    "page": 80,
+    "file": "figures\\pages\\B-080.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "41c3acd558478620c82aa554c2c93e6c6c32245f"
+  },
+  {
+    "book": "B",
+    "page": 87,
+    "file": "figures\\pages\\B-087.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "e859ee3387ae79c81fcb1e8e1dd9c786b23b625a"
+  },
+  {
+    "book": "B",
+    "page": 88,
+    "file": "figures\\pages\\B-088.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "82864289ddbdc1716958be6a3affbf32d254a4ec"
+  },
+  {
+    "book": "B",
+    "page": 91,
+    "file": "figures\\pages\\B-091.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "bbb148e6d6114950370bd98a3adb259df9844494"
+  },
+  {
+    "book": "B",
+    "page": 92,
+    "file": "figures\\pages\\B-092.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "807bc8eeb444b93fda0fd6ec9786750c193bb9c7"
+  },
+  {
+    "book": "B",
+    "page": 93,
+    "file": "figures\\pages\\B-093.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "23ce0e3b54ddf577ff505c033d20785868304175"
+  },
+  {
+    "book": "B",
+    "page": 94,
+    "file": "figures\\pages\\B-094.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "2d5f14222ca811d50747a86ab9e54875851cfe27"
+  },
+  {
+    "book": "B",
+    "page": 95,
+    "file": "figures\\pages\\B-095.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "43d519fe484de6be55c705771fa7edecfd94ecf9"
+  },
+  {
+    "book": "B",
+    "page": 96,
+    "file": "figures\\pages\\B-096.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "55c882bc799456b5f7b436f0345650e48892a998"
+  },
+  {
+    "book": "B",
+    "page": 99,
+    "file": "figures\\pages\\B-099.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "c4b56d44299ab7845a178acbabab9dc657087211"
+  },
+  {
+    "book": "B",
+    "page": 100,
+    "file": "figures\\pages\\B-100.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "91e4028c89741929210fc60839d625cd0a072064"
+  },
+  {
+    "book": "B",
+    "page": 101,
+    "file": "figures\\pages\\B-101.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "af12b9ef54ffc6e3c719cca4e9950b0cc4b1233b"
+  },
+  {
+    "book": "B",
+    "page": 103,
+    "file": "figures\\pages\\B-103.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "fa38767d6339e5efe80b3b7231e5d877ea8834c8"
+  },
+  {
+    "book": "B",
+    "page": 106,
+    "file": "figures\\pages\\B-106.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "ef159624d0deba9b2c3434f6d104663d1be290e0"
+  },
+  {
+    "book": "B",
+    "page": 107,
+    "file": "figures\\pages\\B-107.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "694c0c5563791c84ff443eaf1cf5bf5e7bb58f61"
+  },
+  {
+    "book": "B",
+    "page": 108,
+    "file": "figures\\pages\\B-108.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "766025f63b821996cf94e0d2270faa122de3ad09"
+  },
+  {
+    "book": "B",
+    "page": 109,
+    "file": "figures\\pages\\B-109.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "ec9569449e023b76143f1ad9cbcb45ef9f3b4833"
+  },
+  {
+    "book": "B",
+    "page": 110,
+    "file": "figures\\pages\\B-110.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "ac126e982d61dea0d8d260d3daa7ad47e8d5b7b7"
+  },
+  {
+    "book": "B",
+    "page": 112,
+    "file": "figures\\pages\\B-112.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "2c37b6b7ff48a9211192e2ddad34581b7881a942"
+  },
+  {
+    "book": "B",
+    "page": 117,
+    "file": "figures\\pages\\B-117.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "a80173e8790f0b7fa1e9951497ab7878927e45f9"
+  },
+  {
+    "book": "B",
+    "page": 118,
+    "file": "figures\\pages\\B-118.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "f75b83f18605508105d80a8068eb4b4cf9a7c8d6"
+  },
+  {
+    "book": "B",
+    "page": 119,
+    "file": "figures\\pages\\B-119.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "ac19c2a5b8c3261017a097f2460a1bded3528f68"
+  },
+  {
+    "book": "B",
+    "page": 125,
+    "file": "figures\\pages\\B-125.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "a05f4c26d0f63ba83ce0cb81fc33379936b38255"
+  },
+  {
+    "book": "B",
+    "page": 126,
+    "file": "figures\\pages\\B-126.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "5ff6424d7e725c6336dc331b40254109a82fb5b9"
+  },
+  {
+    "book": "B",
+    "page": 127,
+    "file": "figures\\pages\\B-127.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "37f420b854e247cef6125c499ca03aadb9f68304"
+  },
+  {
+    "book": "B",
+    "page": 128,
+    "file": "figures\\pages\\B-128.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "6d2f7416e46a0d659b96e0ddb7cee56d3800435f"
+  },
+  {
+    "book": "B",
+    "page": 130,
+    "file": "figures\\pages\\B-130.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "92937bdded59d0f2cb7f820b06bc8a54f00e649f"
+  },
+  {
+    "book": "B",
+    "page": 133,
+    "file": "figures\\pages\\B-133.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "180553776c60a168877cace922247f53b75694f3"
+  },
+  {
+    "book": "B",
+    "page": 136,
+    "file": "figures\\pages\\B-136.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "e00f902df9c9bdfc113c439cf32169377e2ee28b"
+  },
+  {
+    "book": "B",
+    "page": 137,
+    "file": "figures\\pages\\B-137.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "1e85251e44402b565e12b0d503d3dd1d324c901b"
+  },
+  {
+    "book": "B",
+    "page": 138,
+    "file": "figures\\pages\\B-138.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "b43ebc4789cf0b0afdc5d8c2a8054fc71035a14b"
+  },
+  {
+    "book": "B",
+    "page": 139,
+    "file": "figures\\pages\\B-139.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "4993920cd5bcc705699b0db9a37cfba563d14593"
+  },
+  {
+    "book": "B",
+    "page": 140,
+    "file": "figures\\pages\\B-140.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "5be1281c6eb81e1daad8275e10917c08ba74b56c"
+  },
+  {
+    "book": "B",
+    "page": 141,
+    "file": "figures\\pages\\B-141.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "8024d12764e06259b5228e65fa385dff6a7628bd"
+  },
+  {
+    "book": "B",
+    "page": 143,
+    "file": "figures\\pages\\B-143.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "263f48b3937cc99f79f6f9501ba8e8ed00a0c92c"
+  },
+  {
+    "book": "B",
+    "page": 146,
+    "file": "figures\\pages\\B-146.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "bd7ff7fb0efb7168c935bdc0453c5b187b38015c"
+  },
+  {
+    "book": "B",
+    "page": 147,
+    "file": "figures\\pages\\B-147.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "5a9a9fdb2f000bc06bc55e64937d127d65e514e1"
+  },
+  {
+    "book": "B",
+    "page": 148,
+    "file": "figures\\pages\\B-148.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "deeab4b992ed916d4f6d8fb77f9e77aeb2696d8c"
+  },
+  {
+    "book": "B",
+    "page": 150,
+    "file": "figures\\pages\\B-150.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "9264cb7ae6f313a8afaca9f6c98a112c581a87d1"
+  },
+  {
+    "book": "B",
+    "page": 152,
+    "file": "figures\\pages\\B-152.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "633e4442093724099e0d6b6fee3bf053a3ed79e2"
+  },
+  {
+    "book": "B",
+    "page": 153,
+    "file": "figures\\pages\\B-153.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "9748d85294541ccf4f7a252fa96a183f1db3a33f"
+  },
+  {
+    "book": "B",
+    "page": 154,
+    "file": "figures\\pages\\B-154.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "82fded33fb52240a2f498760413e80844e795804"
+  },
+  {
+    "book": "B",
+    "page": 155,
+    "file": "figures\\pages\\B-155.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "5edeff2449fa0d51e401b93eb2cf64c00b7584e7"
+  },
+  {
+    "book": "B",
+    "page": 156,
+    "file": "figures\\pages\\B-156.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "b6da84a54d028cb7593bf32bb609f94d6e078b7a"
+  },
+  {
+    "book": "B",
+    "page": 163,
+    "file": "figures\\pages\\B-163.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "85a3d03f27e88ae7aa57c53c8a9690cb121c2234"
+  },
+  {
+    "book": "B",
+    "page": 164,
+    "file": "figures\\pages\\B-164.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "ce0b971e04ff1337c1f49a8b6192af98be1d8cf4"
+  },
+  {
+    "book": "B",
+    "page": 166,
+    "file": "figures\\pages\\B-166.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "7080cd3f89cc606a0f572e6fc40cc710a3e63af7"
+  },
+  {
+    "book": "B",
+    "page": 167,
+    "file": "figures\\pages\\B-167.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "7e7c4e8a835bf5ac2a8296fe40a076ee66ebc547"
+  },
+  {
+    "book": "B",
+    "page": 168,
+    "file": "figures\\pages\\B-168.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "f385f4367a24f7ab8733627520775b4d57e734c4"
+  },
+  {
+    "book": "B",
+    "page": 170,
+    "file": "figures\\pages\\B-170.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "bd5ec608faa2a761557fd8ceb2b6d627457f4246"
+  },
+  {
+    "book": "B",
+    "page": 172,
+    "file": "figures\\pages\\B-172.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "0ae9c7fbf0fa9033240bdada8d375b854c6d24a3"
+  },
+  {
+    "book": "B",
+    "page": 174,
+    "file": "figures\\pages\\B-174.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "78608174142717580e9a4368ecc65146a376a954"
+  },
+  {
+    "book": "B",
+    "page": 175,
+    "file": "figures\\pages\\B-175.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "20429468434ca05149d9c16c5c24ceea45e74e72"
+  },
+  {
+    "book": "B",
+    "page": 176,
+    "file": "figures\\pages\\B-176.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "9fdd2372ee5f4427abaad9550905a1bf586499fb"
+  },
+  {
+    "book": "B",
+    "page": 177,
+    "file": "figures\\pages\\B-177.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "8af5f474ab6c17c9c1e55b6a79002594f950245a"
+  },
+  {
+    "book": "B",
+    "page": 185,
+    "file": "figures\\pages\\B-185.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "ab7cc70cc64eadfeffbd2b0d476c73bafa0a5c1d"
+  },
+  {
+    "book": "B",
+    "page": 186,
+    "file": "figures\\pages\\B-186.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "63a5d24ebb8dd1bab777d9c80cc03045e6981fb7"
+  },
+  {
+    "book": "B",
+    "page": 188,
+    "file": "figures\\pages\\B-188.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "57e9bfbf6f88d69a0f781236887ae818adbd4098"
+  },
+  {
+    "book": "B",
+    "page": 190,
+    "file": "figures\\pages\\B-190.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "e5da609d1de9c5eac588909afe25f66747f91ae5"
+  },
+  {
+    "book": "B",
+    "page": 192,
+    "file": "figures\\pages\\B-192.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "41a81d8e9a17132f8f700143dae0b16f745ea218"
+  },
+  {
+    "book": "B",
+    "page": 193,
+    "file": "figures\\pages\\B-193.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "c45ef88c2f4c3ada8b574e980c4d7348a415253d"
+  },
+  {
+    "book": "B",
+    "page": 194,
+    "file": "figures\\pages\\B-194.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "da553bae4174a768e56c94a8a3503060b280d933"
+  },
+  {
+    "book": "B",
+    "page": 195,
+    "file": "figures\\pages\\B-195.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "ca8912efcc2a05d99c5b5abc5403033246a78155"
+  },
+  {
+    "book": "B",
+    "page": 203,
+    "file": "figures\\pages\\B-203.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "0350881e7b6b9e6ca41ae9e16bbabe716c828afc"
+  },
+  {
+    "book": "B",
+    "page": 204,
+    "file": "figures\\pages\\B-204.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "914e528fdf22688724cfa6c79d4cdb815f3ea562"
+  },
+  {
+    "book": "B",
+    "page": 205,
+    "file": "figures\\pages\\B-205.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "1f094787ec28ef29d63a698fd9224c0b939b412a"
+  },
+  {
+    "book": "B",
+    "page": 206,
+    "file": "figures\\pages\\B-206.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "6d81cfbf39cb0e4d918a7bc47f4308958026dea8"
+  },
+  {
+    "book": "B",
+    "page": 207,
+    "file": "figures\\pages\\B-207.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "a31c25241ee7941428d1b0f11e5184b721ca73eb"
+  },
+  {
+    "book": "B",
+    "page": 211,
+    "file": "figures\\pages\\B-211.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "14331861bea2eb4d77c031695fbafbb18ede6093"
+  },
+  {
+    "book": "B",
+    "page": 214,
+    "file": "figures\\pages\\B-214.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "e5dc1fd3f571bb3a4aa42b582fca9b6634f25f48"
+  },
+  {
+    "book": "B",
+    "page": 216,
+    "file": "figures\\pages\\B-216.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "48c36749f6184fe70fa7e57edb6313a4bb41877d"
+  },
+  {
+    "book": "B",
+    "page": 217,
+    "file": "figures\\pages\\B-217.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "5565ca790b06adbad85f0979ce9dbd7ce045b270"
+  },
+  {
+    "book": "B",
+    "page": 218,
+    "file": "figures\\pages\\B-218.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "91b4668aa231d097d5066aa2ba956934eb21adb0"
+  },
+  {
+    "book": "B",
+    "page": 219,
+    "file": "figures\\pages\\B-219.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "b5d382d65bcf4c0b5fc52ded07d37ccd3c2861b5"
+  },
+  {
+    "book": "B",
+    "page": 224,
+    "file": "figures\\pages\\B-224.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "ebf6b82f1597482847f150945701bb562100eab8"
+  },
+  {
+    "book": "B",
+    "page": 228,
+    "file": "figures\\pages\\B-228.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "7af1e9d631669f132c5ca089aee156f4d9e0b03d"
+  },
+  {
+    "book": "B",
+    "page": 229,
+    "file": "figures\\pages\\B-229.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "08369047b7878d30e4184748d3b11ebe31655019"
+  },
+  {
+    "book": "B",
+    "page": 230,
+    "file": "figures\\pages\\B-230.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "88f41b1b531df21b3cc1aafeec09d540c79e31ac"
+  },
+  {
+    "book": "B",
+    "page": 231,
+    "file": "figures\\pages\\B-231.jpg",
+    "width": 2162,
+    "height": 2705,
+    "sha1": "67d86f3e65075c75a1f3eac379dda0658d40c4b0"
+  }
+]

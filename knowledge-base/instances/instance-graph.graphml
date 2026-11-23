@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key id="type" for="node" attr.name="type" attr.type="string"/>
+<key id="label" for="node" attr.name="label" attr.type="string"/>
+<key id="rel" for="edge" attr.name="type" attr.type="string"/>
+<graph id="instances" edgedefault="directed">
+<node id="T-LINK"><data key="type">Task</data><data key="label">链接预测/知识图谱补全</data></node>
+<node id="T-TRIPLE"><data key="type">Task</data><data key="label">三元组分类</data></node>
+<node id="T-RE"><data key="type">Task</data><data key="label">关系抽取</data></node>
+<node id="T-EA"><data key="type">Task</data><data key="label">实体对齐</data></node>
+<node id="T-KGQA"><data key="type">Task</data><data key="label">知识图谱问答</data></node>
+<node id="T-QUERY"><data key="type">Task</data><data key="label">多跳逻辑查询</data></node>
+<node id="T-NODE"><data key="type">Task</data><data key="label">节点分类</data></node>
+<node id="T-COMM"><data key="type">Task</data><data key="label">社区发现</data></node>
+<node id="T-SEMEME"><data key="type">Task</data><data key="label">义原预测</data></node>
+<node id="T-LEX"><data key="type">Task</data><data key="label">词典扩展</data></node>
+<node id="T-EVENT"><data key="type">Task</data><data key="label">事件抽取</data></node>
+<node id="T-MM"><data key="type">Task</data><data key="label">多模态任务</data></node>
+<node id="T-LM"><data key="type">Task</data><data key="label">语言模型</data></node>
+<node id="T-TITLE"><data key="type">Task</data><data key="label">标题生成</data></node>
+<node id="T-ENTITYTYPE"><data key="type">Task</data><data key="label">实体类型分类</data></node>
+<node id="T-RETRIEVAL"><data key="type">Task</data><data key="label">检索排序</data></node>
+<node id="T-PRETRAIN"><data key="type">Task</data><data key="label">知识增强预训练</data></node>
+<node id="T-REC"><data key="type">Task</data><data key="label">推荐</data></node>
+<node id="M-TransE"><data key="type">Method</data><data key="label">TransE</data></node>
+<node id="M-TransH"><data key="type">Method</data><data key="label">TransH</data></node>
+<node id="M-TransR"><data key="type">Method</data><data key="label">TransR</data></node>
+<node id="M-CTransR"><data key="type">Method</data><data key="label">CTransR</data></node>
+<node id="M-PTransE"><data key="type">Method</data><data key="label">PTransE</data></node>
+<node id="M-TransD"><data key="type">Method</data><data key="label">TransD</data></node>
+<node id="M-TransG"><data key="type">Method</data><data key="label">TransG</data></node>
+<node id="M-KG2E"><data key="type">Method</data><data key="label">KG2E</data></node>
+<node id="M-ManifoldE"><data key="type">Method</data><data key="label">ManifoldE</data></node>
+<node id="M-RESCAL"><data key="type">Method</data><data key="label">RESCAL</data></node>
+<node id="M-HolE"><data key="type">Method</data><data key="label">HolE</data></node>
+<node id="M-DistMult"><data key="type">Method</data><data key="label">DistMult</data></node>
+<node id="M-ComplEx"><data key="type">Method</data><data key="label">ComplEx</data></node>
+<node id="M-RotatE"><data key="type">Method</data><data key="label">RotatE</data></node>
+<node id="M-SE"><data key="type">Method</data><data key="label">SE</data></node>
+<node id="M-SME"><data key="type">Method</data><data key="label">SME</data></node>
+<node id="M-LFM"><data key="type">Method</data><data key="label">LFM</data></node>
+<node id="M-NTN"><data key="type">Method</data><data key="label">NTN</data></node>
+<node id="M-KALE"><data key="type">Method</data><data key="label">KALE</data></node>
+<node id="M-KR-EAR"><data key="type">Method</data><data key="label">KR-EAR</data></node>
+<node id="M-DKRL"><data key="type">Method</data><data key="label">DKRL</data></node>
+<node id="M-TKRL"><data key="type">Method</data><data key="label">TKRL</data></node>
+<node id="M-IKRL"><data key="type">Method</data><data key="label">IKRL</data></node>
+<node id="M-PRA"><data key="type">Method</data><data key="label">PRA</data></node>
+<node id="M-AMIE"><data key="type">Method</data><data key="label">AMIE</data></node>
+<node id="M-BetaE"><data key="type">Method</data><data key="label">BetaE</data></node>
+<node id="M-NeuralLP"><data key="type">Method</data><data key="label">NeuralLP</data></node>
+<node id="M-IterE"><data key="type">Method</data><data key="label">IterE</data></node>
+<node id="M-MINERVA"><data key="type">Method</data><data key="label">MINERVA</data></node>
+<node id="M-CNN"><data key="type">Method</data><data key="label">CNN</data></node>
+<node id="M-PCNN"><data key="type">Method</data><data key="label">PCNN</data></node>
+<node id="M-HATT"><data key="type">Method</data><data key="label">HATT</data></node>
+<node id="M-MNRE"><data key="type">Method</data><data key="label">MNRE</data></node>
+<node id="M-KATT"><data key="type">Method</data><data key="label">KATT</data></node>
+<node id="M-SATT"><data key="type">Method</data><data key="label">SATT</data></node>
+<node id="M-MTransE"><data key="type">Method</data><data key="label">MTransE</data></node>
+<node id="M-IPTransE"><data key="type">Method</data><data key="label">IPTransE</data></node>
+<node id="M-KNET"><data key="type">Method</data><data key="label">KNET</data></node>
+<node id="M-EDRM"><data key="type">Method</data><data key="label">EDRM</data></node>
+<node id="M-GCN"><data key="type">Method</data><data key="label">GCN</data></node>
+<node id="M-GAT"><data key="type">Method</data><data key="label">GAT</data></node>
+<node id="M-GraphSAGE"><data key="type">Method</data><data key="label">GraphSAGE</data></node>
+<node id="M-RGCN"><data key="type">Method</data><data key="label">R-GCN</data></node>
+<node id="M-CompGCN"><data key="type">Method</data><data key="label">CompGCN</data></node>
+<node id="M-RDGCN"><data key="type">Method</data><data key="label">RDGCN</data></node>
+<node id="M-ExpressGNN"><data key="type">Method</data><data key="label">ExpressGNN</data></node>
+<node id="M-SPWE"><data key="type">Method</data><data key="label">SPWE</data></node>
+<node id="M-SPSE"><data key="type">Method</data><data key="label">SPSE</data></node>
+<node id="M-SPASE"><data key="type">Method</data><data key="label">SPASE</data></node>
+<node id="M-SPWCF"><data key="type">Method</data><data key="label">SPWCF</data></node>
+<node id="M-SPCSE"><data key="type">Method</data><data key="label">SPCSE</data></node>
+<node id="M-CSP"><data key="type">Method</data><data key="label">CSP</data></node>
+<node id="M-CLSP"><data key="type">Method</data><data key="label">CLSP</data></node>
+<node id="M-HD"><data key="type">Method</data><data key="label">HD</data></node>
+<node id="M-HDSA"><data key="type">Method</data><data key="label">HDSA</data></node>
+<node id="M-SDLM"><data key="type">Method</data><data key="label">SDLM</data></node>
+<node id="M-PKGM"><data key="type">Method</data><data key="label">PKGM</data></node>
+<node id="M-LSTM"><data key="type">Method</data><data key="label">LSTM</data></node>
+<node id="M-BERT"><data key="type">Method</data><data key="label">BERT</data></node>
+<node id="M-KEPLER"><data key="type">Method</data><data key="label">KEPLER</data></node>
+<node id="M-ERNIE"><data key="type">Method</data><data key="label">ERNIE</data></node>
+<node id="M-K-Adapter"><data key="type">Method</data><data key="label">K-Adapter</data></node>
+<node id="M-WKLM"><data key="type">Method</data><data key="label">WKLM</data></node>
+<node id="M-KnowBERT"><data key="type">Method</data><data key="label">KnowBERT</data></node>
+<node id="DS-FB15K"><data key="type">Dataset</data><data key="label">FB15K</data></node>
+<node id="DS-FB24K"><data key="type">Dataset</data><data key="label">FB24K</data></node>
+<node id="DS-FB20K"><data key="type">Dataset</data><data key="label">FB20K</data></node>
+<node id="DS-FB15KPLUS"><data key="type">Dataset</data><data key="label">FB15K+</data></node>
+<node id="DS-FB60K"><data key="type">Dataset</data><data key="label">FB60K</data></node>
+<node id="DS-FB13"><data key="type">Dataset</data><data key="label">FB13</data></node>
+<node id="DS-WN18"><data key="type">Dataset</data><data key="label">WN18</data></node>
+<node id="DS-WN11"><data key="type">Dataset</data><data key="label">WN11</data></node>
+<node id="DS-NYT"><data key="type">Dataset</data><data key="label">NYT</data></node>
+<node id="DS-DFB1"><data key="type">Dataset</data><data key="label">DFB-1</data></node>
+<node id="DS-DFB3"><data key="type">Dataset</data><data key="label">DFB-3</data></node>
+<node id="DS-DFB4"><data key="type">Dataset</data><data key="label">DFB-4</data></node>
+<node id="DS-SEMEVAL07"><data key="type">Dataset</data><data key="label">SemEval-2007</data></node>
+<node id="DS-WORDSIM240"><data key="type">Dataset</data><data key="label">Wordsim240</data></node>
+<node id="DS-HOWNET"><data key="type">Dataset</data><data key="label">HowNet</data></node>
+<node id="DS-LIWC"><data key="type">Dataset</data><data key="label">LIWC</data></node>
+<node id="DS-LCSTS"><data key="type">Dataset</data><data key="label">LCSTS</data></node>
+<node id="DS-SQUAD"><data key="type">Dataset</data><data key="label">SQuAD</data></node>
+<node id="DS-WEBQUESTIONS"><data key="type">Dataset</data><data key="label">WebQuestions</data></node>
+<node id="DS-SIMPLEQUESTIONS"><data key="type">Dataset</data><data key="label">SimpleQuestions</data></node>
+<node id="DS-METAQA"><data key="type">Dataset</data><data key="label">MetaQA</data></node>
+<node id="DS-QALD"><data key="type">Dataset</data><data key="label">QALD</data></node>
+<node id="DS-YAGO"><data key="type">Dataset</data><data key="label">YAGO</data></node>
+<node id="DS-DBPEDIA"><data key="type">Dataset</data><data key="label">DBpedia</data></node>
+<node id="DS-FREEBASE"><data key="type">Dataset</data><data key="label">Freebase</data></node>
+<node id="DS-WIKIDATA"><data key="type">Dataset</data><data key="label">Wikidata</data></node>
+<node id="MT-MR"><data key="type">Metric</data><data key="label">MR</data></node>
+<node id="MT-MRR"><data key="type">Metric</data><data key="label">MRR</data></node>
+<node id="MT-HIT1"><data key="type">Metric</data><data key="label">Hit@1</data></node>
+<node id="MT-HIT10"><data key="type">Metric</data><data key="label">Hit@10</data></node>
+<node id="MT-PN"><data key="type">Metric</data><data key="label">P@N</data></node>
+<node id="MT-MAP"><data key="type">Metric</data><data key="label">MAP</data></node>
+<node id="MT-MICROF1"><data key="type">Metric</data><data key="label">Micro-F1</data></node>
+<node id="MT-MACROF1"><data key="type">Metric</data><data key="label">Macro-F1</data></node>
+<node id="MT-NDCG"><data key="type">Metric</data><data key="label">NDCG</data></node>
+<node id="MT-AUC"><data key="type">Metric</data><data key="label">AUC</data></node>
+<edge id="e0" source="M-TransE" target="T-LINK"><data key="rel">solves</data></edge>
+<edge id="e1" source="M-TransE" target="T-TRIPLE"><data key="rel">solves</data></edge>
+<edge id="e2" source="M-TransH" target="T-LINK"><data key="rel">solves</data></edge>
+<edge id="e3" source="M-TransR" target="T-LINK"><data key="rel">solves</data></edge>
+<edge id="e4" source="M-TransR" target="T-TRIPLE"><data key="rel">solves</data></edge>
+<edge id="e5" source="M-CTransR" target="T-LINK"><data key="rel">solves</data></edge>
+<edge id="e6" source="M-PTransE" target="T-LINK"><data key="rel">solves</data></edge>
+<edge id="e7" source="M-PTransE" target="T-RE"><data key="rel">solves</data></edge>
+<edge id="e8" source="M-TransD" target="T-LINK"><data key="rel">solves</data></edge>
+<edge id="e9" source="M-TransG" target="T-LINK"><data key="rel">solves</data></edge>
+<edge id="e10" source="M-KG2E" target="T-LINK"><data key="rel">solves</data></edge>
+<edge id="e11" source="M-ManifoldE" target="T-LINK"><data key="rel">solves</data></edge>
+<edge id="e12" source="M-RESCAL" target="T-LINK"><data key="rel">solves</data></edge>
+<edge id="e13" source="M-HolE" target="T-LINK"><data key="rel">solves</data></edge>
+<edge id="e14" source="M-DistMult" target="T-LINK"><data key="rel">solves</data></edge>
+<edge id="e15" source="M-ComplEx" target="T-LINK"><data key="rel">solves</data></edge>
+<edge id="e16" source="M-RotatE" target="T-LINK"><data key="rel">solves</data></edge>
+<edge id="e17" source="M-SE" target="T-LINK"><data key="rel">solves</data></edge>
+<edge id="e18" source="M-SME" target="T-LINK"><data key="rel">solves</data></edge>
+<edge id="e19" source="M-LFM" target="T-LINK"><data key="rel">solves</data></edge>
+<edge id="e20" source="M-NTN" target="T-LINK"><data key="rel">solves</data></edge>
+<edge id="e21" source="M-NTN" target="T-TRIPLE"><data key="rel">solves</data></edge>
+<edge id="e22" source="M-KALE" target="T-LINK"><data key="rel">solves</data></edge>
+<edge id="e23" source="M-KR-EAR" target="T-LINK"><data key="rel">solves</data></edge>
+<edge id="e24" source="M-DKRL" target="T-LINK"><data key="rel">solves</data></edge>
+<edge id="e25" source="M-DKRL" target="T-ENTITYTYPE"><data key="rel">solves</data></edge>
+<edge id="e26" source="M-TKRL" target="T-LINK"><data key="rel">solves</data></edge>
+<edge id="e27" source="M-IKRL" target="T-LINK"><data key="rel">solves</data></edge>
+<edge id="e28" source="M-PRA" target="T-LINK"><data key="rel">solves</data></edge>
+<edge id="e29" source="M-AMIE" target="T-LINK"><data key="rel">solves</data></edge>
+<edge id="e30" source="M-BetaE" target="T-LINK"><data key="rel">solves</data></edge>
+<edge id="e31" source="M-BetaE" target="T-QUERY"><data key="rel">solves</data></edge>
+<edge id="e32" source="M-NeuralLP" target="T-LINK"><data key="rel">solves</data></edge>
+<edge id="e33" source="M-IterE" target="T-LINK"><data key="rel">solves</data></edge>
+<edge id="e34" source="M-MINERVA" target="T-LINK"><data key="rel">solves</data></edge>
+<edge id="e35" source="M-MINERVA" target="T-QUERY"><data key="rel">solves</data></edge>
+<edge id="e36" source="M-CNN" target="T-RE"><data key="rel">solves</data></edge>
+<edge id="e37" source="M-PCNN" target="T-RE"><data key="rel">solves</data></edge>
+<edge id="e38" source="M-HATT" target="T-RE"><data key="rel">solves</data></edge>
+<edge id="e39" source="M-MNRE" target="T-RE"><data key="rel">solves</data></edge>
+<edge id="e40" source="M-KATT" target="T-RE"><data key="rel">solves</data></edge>
+<edge id="e41" source="M-SATT" target="T-RE"><data key="rel">solves</data></edge>
+<edge id="e42" source="M-MTransE" target="T-EA"><data key="rel">solves</data></edge>
+<edge id="e43" source="M-IPTransE" target="T-EA"><data key="rel">solves</data></edge>
+<edge id="e44" source="M-IPTransE" target="T-LINK"><data key="rel">solves</data></edge>
+<edge id="e45" source="M-KNET" target="T-ENTITYTYPE"><data key="rel">solves</data></edge>
+<edge id="e46" source="M-EDRM" target="T-RETRIEVAL"><data key="rel">solves</data></edge>
+<edge id="e47" source="M-GCN" target="T-NODE"><data key="rel">solves</data></edge>
+<edge id="e48" source="M-GCN" target="T-LINK"><data key="rel">solves</data></edge>
+<edge id="e49" source="M-GAT" target="T-NODE"><data key="rel">solves</data></edge>
+<edge id="e50" source="M-GAT" target="T-LINK"><data key="rel">solves</data></edge>
+<edge id="e51" source="M-GraphSAGE" target="T-NODE"><data key="rel">solves</data></edge>
+<edge id="e52" source="M-GraphSAGE" target="T-LINK"><data key="rel">solves</data></edge>
+<edge id="e53" source="M-RGCN" target="T-NODE"><data key="rel">solves</data></edge>
+<edge id="e54" source="M-RGCN" target="T-LINK"><data key="rel">solves</data></edge>
+<edge id="e55" source="M-CompGCN" target="T-NODE"><data key="rel">solves</data></edge>
+<edge id="e56" source="M-CompGCN" target="T-LINK"><data key="rel">solves</data></edge>
+<edge id="e57" source="M-RDGCN" target="T-EA"><data key="rel">solves</data></edge>
+<edge id="e58" source="M-ExpressGNN" target="T-LINK"><data key="rel">solves</data></edge>
+<edge id="e59" source="M-SPWE" target="T-SEMEME"><data key="rel">solves</data></edge>
+<edge id="e60" source="M-SPSE" target="T-SEMEME"><data key="rel">solves</data></edge>
+<edge id="e61" source="M-SPASE" target="T-SEMEME"><data key="rel">solves</data></edge>
+<edge id="e62" source="M-SPWCF" target="T-SEMEME"><data key="rel">solves</data></edge>
+<edge id="e63" source="M-SPCSE" target="T-SEMEME"><data key="rel">solves</data></edge>
+<edge id="e64" source="M-CSP" target="T-SEMEME"><data key="rel">solves</data></edge>
+<edge id="e65" source="M-CLSP" target="T-SEMEME"><data key="rel">solves</data></edge>
+<edge id="e66" source="M-HD" target="T-LEX"><data key="rel">solves</data></edge>
+<edge id="e67" source="M-HDSA" target="T-LEX"><data key="rel">solves</data></edge>
+<edge id="e68" source="M-SDLM" target="T-LM"><data key="rel">solves</data></edge>
+<edge id="e69" source="M-SDLM" target="T-TITLE"><data key="rel">solves</data></edge>
+<edge id="e70" source="M-PKGM" target="T-PRETRAIN"><data key="rel">solves</data></edge>
+<edge id="e71" source="M-PKGM" target="T-REC"><data key="rel">solves</data></edge>
+<edge id="e72" source="M-LSTM" target="T-LM"><data key="rel">solves</data></edge>
+<edge id="e73" source="M-BERT" target="T-PRETRAIN"><data key="rel">solves</data></edge>
+<edge id="e74" source="M-KEPLER" target="T-PRETRAIN"><data key="rel">solves</data></edge>
+<edge id="e75" source="M-ERNIE" target="T-PRETRAIN"><data key="rel">solves</data></edge>
+<edge id="e76" source="M-K-Adapter" target="T-PRETRAIN"><data key="rel">solves</data></edge>
+<edge id="e77" source="M-WKLM" target="T-PRETRAIN"><data key="rel">solves</data></edge>
+<edge id="e78" source="M-KnowBERT" target="T-PRETRAIN"><data key="rel">solves</data></edge>
+<edge id="e79" source="M-SE" target="DS-FREEBASE"><data key="rel">mentions_dataset</data></edge>
+<edge id="e80" source="M-SE" target="DS-WIKIDATA"><data key="rel">mentions_dataset</data></edge>
+<edge id="e81" source="M-PKGM" target="MT-HIT1"><data key="rel">reports_metric</data></edge>
+<edge id="e82" source="M-TransR" target="DS-FB15K"><data key="rel">evaluated_on</data></edge>
+<edge id="e83" source="M-CTransR" target="DS-FB15K"><data key="rel">evaluated_on</data></edge>
+<edge id="e84" source="M-TransR" target="DS-WN18"><data key="rel">evaluated_on</data></edge>
+<edge id="e85" source="M-CTransR" target="DS-WN18"><data key="rel">evaluated_on</data></edge>
+<edge id="e86" source="M-KR-EAR" target="DS-FB24K"><data key="rel">evaluated_on</data></edge>
+<edge id="e87" source="M-TransR" target="DS-FB15K"><data key="rel">evaluated_on</data></edge>
+<edge id="e88" source="M-CTransR" target="DS-FB15K"><data key="rel">evaluated_on</data></edge>
+<edge id="e89" source="M-TransR" target="DS-WN18"><data key="rel">evaluated_on</data></edge>
+<edge id="e90" source="M-CTransR" target="DS-WN18"><data key="rel">evaluated_on</data></edge>
+<edge id="e91" source="M-TransR" target="MT-MR"><data key="rel">reports_metric</data></edge>
+<edge id="e92" source="M-CTransR" target="MT-MR"><data key="rel">reports_metric</data></edge>
+<edge id="e93" source="M-TransR" target="DS-FB15K"><data key="rel">evaluated_on</data></edge>
+<edge id="e94" source="M-TransR" target="MT-HIT10"><data key="rel">reports_metric</data></edge>
+<edge id="e95" source="M-TransE" target="DS-FB15K"><data key="rel">evaluated_on</data></edge>
+<edge id="e96" source="M-PTransE" target="DS-FB15K"><data key="rel">evaluated_on</data></edge>
+<edge id="e97" source="M-SE" target="DS-FB15K"><data key="rel">evaluated_on</data></edge>
+<edge id="e98" source="M-TransE" target="MT-MR"><data key="rel">reports_metric</data></edge>
+<edge id="e99" source="M-PTransE" target="MT-MR"><data key="rel">reports_metric</data></edge>
+<edge id="e100" source="M-SE" target="MT-MR"><data key="rel">reports_metric</data></edge>
+<edge id="e101" source="M-TransE" target="MT-HIT10"><data key="rel">reports_metric</data></edge>
+<edge id="e102" source="M-PTransE" target="MT-HIT10"><data key="rel">reports_metric</data></edge>
+<edge id="e103" source="M-SE" target="MT-HIT10"><data key="rel">reports_metric</data></edge>
+<edge id="e104" source="M-KR-EAR" target="DS-FB24K"><data key="rel">evaluated_on</data></edge>
+<edge id="e105" source="M-KR-EAR" target="MT-MR"><data key="rel">reports_metric</data></edge>
+<edge id="e106" source="M-KR-EAR" target="MT-HIT1"><data key="rel">reports_metric</data></edge>
+<edge id="e107" source="M-KR-EAR" target="MT-HIT10"><data key="rel">reports_metric</data></edge>
+<edge id="e108" source="M-DKRL" target="DS-FB20K"><data key="rel">evaluated_on</data></edge>
+<edge id="e109" source="M-DKRL" target="DS-FB20K"><data key="rel">evaluated_on</data></edge>
+<edge id="e110" source="M-DKRL" target="DS-FB15K"><data key="rel">evaluated_on</data></edge>
+<edge id="e111" source="M-DKRL" target="MT-MR"><data key="rel">reports_metric</data></edge>
+<edge id="e112" source="M-DKRL" target="MT-HIT10"><data key="rel">reports_metric</data></edge>
+<edge id="e113" source="M-DKRL" target="DS-FB15K"><data key="rel">mentions_dataset</data></edge>
+<edge id="e114" source="M-DKRL" target="DS-FB20K"><data key="rel">mentions_dataset</data></edge>
+<edge id="e115" source="M-DKRL" target="MT-HIT1"><data key="rel">mentions_metric</data></edge>
+<edge id="e116" source="M-DKRL" target="MT-MAP"><data key="rel">mentions_metric</data></edge>
+<edge id="e117" source="M-TKRL" target="DS-FB15K"><data key="rel">evaluated_on</data></edge>
+<edge id="e118" source="M-TKRL" target="MT-MR"><data key="rel">reports_metric</data></edge>
+<edge id="e119" source="M-TKRL" target="MT-HIT10"><data key="rel">reports_metric</data></edge>
+<edge id="e120" source="M-TKRL" target="DS-FB15K"><data key="rel">evaluated_on</data></edge>
+<edge id="e121" source="M-TKRL" target="DS-FB15KPLUS"><data key="rel">evaluated_on</data></edge>
+<edge id="e122" source="M-TKRL" target="MT-HIT1"><data key="rel">reports_metric</data></edge>
+<edge id="e123" source="M-TKRL" target="MT-HIT10"><data key="rel">reports_metric</data></edge>
+<edge id="e124" source="M-HATT" target="DS-NYT"><data key="rel">evaluated_on</data></edge>
+<edge id="e125" source="M-MNRE" target="DS-NYT"><data key="rel">evaluated_on</data></edge>
+<edge id="e126" source="M-KATT" target="MT-PN"><data key="rel">reports_metric</data></edge>
+<edge id="e127" source="M-EDRM" target="MT-MRR"><data key="rel">reports_metric</data></edge>
+<edge id="e128" source="M-EDRM" target="MT-MAP"><data key="rel">reports_metric</data></edge>
+<edge id="e129" source="M-EDRM" target="MT-MRR"><data key="rel">reports_metric</data></edge>
+<edge id="e130" source="M-EDRM" target="MT-NDCG"><data key="rel">reports_metric</data></edge>
+<edge id="e131" source="M-CSP" target="MT-MAP"><data key="rel">reports_metric</data></edge>
+<edge id="e132" source="M-CSP" target="MT-MAP"><data key="rel">mentions_metric</data></edge>
+<edge id="e133" source="M-HD" target="MT-MICROF1"><data key="rel">reports_metric</data></edge>
+<edge id="e134" source="M-HDSA" target="MT-MICROF1"><data key="rel">reports_metric</data></edge>
+<edge id="e135" source="M-SDLM" target="DS-LCSTS"><data key="rel">evaluated_on</data></edge>
+<edge id="e136" source="M-SDLM" target="M-TransE"><data key="rel">variant_of</data></edge>
+<edge id="e137" source="M-SDLM" target="M-TransE"><data key="rel">variant_of</data></edge>
+<edge id="e138" source="M-SDLM" target="M-TransR"><data key="rel">variant_of</data></edge>
+<edge id="e139" source="M-SDLM" target="M-TransE"><data key="rel">variant_of</data></edge>
+<edge id="e140" source="M-SDLM" target="M-TransE"><data key="rel">variant_of</data></edge>
+<edge id="e141" source="M-SDLM" target="M-CNN"><data key="rel">variant_of</data></edge>
+<edge id="e142" source="M-SDLM" target="M-SPWE"><data key="rel">variant_of</data></edge>
+<edge id="e143" source="M-SDLM" target="M-SPWE"><data key="rel">variant_of</data></edge>
+<edge id="e144" source="M-SDLM" target="M-SPWCF"><data key="rel">variant_of</data></edge>
+<edge id="e145" source="M-SDLM" target="M-SE"><data key="rel">variant_of</data></edge>
+<edge id="e146" source="M-SDLM" target="M-HD"><data key="rel">variant_of</data></edge>
+<edge id="e147" source="M-SDLM" target="M-GCN"><data key="rel">variant_of</data></edge>
+<edge id="e148" source="M-SDLM" target="M-GCN"><data key="rel">variant_of</data></edge>
+<edge id="e149" source="M-SDLM" target="M-RGCN"><data key="rel">variant_of</data></edge>
+<edge id="e150" source="M-SDLM" target="M-TransE"><data key="rel">improves</data></edge>
+<edge id="e151" source="M-SDLM" target="M-TransR"><data key="rel">improves</data></edge>
+<edge id="e152" source="M-SDLM" target="M-TransE"><data key="rel">improves</data></edge>
+<edge id="e153" source="M-SDLM" target="M-TransE"><data key="rel">improves</data></edge>
+<edge id="e154" source="M-SDLM" target="M-TransE"><data key="rel">improves</data></edge>
+<edge id="e155" source="M-SDLM" target="M-TransE"><data key="rel">improves</data></edge>
+<edge id="e156" source="M-SDLM" target="M-SPWE"><data key="rel">improves</data></edge>
+<edge id="e157" source="M-SDLM" target="M-HD"><data key="rel">improves</data></edge>
+<edge id="e158" source="M-PTransE" target="M-TransE"><data key="rel">uses</data></edge>
+<edge id="e159" source="M-CTransR" target="M-TransR"><data key="rel">uses</data></edge>
+<edge id="e160" source="M-KR-EAR" target="M-TransE"><data key="rel">uses</data></edge>
+<edge id="e161" source="M-KR-EAR" target="M-TransR"><data key="rel">uses</data></edge>
+<edge id="e162" source="M-DKRL" target="M-CNN"><data key="rel">uses</data></edge>
+<edge id="e163" source="M-TKRL" target="M-TransR"><data key="rel">uses</data></edge>
+<edge id="e164" source="M-HATT" target="M-PCNN"><data key="rel">uses</data></edge>
+<edge id="e165" source="M-KATT" target="M-CNN"><data key="rel">uses</data></edge>
+<edge id="e166" source="M-SATT" target="M-CNN"><data key="rel">uses</data></edge>
+<edge id="e167" source="M-IPTransE" target="M-TransE"><data key="rel">uses</data></edge>
+<edge id="e168" source="M-IPTransE" target="M-PTransE"><data key="rel">uses</data></edge>
+<edge id="e169" source="M-KNET" target="M-LSTM"><data key="rel">uses</data></edge>
+<edge id="e170" source="M-CSP" target="M-SPWE"><data key="rel">uses</data></edge>
+<edge id="e171" source="M-CSP" target="M-SPWCF"><data key="rel">uses</data></edge>
+<edge id="e172" source="M-CLSP" target="M-SPWE"><data key="rel">uses</data></edge>
+<edge id="e173" source="M-HDSA" target="M-HD"><data key="rel">uses</data></edge>
+<edge id="e174" source="M-SDLM" target="M-LSTM"><data key="rel">uses</data></edge>
+<edge id="e175" source="M-PKGM" target="M-BERT"><data key="rel">uses</data></edge>
+</graph></graphml>

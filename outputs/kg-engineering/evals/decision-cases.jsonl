@@ -1,0 +1,20 @@
+{"id": "D01", "q": "图谱很稀疏，平均度不到 2，还适合上 GNN 吗？", "expected": ["平均度", "稀疏", "KRL"], "file": "graph-analytics.md"}
+{"id": "D02", "q": "关系大量是一对多，表示学习该选什么模型？", "expected": ["TransR", "KR-EAR", "一对多"], "file": "distilled-framework.md"}
+{"id": "D03", "q": "两个百万级本体做匹配，怎么避免 O(M×N)？", "expected": ["分块", "O(M×N)", "哈希"], "file": "distilled-framework.md"}
+{"id": "D04", "q": "医疗高风险推理，能不能只用嵌入模型给结论？", "expected": ["人工复核", "证据链", "符号"], "file": "distilled-framework.md"}
+{"id": "D05", "q": "远程监督标注噪声很大，怎么降？", "expected": ["多实例", "注意力", "降噪"], "file": "distilled-framework.md"}
+{"id": "D06", "q": "训练集没出现过的新实体怎么表示？", "expected": ["DKRL", "描述", "零样本"], "file": "distilled-framework.md"}
+{"id": "D07", "q": "需要多跳逻辑查询，嵌入模型不够怎么办？", "expected": ["BetaE", "路径", "强化学习"], "file": "distilled-framework.md"}
+{"id": "D08", "q": "知识图谱存储要不要上图数据库？", "expected": ["免索引邻接", "多跳", "关系库"], "file": "distilled-framework.md"}
+{"id": "D09", "q": "属性图和 RDF 怎么选？", "expected": ["W3C", "推理", "属性图"], "file": "distilled-framework.md"}
+{"id": "D10", "q": "没有对齐种子，实体对齐怎么做？", "expected": ["无监督", "分块", "结构"], "file": "frontier-modules.md"}
+{"id": "D11", "q": "业务问题固定、要求低延迟，KGQA 怎么选？", "expected": ["模板", "类型检查", "兜底"], "file": "distilled-framework.md"}
+{"id": "D12", "q": "开放域问题很多，KGQA 怎么选？", "expected": ["检索排序", "实体链接"], "file": "distilled-framework.md"}
+{"id": "D13", "q": "把知识注入语言预训练模型，有哪几种做法？", "expected": ["ERNIE", "KEPLER", "K-Adapter"], "file": "frontier-modules.md"}
+{"id": "D14", "q": "项目要不要做多模态知识图谱？", "expected": ["模态消融", "增益", "覆盖率"], "file": "frontier-modules.md"}
+{"id": "D15", "q": "单组织内部要不要上区块链知识图谱？", "expected": ["单组织", "多参与方", "确权"], "file": "distilled-framework.md"}
+{"id": "D16", "q": "低频词/未登录词的义原怎么预测？", "expected": ["CSP", "字信息", "低频"], "file": "language-kg.md"}
+{"id": "D17", "q": "没有义原标注的语言，怎么跨语言预测？", "expected": ["CLSP", "种子词典", "对齐"], "file": "language-kg.md"}
+{"id": "D18", "q": "事件抽取应该先定义什么？", "expected": ["触发词", "论元", "Schema"], "file": "distilled-framework.md"}
+{"id": "D19", "q": "链接预测指标怎么报才可比？", "expected": ["filtered", "Hit@n", "MRR"], "file": "quality-rubric.md"}
+{"id": "D20", "q": "抽取准确率不达标，应该先换更大模型吗？", "expected": ["抽检", "Schema", "更大模型"], "file": "SKILL.md"}

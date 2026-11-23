@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>知识图谱浏览器</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <header>
+    <h1>知识图谱浏览器</h1>
+    <div class="search">
+      <input id="q" placeholder="搜索知识点 / 图表 / 表格 / 方法，如 TransE、表2-1、义原" autocomplete="off">
+      <button id="go">搜索</button>
+    </div>
+    <div id="stats" class="stats"></div>
+  </header>
+  <main>
+    <aside id="results" class="panel">
+      <h2>结果</h2>
+      <div id="resultList"></div>
+    </aside>
+    <section class="panel canvas-wrap">
+      <svg id="graph" viewBox="0 0 760 560" role="img" aria-label="邻域图"></svg>
+      <div class="pathbar">
+        <input id="from" placeholder="起点 ID，如 M-TransE">
+        <input id="to" placeholder="终点 ID，如 DS-FB15K">
+        <button id="path">找路径</button>
+        <span id="pathResult"></span>
+      </div>
+    </section>
+    <aside id="detail" class="panel">
+      <h2>详情</h2>
+      <div id="detailBody">点击节点查看</div>
+    </aside>
+  </main>
+  <script src="/app.js"></script>
+</body>
+</html>

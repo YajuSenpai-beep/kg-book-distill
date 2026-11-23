@@ -1,0 +1,298 @@
+@prefix kg: <http://example.org/kg/> .
+@prefix ex: <http://example.org/kg/node/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+ex:T-LINK a kg:Task ; rdfs:label "链接预测/知识图谱补全" .
+ex:T-TRIPLE a kg:Task ; rdfs:label "三元组分类" .
+ex:T-RE a kg:Task ; rdfs:label "关系抽取" .
+ex:T-EA a kg:Task ; rdfs:label "实体对齐" .
+ex:T-KGQA a kg:Task ; rdfs:label "知识图谱问答" .
+ex:T-QUERY a kg:Task ; rdfs:label "多跳逻辑查询" .
+ex:T-NODE a kg:Task ; rdfs:label "节点分类" .
+ex:T-COMM a kg:Task ; rdfs:label "社区发现" .
+ex:T-SEMEME a kg:Task ; rdfs:label "义原预测" .
+ex:T-LEX a kg:Task ; rdfs:label "词典扩展" .
+ex:T-EVENT a kg:Task ; rdfs:label "事件抽取" .
+ex:T-MM a kg:Task ; rdfs:label "多模态任务" .
+ex:T-LM a kg:Task ; rdfs:label "语言模型" .
+ex:T-TITLE a kg:Task ; rdfs:label "标题生成" .
+ex:T-ENTITYTYPE a kg:Task ; rdfs:label "实体类型分类" .
+ex:T-RETRIEVAL a kg:Task ; rdfs:label "检索排序" .
+ex:T-PRETRAIN a kg:Task ; rdfs:label "知识增强预训练" .
+ex:T-REC a kg:Task ; rdfs:label "推荐" .
+ex:M-TransE a kg:Method ; rdfs:label "TransE" .
+ex:M-TransH a kg:Method ; rdfs:label "TransH" .
+ex:M-TransR a kg:Method ; rdfs:label "TransR" .
+ex:M-CTransR a kg:Method ; rdfs:label "CTransR" .
+ex:M-PTransE a kg:Method ; rdfs:label "PTransE" .
+ex:M-TransD a kg:Method ; rdfs:label "TransD" .
+ex:M-TransG a kg:Method ; rdfs:label "TransG" .
+ex:M-KG2E a kg:Method ; rdfs:label "KG2E" .
+ex:M-ManifoldE a kg:Method ; rdfs:label "ManifoldE" .
+ex:M-RESCAL a kg:Method ; rdfs:label "RESCAL" .
+ex:M-HolE a kg:Method ; rdfs:label "HolE" .
+ex:M-DistMult a kg:Method ; rdfs:label "DistMult" .
+ex:M-ComplEx a kg:Method ; rdfs:label "ComplEx" .
+ex:M-RotatE a kg:Method ; rdfs:label "RotatE" .
+ex:M-SE a kg:Method ; rdfs:label "SE" .
+ex:M-SME a kg:Method ; rdfs:label "SME" .
+ex:M-LFM a kg:Method ; rdfs:label "LFM" .
+ex:M-NTN a kg:Method ; rdfs:label "NTN" .
+ex:M-KALE a kg:Method ; rdfs:label "KALE" .
+ex:M-KR-EAR a kg:Method ; rdfs:label "KR-EAR" .
+ex:M-DKRL a kg:Method ; rdfs:label "DKRL" .
+ex:M-TKRL a kg:Method ; rdfs:label "TKRL" .
+ex:M-IKRL a kg:Method ; rdfs:label "IKRL" .
+ex:M-PRA a kg:Method ; rdfs:label "PRA" .
+ex:M-AMIE a kg:Method ; rdfs:label "AMIE" .
+ex:M-BetaE a kg:Method ; rdfs:label "BetaE" .
+ex:M-NeuralLP a kg:Method ; rdfs:label "NeuralLP" .
+ex:M-IterE a kg:Method ; rdfs:label "IterE" .
+ex:M-MINERVA a kg:Method ; rdfs:label "MINERVA" .
+ex:M-CNN a kg:Method ; rdfs:label "CNN" .
+ex:M-PCNN a kg:Method ; rdfs:label "PCNN" .
+ex:M-HATT a kg:Method ; rdfs:label "HATT" .
+ex:M-MNRE a kg:Method ; rdfs:label "MNRE" .
+ex:M-KATT a kg:Method ; rdfs:label "KATT" .
+ex:M-SATT a kg:Method ; rdfs:label "SATT" .
+ex:M-MTransE a kg:Method ; rdfs:label "MTransE" .
+ex:M-IPTransE a kg:Method ; rdfs:label "IPTransE" .
+ex:M-KNET a kg:Method ; rdfs:label "KNET" .
+ex:M-EDRM a kg:Method ; rdfs:label "EDRM" .
+ex:M-GCN a kg:Method ; rdfs:label "GCN" .
+ex:M-GAT a kg:Method ; rdfs:label "GAT" .
+ex:M-GraphSAGE a kg:Method ; rdfs:label "GraphSAGE" .
+ex:M-RGCN a kg:Method ; rdfs:label "R-GCN" .
+ex:M-CompGCN a kg:Method ; rdfs:label "CompGCN" .
+ex:M-RDGCN a kg:Method ; rdfs:label "RDGCN" .
+ex:M-ExpressGNN a kg:Method ; rdfs:label "ExpressGNN" .
+ex:M-SPWE a kg:Method ; rdfs:label "SPWE" .
+ex:M-SPSE a kg:Method ; rdfs:label "SPSE" .
+ex:M-SPASE a kg:Method ; rdfs:label "SPASE" .
+ex:M-SPWCF a kg:Method ; rdfs:label "SPWCF" .
+ex:M-SPCSE a kg:Method ; rdfs:label "SPCSE" .
+ex:M-CSP a kg:Method ; rdfs:label "CSP" .
+ex:M-CLSP a kg:Method ; rdfs:label "CLSP" .
+ex:M-HD a kg:Method ; rdfs:label "HD" .
+ex:M-HDSA a kg:Method ; rdfs:label "HDSA" .
+ex:M-SDLM a kg:Method ; rdfs:label "SDLM" .
+ex:M-PKGM a kg:Method ; rdfs:label "PKGM" .
+ex:M-LSTM a kg:Method ; rdfs:label "LSTM" .
+ex:M-BERT a kg:Method ; rdfs:label "BERT" .
+ex:M-KEPLER a kg:Method ; rdfs:label "KEPLER" .
+ex:M-ERNIE a kg:Method ; rdfs:label "ERNIE" .
+ex:M-K-Adapter a kg:Method ; rdfs:label "K-Adapter" .
+ex:M-WKLM a kg:Method ; rdfs:label "WKLM" .
+ex:M-KnowBERT a kg:Method ; rdfs:label "KnowBERT" .
+ex:DS-FB15K a kg:Dataset ; rdfs:label "FB15K" .
+ex:DS-FB24K a kg:Dataset ; rdfs:label "FB24K" .
+ex:DS-FB20K a kg:Dataset ; rdfs:label "FB20K" .
+ex:DS-FB15KPLUS a kg:Dataset ; rdfs:label "FB15K+" .
+ex:DS-FB60K a kg:Dataset ; rdfs:label "FB60K" .
+ex:DS-FB13 a kg:Dataset ; rdfs:label "FB13" .
+ex:DS-WN18 a kg:Dataset ; rdfs:label "WN18" .
+ex:DS-WN11 a kg:Dataset ; rdfs:label "WN11" .
+ex:DS-NYT a kg:Dataset ; rdfs:label "NYT" .
+ex:DS-DFB1 a kg:Dataset ; rdfs:label "DFB-1" .
+ex:DS-DFB3 a kg:Dataset ; rdfs:label "DFB-3" .
+ex:DS-DFB4 a kg:Dataset ; rdfs:label "DFB-4" .
+ex:DS-SEMEVAL07 a kg:Dataset ; rdfs:label "SemEval-2007" .
+ex:DS-WORDSIM240 a kg:Dataset ; rdfs:label "Wordsim240" .
+ex:DS-HOWNET a kg:Dataset ; rdfs:label "HowNet" .
+ex:DS-LIWC a kg:Dataset ; rdfs:label "LIWC" .
+ex:DS-LCSTS a kg:Dataset ; rdfs:label "LCSTS" .
+ex:DS-SQUAD a kg:Dataset ; rdfs:label "SQuAD" .
+ex:DS-WEBQUESTIONS a kg:Dataset ; rdfs:label "WebQuestions" .
+ex:DS-SIMPLEQUESTIONS a kg:Dataset ; rdfs:label "SimpleQuestions" .
+ex:DS-METAQA a kg:Dataset ; rdfs:label "MetaQA" .
+ex:DS-QALD a kg:Dataset ; rdfs:label "QALD" .
+ex:DS-YAGO a kg:Dataset ; rdfs:label "YAGO" .
+ex:DS-DBPEDIA a kg:Dataset ; rdfs:label "DBpedia" .
+ex:DS-FREEBASE a kg:Dataset ; rdfs:label "Freebase" .
+ex:DS-WIKIDATA a kg:Dataset ; rdfs:label "Wikidata" .
+ex:MT-MR a kg:Metric ; rdfs:label "MR" .
+ex:MT-MRR a kg:Metric ; rdfs:label "MRR" .
+ex:MT-HIT1 a kg:Metric ; rdfs:label "Hit@1" .
+ex:MT-HIT10 a kg:Metric ; rdfs:label "Hit@10" .
+ex:MT-PN a kg:Metric ; rdfs:label "P@N" .
+ex:MT-MAP a kg:Metric ; rdfs:label "MAP" .
+ex:MT-MICROF1 a kg:Metric ; rdfs:label "Micro-F1" .
+ex:MT-MACROF1 a kg:Metric ; rdfs:label "Macro-F1" .
+ex:MT-NDCG a kg:Metric ; rdfs:label "NDCG" .
+ex:MT-AUC a kg:Metric ; rdfs:label "AUC" .
+ex:M-TransE kg:solves ex:T-LINK .
+ex:M-TransE kg:solves ex:T-TRIPLE .
+ex:M-TransH kg:solves ex:T-LINK .
+ex:M-TransR kg:solves ex:T-LINK .
+ex:M-TransR kg:solves ex:T-TRIPLE .
+ex:M-CTransR kg:solves ex:T-LINK .
+ex:M-PTransE kg:solves ex:T-LINK .
+ex:M-PTransE kg:solves ex:T-RE .
+ex:M-TransD kg:solves ex:T-LINK .
+ex:M-TransG kg:solves ex:T-LINK .
+ex:M-KG2E kg:solves ex:T-LINK .
+ex:M-ManifoldE kg:solves ex:T-LINK .
+ex:M-RESCAL kg:solves ex:T-LINK .
+ex:M-HolE kg:solves ex:T-LINK .
+ex:M-DistMult kg:solves ex:T-LINK .
+ex:M-ComplEx kg:solves ex:T-LINK .
+ex:M-RotatE kg:solves ex:T-LINK .
+ex:M-SE kg:solves ex:T-LINK .
+ex:M-SME kg:solves ex:T-LINK .
+ex:M-LFM kg:solves ex:T-LINK .
+ex:M-NTN kg:solves ex:T-LINK .
+ex:M-NTN kg:solves ex:T-TRIPLE .
+ex:M-KALE kg:solves ex:T-LINK .
+ex:M-KR-EAR kg:solves ex:T-LINK .
+ex:M-DKRL kg:solves ex:T-LINK .
+ex:M-DKRL kg:solves ex:T-ENTITYTYPE .
+ex:M-TKRL kg:solves ex:T-LINK .
+ex:M-IKRL kg:solves ex:T-LINK .
+ex:M-PRA kg:solves ex:T-LINK .
+ex:M-AMIE kg:solves ex:T-LINK .
+ex:M-BetaE kg:solves ex:T-LINK .
+ex:M-BetaE kg:solves ex:T-QUERY .
+ex:M-NeuralLP kg:solves ex:T-LINK .
+ex:M-IterE kg:solves ex:T-LINK .
+ex:M-MINERVA kg:solves ex:T-LINK .
+ex:M-MINERVA kg:solves ex:T-QUERY .
+ex:M-CNN kg:solves ex:T-RE .
+ex:M-PCNN kg:solves ex:T-RE .
+ex:M-HATT kg:solves ex:T-RE .
+ex:M-MNRE kg:solves ex:T-RE .
+ex:M-KATT kg:solves ex:T-RE .
+ex:M-SATT kg:solves ex:T-RE .
+ex:M-MTransE kg:solves ex:T-EA .
+ex:M-IPTransE kg:solves ex:T-EA .
+ex:M-IPTransE kg:solves ex:T-LINK .
+ex:M-KNET kg:solves ex:T-ENTITYTYPE .
+ex:M-EDRM kg:solves ex:T-RETRIEVAL .
+ex:M-GCN kg:solves ex:T-NODE .
+ex:M-GCN kg:solves ex:T-LINK .
+ex:M-GAT kg:solves ex:T-NODE .
+ex:M-GAT kg:solves ex:T-LINK .
+ex:M-GraphSAGE kg:solves ex:T-NODE .
+ex:M-GraphSAGE kg:solves ex:T-LINK .
+ex:M-RGCN kg:solves ex:T-NODE .
+ex:M-RGCN kg:solves ex:T-LINK .
+ex:M-CompGCN kg:solves ex:T-NODE .
+ex:M-CompGCN kg:solves ex:T-LINK .
+ex:M-RDGCN kg:solves ex:T-EA .
+ex:M-ExpressGNN kg:solves ex:T-LINK .
+ex:M-SPWE kg:solves ex:T-SEMEME .
+ex:M-SPSE kg:solves ex:T-SEMEME .
+ex:M-SPASE kg:solves ex:T-SEMEME .
+ex:M-SPWCF kg:solves ex:T-SEMEME .
+ex:M-SPCSE kg:solves ex:T-SEMEME .
+ex:M-CSP kg:solves ex:T-SEMEME .
+ex:M-CLSP kg:solves ex:T-SEMEME .
+ex:M-HD kg:solves ex:T-LEX .
+ex:M-HDSA kg:solves ex:T-LEX .
+ex:M-SDLM kg:solves ex:T-LM .
+ex:M-SDLM kg:solves ex:T-TITLE .
+ex:M-PKGM kg:solves ex:T-PRETRAIN .
+ex:M-PKGM kg:solves ex:T-REC .
+ex:M-LSTM kg:solves ex:T-LM .
+ex:M-BERT kg:solves ex:T-PRETRAIN .
+ex:M-KEPLER kg:solves ex:T-PRETRAIN .
+ex:M-ERNIE kg:solves ex:T-PRETRAIN .
+ex:M-K-Adapter kg:solves ex:T-PRETRAIN .
+ex:M-WKLM kg:solves ex:T-PRETRAIN .
+ex:M-KnowBERT kg:solves ex:T-PRETRAIN .
+ex:M-SE kg:mentionsDataset ex:DS-FREEBASE .
+ex:M-SE kg:mentionsDataset ex:DS-WIKIDATA .
+ex:M-PKGM kg:reportsMetric ex:MT-HIT1 .
+ex:M-TransR kg:evaluatedOn ex:DS-FB15K .
+ex:M-CTransR kg:evaluatedOn ex:DS-FB15K .
+ex:M-TransR kg:evaluatedOn ex:DS-WN18 .
+ex:M-CTransR kg:evaluatedOn ex:DS-WN18 .
+ex:M-KR-EAR kg:evaluatedOn ex:DS-FB24K .
+ex:M-TransR kg:evaluatedOn ex:DS-FB15K .
+ex:M-CTransR kg:evaluatedOn ex:DS-FB15K .
+ex:M-TransR kg:evaluatedOn ex:DS-WN18 .
+ex:M-CTransR kg:evaluatedOn ex:DS-WN18 .
+ex:M-TransR kg:reportsMetric ex:MT-MR .
+ex:M-CTransR kg:reportsMetric ex:MT-MR .
+ex:M-TransR kg:evaluatedOn ex:DS-FB15K .
+ex:M-TransR kg:reportsMetric ex:MT-HIT10 .
+ex:M-TransE kg:evaluatedOn ex:DS-FB15K .
+ex:M-PTransE kg:evaluatedOn ex:DS-FB15K .
+ex:M-SE kg:evaluatedOn ex:DS-FB15K .
+ex:M-TransE kg:reportsMetric ex:MT-MR .
+ex:M-PTransE kg:reportsMetric ex:MT-MR .
+ex:M-SE kg:reportsMetric ex:MT-MR .
+ex:M-TransE kg:reportsMetric ex:MT-HIT10 .
+ex:M-PTransE kg:reportsMetric ex:MT-HIT10 .
+ex:M-SE kg:reportsMetric ex:MT-HIT10 .
+ex:M-KR-EAR kg:evaluatedOn ex:DS-FB24K .
+ex:M-KR-EAR kg:reportsMetric ex:MT-MR .
+ex:M-KR-EAR kg:reportsMetric ex:MT-HIT1 .
+ex:M-KR-EAR kg:reportsMetric ex:MT-HIT10 .
+ex:M-DKRL kg:evaluatedOn ex:DS-FB20K .
+ex:M-DKRL kg:evaluatedOn ex:DS-FB20K .
+ex:M-DKRL kg:evaluatedOn ex:DS-FB15K .
+ex:M-DKRL kg:reportsMetric ex:MT-MR .
+ex:M-DKRL kg:reportsMetric ex:MT-HIT10 .
+ex:M-DKRL kg:mentionsDataset ex:DS-FB15K .
+ex:M-DKRL kg:mentionsDataset ex:DS-FB20K .
+ex:M-DKRL kg:mentionsMetric ex:MT-HIT1 .
+ex:M-DKRL kg:mentionsMetric ex:MT-MAP .
+ex:M-TKRL kg:evaluatedOn ex:DS-FB15K .
+ex:M-TKRL kg:reportsMetric ex:MT-MR .
+ex:M-TKRL kg:reportsMetric ex:MT-HIT10 .
+ex:M-TKRL kg:evaluatedOn ex:DS-FB15K .
+ex:M-TKRL kg:evaluatedOn ex:DS-FB15KPLUS .
+ex:M-TKRL kg:reportsMetric ex:MT-HIT1 .
+ex:M-TKRL kg:reportsMetric ex:MT-HIT10 .
+ex:M-HATT kg:evaluatedOn ex:DS-NYT .
+ex:M-MNRE kg:evaluatedOn ex:DS-NYT .
+ex:M-KATT kg:reportsMetric ex:MT-PN .
+ex:M-EDRM kg:reportsMetric ex:MT-MRR .
+ex:M-EDRM kg:reportsMetric ex:MT-MAP .
+ex:M-EDRM kg:reportsMetric ex:MT-MRR .
+ex:M-EDRM kg:reportsMetric ex:MT-NDCG .
+ex:M-CSP kg:reportsMetric ex:MT-MAP .
+ex:M-CSP kg:mentionsMetric ex:MT-MAP .
+ex:M-HD kg:reportsMetric ex:MT-MICROF1 .
+ex:M-HDSA kg:reportsMetric ex:MT-MICROF1 .
+ex:M-SDLM kg:evaluatedOn ex:DS-LCSTS .
+ex:M-SDLM kg:variantOf ex:M-TransE .
+ex:M-SDLM kg:variantOf ex:M-TransE .
+ex:M-SDLM kg:variantOf ex:M-TransR .
+ex:M-SDLM kg:variantOf ex:M-TransE .
+ex:M-SDLM kg:variantOf ex:M-TransE .
+ex:M-SDLM kg:variantOf ex:M-CNN .
+ex:M-SDLM kg:variantOf ex:M-SPWE .
+ex:M-SDLM kg:variantOf ex:M-SPWE .
+ex:M-SDLM kg:variantOf ex:M-SPWCF .
+ex:M-SDLM kg:variantOf ex:M-SE .
+ex:M-SDLM kg:variantOf ex:M-HD .
+ex:M-SDLM kg:variantOf ex:M-GCN .
+ex:M-SDLM kg:variantOf ex:M-GCN .
+ex:M-SDLM kg:variantOf ex:M-RGCN .
+ex:M-SDLM kg:improves ex:M-TransE .
+ex:M-SDLM kg:improves ex:M-TransR .
+ex:M-SDLM kg:improves ex:M-TransE .
+ex:M-SDLM kg:improves ex:M-TransE .
+ex:M-SDLM kg:improves ex:M-TransE .
+ex:M-SDLM kg:improves ex:M-TransE .
+ex:M-SDLM kg:improves ex:M-SPWE .
+ex:M-SDLM kg:improves ex:M-HD .
+ex:M-PTransE kg:uses ex:M-TransE .
+ex:M-CTransR kg:uses ex:M-TransR .
+ex:M-KR-EAR kg:uses ex:M-TransE .
+ex:M-KR-EAR kg:uses ex:M-TransR .
+ex:M-DKRL kg:uses ex:M-CNN .
+ex:M-TKRL kg:uses ex:M-TransR .
+ex:M-HATT kg:uses ex:M-PCNN .
+ex:M-KATT kg:uses ex:M-CNN .
+ex:M-SATT kg:uses ex:M-CNN .
+ex:M-IPTransE kg:uses ex:M-TransE .
+ex:M-IPTransE kg:uses ex:M-PTransE .
+ex:M-KNET kg:uses ex:M-LSTM .
+ex:M-CSP kg:uses ex:M-SPWE .
+ex:M-CSP kg:uses ex:M-SPWCF .
+ex:M-CLSP kg:uses ex:M-SPWE .
+ex:M-HDSA kg:uses ex:M-HD .
+ex:M-SDLM kg:uses ex:M-LSTM .
+ex:M-PKGM kg:uses ex:M-BERT .

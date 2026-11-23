@@ -1,0 +1,813 @@
+{
+  "methods": [
+    {
+      "id": "M-TransE",
+      "label": "TransE",
+      "aliases": [
+        "TransE"
+      ],
+      "tasks": [
+        "T-LINK",
+        "T-TRIPLE"
+      ]
+    },
+    {
+      "id": "M-TransH",
+      "label": "TransH",
+      "aliases": [
+        "TransH"
+      ],
+      "tasks": [
+        "T-LINK"
+      ]
+    },
+    {
+      "id": "M-TransR",
+      "label": "TransR",
+      "aliases": [
+        "TransR"
+      ],
+      "tasks": [
+        "T-LINK",
+        "T-TRIPLE"
+      ]
+    },
+    {
+      "id": "M-CTransR",
+      "label": "CTransR",
+      "aliases": [
+        "CTransR"
+      ],
+      "tasks": [
+        "T-LINK"
+      ]
+    },
+    {
+      "id": "M-PTransE",
+      "label": "PTransE",
+      "aliases": [
+        "PTransE"
+      ],
+      "tasks": [
+        "T-LINK",
+        "T-RE"
+      ]
+    },
+    {
+      "id": "M-TransD",
+      "label": "TransD",
+      "aliases": [
+        "TransD"
+      ],
+      "tasks": [
+        "T-LINK"
+      ]
+    },
+    {
+      "id": "M-TransG",
+      "label": "TransG",
+      "aliases": [
+        "TransG"
+      ],
+      "tasks": [
+        "T-LINK"
+      ]
+    },
+    {
+      "id": "M-KG2E",
+      "label": "KG2E",
+      "aliases": [
+        "KG2E"
+      ],
+      "tasks": [
+        "T-LINK"
+      ]
+    },
+    {
+      "id": "M-ManifoldE",
+      "label": "ManifoldE",
+      "aliases": [
+        "ManifoldE"
+      ],
+      "tasks": [
+        "T-LINK"
+      ]
+    },
+    {
+      "id": "M-RESCAL",
+      "label": "RESCAL",
+      "aliases": [
+        "RESCAL"
+      ],
+      "tasks": [
+        "T-LINK"
+      ]
+    },
+    {
+      "id": "M-HolE",
+      "label": "HolE",
+      "aliases": [
+        "HolE"
+      ],
+      "tasks": [
+        "T-LINK"
+      ]
+    },
+    {
+      "id": "M-DistMult",
+      "label": "DistMult",
+      "aliases": [
+        "DistMult"
+      ],
+      "tasks": [
+        "T-LINK"
+      ]
+    },
+    {
+      "id": "M-ComplEx",
+      "label": "ComplEx",
+      "aliases": [
+        "ComplEx"
+      ],
+      "tasks": [
+        "T-LINK"
+      ]
+    },
+    {
+      "id": "M-RotatE",
+      "label": "RotatE",
+      "aliases": [
+        "RotatE"
+      ],
+      "tasks": [
+        "T-LINK"
+      ]
+    },
+    {
+      "id": "M-SE",
+      "label": "SE",
+      "aliases": [
+        "结构嵌入",
+        "SE 模型"
+      ],
+      "tasks": [
+        "T-LINK"
+      ]
+    },
+    {
+      "id": "M-SME",
+      "label": "SME",
+      "aliases": [
+        "SME"
+      ],
+      "tasks": [
+        "T-LINK"
+      ]
+    },
+    {
+      "id": "M-LFM",
+      "label": "LFM",
+      "aliases": [
+        "LFM"
+      ],
+      "tasks": [
+        "T-LINK"
+      ]
+    },
+    {
+      "id": "M-NTN",
+      "label": "NTN",
+      "aliases": [
+        "NTN"
+      ],
+      "tasks": [
+        "T-LINK",
+        "T-TRIPLE"
+      ]
+    },
+    {
+      "id": "M-KALE",
+      "label": "KALE",
+      "aliases": [
+        "KALE"
+      ],
+      "tasks": [
+        "T-LINK"
+      ]
+    },
+    {
+      "id": "M-KR-EAR",
+      "label": "KR-EAR",
+      "aliases": [
+        "KR-EAR"
+      ],
+      "tasks": [
+        "T-LINK"
+      ]
+    },
+    {
+      "id": "M-DKRL",
+      "label": "DKRL",
+      "aliases": [
+        "DKRL"
+      ],
+      "tasks": [
+        "T-LINK",
+        "T-ENTITYTYPE"
+      ]
+    },
+    {
+      "id": "M-TKRL",
+      "label": "TKRL",
+      "aliases": [
+        "TKRL"
+      ],
+      "tasks": [
+        "T-LINK"
+      ]
+    },
+    {
+      "id": "M-IKRL",
+      "label": "IKRL",
+      "aliases": [
+        "IKRL"
+      ],
+      "tasks": [
+        "T-LINK"
+      ]
+    },
+    {
+      "id": "M-PRA",
+      "label": "PRA",
+      "aliases": [
+        "PRA"
+      ],
+      "tasks": [
+        "T-LINK"
+      ]
+    },
+    {
+      "id": "M-AMIE",
+      "label": "AMIE",
+      "aliases": [
+        "AMIE"
+      ],
+      "tasks": [
+        "T-LINK"
+      ]
+    },
+    {
+      "id": "M-BetaE",
+      "label": "BetaE",
+      "aliases": [
+        "BetaE"
+      ],
+      "tasks": [
+        "T-LINK",
+        "T-QUERY"
+      ]
+    },
+    {
+      "id": "M-NeuralLP",
+      "label": "NeuralLP",
+      "aliases": [
+        "NeuralLP"
+      ],
+      "tasks": [
+        "T-LINK"
+      ]
+    },
+    {
+      "id": "M-IterE",
+      "label": "IterE",
+      "aliases": [
+        "IterE"
+      ],
+      "tasks": [
+        "T-LINK"
+      ]
+    },
+    {
+      "id": "M-MINERVA",
+      "label": "MINERVA",
+      "aliases": [
+        "MINERVA"
+      ],
+      "tasks": [
+        "T-LINK",
+        "T-QUERY"
+      ]
+    },
+    {
+      "id": "M-CNN",
+      "label": "CNN",
+      "aliases": [
+        "CNN"
+      ],
+      "tasks": [
+        "T-RE"
+      ]
+    },
+    {
+      "id": "M-PCNN",
+      "label": "PCNN",
+      "aliases": [
+        "PCNN"
+      ],
+      "tasks": [
+        "T-RE"
+      ]
+    },
+    {
+      "id": "M-HATT",
+      "label": "HATT",
+      "aliases": [
+        "HATT"
+      ],
+      "tasks": [
+        "T-RE"
+      ]
+    },
+    {
+      "id": "M-MNRE",
+      "label": "MNRE",
+      "aliases": [
+        "MNRE"
+      ],
+      "tasks": [
+        "T-RE"
+      ]
+    },
+    {
+      "id": "M-KATT",
+      "label": "KATT",
+      "aliases": [
+        "KATT"
+      ],
+      "tasks": [
+        "T-RE"
+      ]
+    },
+    {
+      "id": "M-SATT",
+      "label": "SATT",
+      "aliases": [
+        "SATT"
+      ],
+      "tasks": [
+        "T-RE"
+      ]
+    },
+    {
+      "id": "M-MTransE",
+      "label": "MTransE",
+      "aliases": [
+        "MTransE"
+      ],
+      "tasks": [
+        "T-EA"
+      ]
+    },
+    {
+      "id": "M-IPTransE",
+      "label": "IPTransE",
+      "aliases": [
+        "IPTransE",
+        "ITransE"
+      ],
+      "tasks": [
+        "T-EA",
+        "T-LINK"
+      ]
+    },
+    {
+      "id": "M-KNET",
+      "label": "KNET",
+      "aliases": [
+        "KNET"
+      ],
+      "tasks": [
+        "T-ENTITYTYPE"
+      ]
+    },
+    {
+      "id": "M-EDRM",
+      "label": "EDRM",
+      "aliases": [
+        "EDRM"
+      ],
+      "tasks": [
+        "T-RETRIEVAL"
+      ]
+    },
+    {
+      "id": "M-GCN",
+      "label": "GCN",
+      "aliases": [
+        "GCN"
+      ],
+      "tasks": [
+        "T-NODE",
+        "T-LINK"
+      ]
+    },
+    {
+      "id": "M-GAT",
+      "label": "GAT",
+      "aliases": [
+        "GAT"
+      ],
+      "tasks": [
+        "T-NODE",
+        "T-LINK"
+      ]
+    },
+    {
+      "id": "M-GraphSAGE",
+      "label": "GraphSAGE",
+      "aliases": [
+        "GraphSAGE"
+      ],
+      "tasks": [
+        "T-NODE",
+        "T-LINK"
+      ]
+    },
+    {
+      "id": "M-RGCN",
+      "label": "R-GCN",
+      "aliases": [
+        "R-GCN",
+        "RGCN"
+      ],
+      "tasks": [
+        "T-NODE",
+        "T-LINK"
+      ]
+    },
+    {
+      "id": "M-CompGCN",
+      "label": "CompGCN",
+      "aliases": [
+        "CompGCN",
+        "COMPGCN"
+      ],
+      "tasks": [
+        "T-NODE",
+        "T-LINK"
+      ]
+    },
+    {
+      "id": "M-RDGCN",
+      "label": "RDGCN",
+      "aliases": [
+        "RDGCN"
+      ],
+      "tasks": [
+        "T-EA"
+      ]
+    },
+    {
+      "id": "M-ExpressGNN",
+      "label": "ExpressGNN",
+      "aliases": [
+        "ExpressGNN"
+      ],
+      "tasks": [
+        "T-LINK"
+      ]
+    },
+    {
+      "id": "M-SPWE",
+      "label": "SPWE",
+      "aliases": [
+        "SPWE"
+      ],
+      "tasks": [
+        "T-SEMEME"
+      ]
+    },
+    {
+      "id": "M-SPSE",
+      "label": "SPSE",
+      "aliases": [
+        "SPSE"
+      ],
+      "tasks": [
+        "T-SEMEME"
+      ]
+    },
+    {
+      "id": "M-SPASE",
+      "label": "SPASE",
+      "aliases": [
+        "SPASE"
+      ],
+      "tasks": [
+        "T-SEMEME"
+      ]
+    },
+    {
+      "id": "M-SPWCF",
+      "label": "SPWCF",
+      "aliases": [
+        "SPWCF"
+      ],
+      "tasks": [
+        "T-SEMEME"
+      ]
+    },
+    {
+      "id": "M-SPCSE",
+      "label": "SPCSE",
+      "aliases": [
+        "SPCSE"
+      ],
+      "tasks": [
+        "T-SEMEME"
+      ]
+    },
+    {
+      "id": "M-CSP",
+      "label": "CSP",
+      "aliases": [
+        "CSP"
+      ],
+      "tasks": [
+        "T-SEMEME"
+      ]
+    },
+    {
+      "id": "M-CLSP",
+      "label": "CLSP",
+      "aliases": [
+        "CLSP"
+      ],
+      "tasks": [
+        "T-SEMEME"
+      ]
+    },
+    {
+      "id": "M-HD",
+      "label": "HD",
+      "aliases": [
+        "层次解码器 HD",
+        "HD 模型"
+      ],
+      "tasks": [
+        "T-LEX"
+      ]
+    },
+    {
+      "id": "M-HDSA",
+      "label": "HDSA",
+      "aliases": [
+        "HDSA"
+      ],
+      "tasks": [
+        "T-LEX"
+      ]
+    },
+    {
+      "id": "M-SDLM",
+      "label": "SDLM",
+      "aliases": [
+        "SDLM"
+      ],
+      "tasks": [
+        "T-LM",
+        "T-TITLE"
+      ]
+    },
+    {
+      "id": "M-PKGM",
+      "label": "PKGM",
+      "aliases": [
+        "PKGM"
+      ],
+      "tasks": [
+        "T-PRETRAIN",
+        "T-REC"
+      ]
+    },
+    {
+      "id": "M-LSTM",
+      "label": "LSTM",
+      "aliases": [
+        "LSTM"
+      ],
+      "tasks": [
+        "T-LM"
+      ]
+    },
+    {
+      "id": "M-BERT",
+      "label": "BERT",
+      "aliases": [
+        "BERT"
+      ],
+      "tasks": [
+        "T-PRETRAIN"
+      ]
+    },
+    {
+      "id": "M-KEPLER",
+      "label": "KEPLER",
+      "aliases": [
+        "KEPLER"
+      ],
+      "tasks": [
+        "T-PRETRAIN"
+      ]
+    },
+    {
+      "id": "M-ERNIE",
+      "label": "ERNIE",
+      "aliases": [
+        "ERNIE"
+      ],
+      "tasks": [
+        "T-PRETRAIN"
+      ]
+    },
+    {
+      "id": "M-K-Adapter",
+      "label": "K-Adapter",
+      "aliases": [
+        "K-Adapter",
+        "K-ADAPTER"
+      ],
+      "tasks": [
+        "T-PRETRAIN"
+      ]
+    },
+    {
+      "id": "M-WKLM",
+      "label": "WKLM",
+      "aliases": [
+        "WKLM"
+      ],
+      "tasks": [
+        "T-PRETRAIN"
+      ]
+    },
+    {
+      "id": "M-KnowBERT",
+      "label": "KnowBERT",
+      "aliases": [
+        "KnowBERT"
+      ],
+      "tasks": [
+        "T-PRETRAIN"
+      ]
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T-LINK",
+      "label": "链接预测/知识图谱补全"
+    },
+    {
+      "id": "T-TRIPLE",
+      "label": "三元组分类"
+    },
+    {
+      "id": "T-RE",
+      "label": "关系抽取"
+    },
+    {
+      "id": "T-EA",
+      "label": "实体对齐"
+    },
+    {
+      "id": "T-KGQA",
+      "label": "知识图谱问答"
+    },
+    {
+      "id": "T-QUERY",
+      "label": "多跳逻辑查询"
+    },
+    {
+      "id": "T-NODE",
+      "label": "节点分类"
+    },
+    {
+      "id": "T-COMM",
+      "label": "社区发现"
+    },
+    {
+      "id": "T-SEMEME",
+      "label": "义原预测"
+    },
+    {
+      "id": "T-LEX",
+      "label": "词典扩展"
+    },
+    {
+      "id": "T-EVENT",
+      "label": "事件抽取"
+    },
+    {
+      "id": "T-MM",
+      "label": "多模态任务"
+    },
+    {
+      "id": "T-LM",
+      "label": "语言模型"
+    },
+    {
+      "id": "T-TITLE",
+      "label": "标题生成"
+    },
+    {
+      "id": "T-ENTITYTYPE",
+      "label": "实体类型分类"
+    },
+    {
+      "id": "T-RETRIEVAL",
+      "label": "检索排序"
+    },
+    {
+      "id": "T-PRETRAIN",
+      "label": "知识增强预训练"
+    },
+    {
+      "id": "T-REC",
+      "label": "推荐"
+    }
+  ],
+  "uses": [
+    [
+      "M-PTransE",
+      "M-TransE"
+    ],
+    [
+      "M-CTransR",
+      "M-TransR"
+    ],
+    [
+      "M-KR-EAR",
+      "M-TransE"
+    ],
+    [
+      "M-KR-EAR",
+      "M-TransR"
+    ],
+    [
+      "M-DKRL",
+      "M-CNN"
+    ],
+    [
+      "M-TKRL",
+      "M-TransR"
+    ],
+    [
+      "M-HATT",
+      "M-PCNN"
+    ],
+    [
+      "M-KATT",
+      "M-CNN"
+    ],
+    [
+      "M-SATT",
+      "M-CNN"
+    ],
+    [
+      "M-IPTransE",
+      "M-TransE"
+    ],
+    [
+      "M-IPTransE",
+      "M-PTransE"
+    ],
+    [
+      "M-KNET",
+      "M-LSTM"
+    ],
+    [
+      "M-CSP",
+      "M-SPWE"
+    ],
+    [
+      "M-CSP",
+      "M-SPWCF"
+    ],
+    [
+      "M-CLSP",
+      "M-SPWE"
+    ],
+    [
+      "M-HDSA",
+      "M-HD"
+    ],
+    [
+      "M-SDLM",
+      "M-LSTM"
+    ],
+    [
+      "M-PKGM",
+      "M-BERT"
+    ]
+  ]
+}

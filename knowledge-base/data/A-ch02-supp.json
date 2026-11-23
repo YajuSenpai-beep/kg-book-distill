@@ -1,0 +1,19 @@
+{
+  "book": "A",
+  "chapter": 2,
+  "chapter_title": "知识图谱的表示",
+  "sections": [
+    {
+      "sec": "2.3",
+      "title": "知识图谱的符号表示方法",
+      "points": [
+        {"id": "A-02-03-41", "t": "RDFS 推理", "ty": "方法", "d": "RDFS 通过 subClassOf/subPropertyOf/domain/range 支持简单的类与关系推理。", "k": ["类层次推断", "属性层次", "domain/range 约束", "可减少全量存储"], "f": "subClassOf 传递", "pre": ["A-02-03-14"], "rel": ["A-02-03-42"], "p": "p.46-47", "m": "M1 / distilled §3", "c": "核心"},
+        {"id": "A-02-03-42", "t": "OWL 等价性公理", "ty": "方法", "d": "OWL 用 equivalentClass/equivalentProperty/sameAs 声明类、属性、个体的等价。", "k": ["类等价", "属性等价", "个体等价", "支持合并/推理"], "f": "owl:equivalentClass", "pre": ["A-02-03-15"], "rel": ["A-02-03-43"], "p": "p.47-48", "m": "M1 / distilled §3.2", "c": "核心"},
+        {"id": "A-02-03-43", "t": "OWL 传递/互反关系", "ty": "方法", "d": "TransitiveProperty 支持传递推理；inverseOf 支持互反关系推理。", "k": ["ancestor 传递", "ancestor/descendant 互反", "自动补边", "可解释"], "f": "owl:TransitiveProperty；owl:inverseOf", "pre": ["A-02-03-42"], "rel": ["A-02-03-44"], "p": "p.47-48", "m": "M1 / distilled §3.2", "c": "核心"},
+        {"id": "A-02-03-44", "t": "OWL 函数/基数约束", "ty": "方法", "d": "FunctionalProperty 约束关系唯一；基数约束限制关系数量。", "k": ["hasMother 函数性", "基数限制", "一致性检查", "防止冲突"], "f": "owl:FunctionalProperty", "pre": ["A-02-03-42"], "rel": ["A-02-03-45"], "p": "p.47-48", "m": "M1 / distilled §3.2", "c": "核心"},
+        {"id": "A-02-03-45", "t": "OWL 量词限定", "ty": "方法", "d": "allValuesFrom 限定全称取值；someValuesFrom 限定存在取值。", "k": ["全称：所有孩子都是医生", "存在：发表在 AAAI", "值域约束", "支持推理"], "f": "owl:allValuesFrom；owl:someValuesFrom", "pre": ["A-02-03-42"], "rel": ["A-02-03-46"], "p": "p.48", "m": "M1 / distilled §3.2", "c": "核心"},
+        {"id": "A-02-03-46", "t": "属性图与 RDF 的表达对比", "ty": "对比", "d": "属性图边可带属性、图算法友好；RDF 标准、可推理、跨组织交换。", "k": ["属性图：灵活/分析强", "RDF：标准/推理强", "可按需混合", "不要二选一"], "f": "", "pre": ["A-02-03-17"], "rel": ["A-03-04-18"], "p": "p.48-49", "m": "M2 / distilled §3.3", "c": "核心"}
+      ]
+    }
+  ]
+}

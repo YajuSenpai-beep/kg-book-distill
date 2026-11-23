@@ -1,0 +1,155 @@
+{
+  "tables": [
+    {
+      "id": "TAB-B-2-10", "caption": "关系预测的评测结果", "book": "B", "page": 56,
+      "columns": ["model", "mr_raw", "mr_filtered", "h1_raw", "h1_filtered"],
+      "numeric_columns": [1, 2, 3, 4], "status": "matrix",
+      "rows": [
+        ["TransE", 3.1, 2.8, 65.9, 83.8],
+        ["TransH", 3.4, 3.1, 64.9, 84.1],
+        ["TransR", 3.4, 3.1, 65.2, 84.5],
+        ["KR-EAR(TransE)", 2.4, 2.1, 67.9, 86.2],
+        ["KR-EAR(TransE)+CRA", 1.8, 1.6, 70.9, 88.7],
+        ["KR-EAR(TransR)", 2.6, 2.2, 66.8, 89.0],
+        ["KR-EAR(TransR)+CRA", 1.9, 1.6, 71.5, 90.4]
+      ],
+      "note": "FB24K；关系预测用 Hits@1；CRA 为属性相关性约束。"
+    },
+    {
+      "id": "TAB-B-2-11", "caption": "属性预测的评测结果", "book": "B", "page": 57,
+      "columns": ["model", "mr_raw", "mr_filtered", "h1_raw", "h1_filtered"],
+      "numeric_columns": [1, 2, 3, 4], "status": "matrix",
+      "rows": [
+        ["TransE", 10.7, 5.6, 36.5, 55.9],
+        ["TransH", 10.7, 5.6, 38.5, 57.9],
+        ["TransR", 9.0, 3.9, 42.7, 65.6],
+        ["KR-EAR(TransE)", 8.3, 3.2, 47.2, 69.0],
+        ["KR-EAR(TransE)+AC", 7.5, 3.0, 49.4, 70.4],
+        ["KR-EAR(TransR)", 8.3, 3.2, 47.6, 69.8],
+        ["KR-EAR(TransR)+AC", 7.5, 3.0, 49.8, 70.8]
+      ],
+      "note": "FB24K；属性预测用 Hits@1；AC 为属性相关性。"
+    },
+    {
+      "id": "TAB-B-2-17", "caption": "FB20K 上零样本实体预测的评测结果", "book": "B", "page": 66,
+      "columns": ["model", "d_e", "e_d", "d_d", "total"],
+      "numeric_columns": [1, 2, 3, 4], "status": "matrix",
+      "rows": [
+        ["Partial-CBOW", 26.5, 20.9, 67.2, 24.6],
+        ["CBOW", 27.1, 21.7, 66.6, 25.3],
+        ["Partial-CNN", 26.8, 20.8, 69.5, 24.8],
+        ["CNN", 31.2, 26.1, 72.5, 29.5]
+      ],
+      "note": "Hits@10（%）；d-d 类含较多自环关系。"
+    },
+    {
+      "id": "TAB-B-2-18", "caption": "FB20K 上零样本关系预测的评测结果", "book": "B", "page": 66,
+      "columns": ["model", "d_e", "e_d", "d_d", "total"],
+      "numeric_columns": [1, 2, 3, 4], "status": "matrix",
+      "rows": [
+        ["Partial-CBOW", 49.0, 42.2, 0.0, 46.2],
+        ["CBOW", 52.2, 47.9, 0.0, 50.3],
+        ["Partial-CNN", 56.6, 52.4, 4.0, 54.8],
+        ["CNN", 60.4, 55.5, 7.3, 58.2]
+      ],
+      "note": "Hits@1（%）；d-d 类几乎无法预测。"
+    },
+    {
+      "id": "TAB-B-2-19", "caption": "FB20K 上实体类型分类的评测结果", "book": "B", "page": 67,
+      "columns": ["model", "map"],
+      "numeric_columns": [1], "status": "matrix",
+      "rows": [["BOW", 57.5], ["DKRL(CBOW)", 52.0], ["DKRL(CNN)", 61.9]],
+      "note": "零样本实体类型分类 MAP。"
+    },
+    {
+      "id": "TAB-B-2-21", "caption": "FB15K 上关系预测的评测结果", "book": "B", "page": 71,
+      "columns": ["model", "mr_raw", "mr_filtered", "h1_raw", "h1_filtered"],
+      "numeric_columns": [1, 2, 3, 4], "status": "matrix",
+      "rows": [
+        ["TransE", 2.79, 2.43, 68.4, 87.2],
+        ["TransR", 2.49, 2.09, 70.2, 91.6],
+        ["TKRL(RHE)", 2.12, 1.73, 71.1, 92.8],
+        ["TKRL(WHE)", 2.22, 1.83, 70.8, 92.5],
+        ["TKRL(RHE+STC)", 2.38, 1.97, 68.7, 90.7],
+        ["TKRL(WHE+STC)", 2.47, 2.07, 68.3, 90.6]
+      ],
+      "note": "关系预测用 Hits@1；STC 会略降 MR。"
+    },
+    {
+      "id": "TAB-B-2-22", "caption": "测试中的实体类型限制在实体预测上的效果", "book": "B", "page": 72,
+      "columns": ["model", "mr_raw", "mr_filtered", "h10_raw", "h10_filtered"],
+      "numeric_columns": [1, 2, 3, 4], "status": "matrix",
+      "rows": [
+        ["TransE+TCE", 212, 116, 46.9, 63.4],
+        ["TransR+TCE", 182, 60, 47.9, 68.6],
+        ["TransE+STC+TCE", 203, 104, 49.8, 69.9],
+        ["TransR+STC+TCE", 185, 63, 48.5, 71.7],
+        ["TKRL(RHE+STC+TCE)", 169, 56, 51.4, 75.4],
+        ["TKRL(WHE+STC+TCE)", 170, 55, 51.3, 75.6]
+      ],
+      "note": "TCE 为测试时类型限制；TKRL 仍最好。"
+    },
+    {
+      "id": "TAB-B-5-2", "caption": "不同模型在 SemEval 2007 中文词义消歧数据集上的评测结果", "book": "B", "page": 167,
+      "columns": ["model", "accuracy"],
+      "numeric_columns": [1], "status": "matrix",
+      "rows": [
+        ["随机选择义项", 0.24],
+        ["朴素 Bayes", 0.44],
+        ["PageRank", 0.54],
+        ["义项不敏感(HowNet)", 0.56],
+        ["义项不敏感(语料库)", 0.57],
+        ["义项敏感(语料库)", 0.58]
+      ],
+      "note": "6 个词、96 个实例的平均准确率。"
+    },
+    {
+      "id": "TAB-B-6-3", "caption": "不同词性下义原预测结果", "book": "B", "page": 188,
+      "columns": ["pos", "words", "map"],
+      "numeric_columns": [1, 2], "status": "matrix",
+      "rows": [
+        ["副词", 136, 0.568],
+        ["形容词", 808, 0.544],
+        ["动词", 1867, 0.583],
+        ["名词", 3556, 0.747]
+      ],
+      "note": "名词义原最容易预测。"
+    },
+    {
+      "id": "TAB-B-6-5", "caption": "整体义原预测结果", "book": "B", "page": 193,
+      "columns": ["method", "map"],
+      "numeric_columns": [1], "status": "matrix",
+      "rows": [
+        ["SPSE", 0.411],
+        ["SPWE", 0.565],
+        ["SPWE+SPSE", 0.577],
+        ["SPWCF", 0.467],
+        ["SPCSE", 0.331],
+        ["SPWCF+SPCSE", 0.483],
+        ["SPWE+fastText", 0.531],
+        ["CSP", 0.654]
+      ],
+      "note": "CSP 融合内部字信息与外部上下文。"
+    },
+    {
+      "id": "TAB-B-7-6", "caption": "测试集上具有不同的义项数量的词的困惑度", "book": "B", "page": 228,
+      "columns": ["group", "baseline_ppl", "sdlm_ppl", "delta", "delta_pct"],
+      "numeric_columns": [1, 2, 3, 4], "status": "matrix",
+      "rows": [
+        ["义项数量=1", 93.21, 87.22, 5.99, 6.4],
+        ["义项数量>1", 121.18, 111.88, 9.29, 7.8]
+      ],
+      "note": "多义词的困惑度增益更大。"
+    },
+    {
+      "id": "TAB-B-7-8", "caption": "LCSTS 测试集上两种模型的 Rouge 值", "book": "B", "page": 229,
+      "columns": ["model", "rouge1", "rouge2", "rougeL"],
+      "numeric_columns": [1, 2, 3], "status": "matrix",
+      "rows": [
+        ["RNN-context", 37.5, 25.0, 34.9],
+        ["RNN-context-SDLM", 38.9, 26.2, 36.2]
+      ],
+      "note": "SDLM 作为解码器，三项 ROUGE 均提升。"
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+{"gold":"杭州","ranked":["上海","北京","杭州","南京"],"filtered_ranked":["杭州","上海","北京","南京"],"relation":"locatedIn"}
+{"gold":"微软","ranked":["苹果","谷歌","亚马逊","微软"],"filtered_ranked":["苹果","谷歌","微软","亚马逊"],"relation":"founder"}
+{"gold":"浙江","ranked":["浙江","江苏","上海"],"filtered_ranked":["浙江","江苏","上海"],"relation":"province"}

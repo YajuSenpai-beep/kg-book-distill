@@ -1,0 +1,15 @@
+# Local-only source-derived assets
+knowledge-base/figures/pages/
+extracted/
+.embed_cache/
+.venv-embed/
+knowledge-base/search/*_vectors.npz
+knowledge-base/search/vector_index.npz
+knowledge-base/llm/answers-generated.jsonl
+
+dist/
+knowledge-base/llm/answers-*.jsonl
+knowledge-base/llm/nli_cache.json
+
+__pycache__/
+*.pyc

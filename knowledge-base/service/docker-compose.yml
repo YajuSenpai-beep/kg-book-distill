@@ -1,0 +1,7 @@
+services:
+  kg-graph:
+    build:
+      context: ..
+      dockerfile: service/Dockerfile
+    ports:
+      - "8765:8765"
